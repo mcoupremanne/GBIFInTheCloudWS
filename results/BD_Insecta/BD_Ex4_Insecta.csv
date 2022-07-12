@@ -1,0 +1,3239 @@
+class,countryCode,decade,region,subregion,numberRecords,numberSpecimens,numberSpecies
+Insecta,AD,1900,Europe,Southern Europe,1,1,1
+Insecta,AD,1920,Europe,Southern Europe,38,38,17
+Insecta,AD,1930,Europe,Southern Europe,13,14,12
+Insecta,AD,1950,Europe,Southern Europe,81,81,22
+Insecta,AD,1960,Europe,Southern Europe,26,26,10
+Insecta,AD,1970,Europe,Southern Europe,32,35,13
+Insecta,AD,1980,Europe,Southern Europe,60,66,32
+Insecta,AD,1990,Europe,Southern Europe,10,42,6
+Insecta,AD,2000,Europe,Southern Europe,14,14,4
+Insecta,AD,2010,Europe,Southern Europe,2,2,2
+Insecta,AE,1900,Asia,Western Asia,12,12,1
+Insecta,AE,1950,Asia,Western Asia,1,1,1
+Insecta,AE,1960,Asia,Western Asia,1,1,1
+Insecta,AE,1970,Asia,Western Asia,4,5,3
+Insecta,AE,1980,Asia,Western Asia,54,79,8
+Insecta,AE,1990,Asia,Western Asia,5,5,4
+Insecta,AE,2000,Asia,Western Asia,164,196,61
+Insecta,AE,2010,Asia,Western Asia,80,99,19
+Insecta,AF,1890,Asia,Southern Asia,5,5,4
+Insecta,AF,1900,Asia,Southern Asia,2,2,2
+Insecta,AF,1910,Asia,Southern Asia,1,1,1
+Insecta,AF,1920,Asia,Southern Asia,2,2,2
+Insecta,AF,1930,Asia,Southern Asia,1,1,1
+Insecta,AF,1940,Asia,Southern Asia,1,1,1
+Insecta,AF,1950,Asia,Southern Asia,531,546,73
+Insecta,AF,1960,Asia,Southern Asia,71,402,30
+Insecta,AF,1970,Asia,Southern Asia,47,49,19
+Insecta,AF,1990,Asia,Southern Asia,1,1,1
+Insecta,AG,1890,Americas,Latin America and the Caribbean,2,2,2
+Insecta,AG,1910,Americas,Latin America and the Caribbean,27,27,8
+Insecta,AG,1920,Americas,Latin America and the Caribbean,8,8,2
+Insecta,AG,1930,Americas,Latin America and the Caribbean,23,27,10
+Insecta,AG,1940,Americas,Latin America and the Caribbean,3,3,3
+Insecta,AG,1950,Americas,Latin America and the Caribbean,16,17,8
+Insecta,AG,1960,Americas,Latin America and the Caribbean,14,14,8
+Insecta,AG,1970,Americas,Latin America and the Caribbean,18,18,15
+Insecta,AG,1980,Americas,Latin America and the Caribbean,17,17,4
+Insecta,AG,1990,Americas,Latin America and the Caribbean,3,9,1
+Insecta,AG,2000,Americas,Latin America and the Caribbean,499,889,40
+Insecta,AI,1990,Americas,Latin America and the Caribbean,1,1,1
+Insecta,AI,2000,Americas,Latin America and the Caribbean,224,353,19
+Insecta,AL,1860,Europe,Southern Europe,1,1,1
+Insecta,AL,1880,Europe,Southern Europe,1,1,1
+Insecta,AL,1910,Europe,Southern Europe,12,12,8
+Insecta,AL,1920,Europe,Southern Europe,43,47,7
+Insecta,AL,1930,Europe,Southern Europe,7,7,5
+Insecta,AL,1950,Europe,Southern Europe,39,39,16
+Insecta,AL,1960,Europe,Southern Europe,4,4,3
+Insecta,AL,1970,Europe,Southern Europe,2,2,1
+Insecta,AL,1990,Europe,Southern Europe,22,22,6
+Insecta,AL,2000,Europe,Southern Europe,13,14,4
+Insecta,AL,2010,Europe,Southern Europe,27,48,16
+Insecta,AM,1870,Asia,Western Asia,1,1,1
+Insecta,AM,1880,Asia,Western Asia,1,2,1
+Insecta,AM,1890,Asia,Western Asia,78,78,33
+Insecta,AM,1900,Asia,Western Asia,78,78,14
+Insecta,AM,1910,Asia,Western Asia,21,21,7
+Insecta,AM,1940,Asia,Western Asia,3,3,1
+Insecta,AM,1950,Asia,Western Asia,6,6,6
+Insecta,AM,1960,Asia,Western Asia,1,1,1
+Insecta,AM,1970,Asia,Western Asia,14,14,8
+Insecta,AM,1980,Asia,Western Asia,47,47,35
+Insecta,AM,1990,Asia,Western Asia,5,5,3
+Insecta,AM,2000,Asia,Western Asia,7,7,6
+Insecta,AO,1870,Africa,Sub-Saharan Africa,9,51,6
+Insecta,AO,1880,Africa,Sub-Saharan Africa,8,8,4
+Insecta,AO,1890,Africa,Sub-Saharan Africa,5,20,4
+Insecta,AO,1900,Africa,Sub-Saharan Africa,5,48,4
+Insecta,AO,1910,Africa,Sub-Saharan Africa,7,11,5
+Insecta,AO,1920,Africa,Sub-Saharan Africa,24,27,16
+Insecta,AO,1930,Africa,Sub-Saharan Africa,58,65,40
+Insecta,AO,1940,Africa,Sub-Saharan Africa,78,169,36
+Insecta,AO,1950,Africa,Sub-Saharan Africa,600,1156,304
+Insecta,AO,1960,Africa,Sub-Saharan Africa,490,510,230
+Insecta,AO,1970,Africa,Sub-Saharan Africa,980,1856,212
+Insecta,AO,1980,Africa,Sub-Saharan Africa,2,2,2
+Insecta,AO,1990,Africa,Sub-Saharan Africa,1,1,1
+Insecta,AO,2000,Africa,Sub-Saharan Africa,20,20,10
+Insecta,AO,2010,Africa,Sub-Saharan Africa,121,154,80
+Insecta,AO,2020,Africa,Sub-Saharan Africa,1,1,1
+Insecta,AQ,1960,Antarctica,Antarctica,15,15,2
+Insecta,AQ,1970,Antarctica,Antarctica,3,3,1
+Insecta,AQ,1980,Antarctica,Antarctica,5,387,2
+Insecta,AQ,2010,Antarctica,Antarctica,48,1200,1
+Insecta,AR,1700,Americas,Latin America and the Caribbean,1,1,1
+Insecta,AR,1820,Americas,Latin America and the Caribbean,7,7,6
+Insecta,AR,1830,Americas,Latin America and the Caribbean,23,26,14
+Insecta,AR,1850,Americas,Latin America and the Caribbean,9,9,4
+Insecta,AR,1860,Americas,Latin America and the Caribbean,4,5,4
+Insecta,AR,1870,Americas,Latin America and the Caribbean,2,7,2
+Insecta,AR,1880,Americas,Latin America and the Caribbean,8,9,7
+Insecta,AR,1890,Americas,Latin America and the Caribbean,30,35,24
+Insecta,AR,1900,Americas,Latin America and the Caribbean,138,165,97
+Insecta,AR,1910,Americas,Latin America and the Caribbean,169,199,86
+Insecta,AR,1920,Americas,Latin America and the Caribbean,431,470,269
+Insecta,AR,1930,Americas,Latin America and the Caribbean,233,338,158
+Insecta,AR,1940,Americas,Latin America and the Caribbean,253,388,142
+Insecta,AR,1950,Americas,Latin America and the Caribbean,595,856,190
+Insecta,AR,1960,Americas,Latin America and the Caribbean,1204,1450,257
+Insecta,AR,1970,Americas,Latin America and the Caribbean,2172,2571,415
+Insecta,AR,1980,Americas,Latin America and the Caribbean,807,1354,170
+Insecta,AR,1990,Americas,Latin America and the Caribbean,547,940,122
+Insecta,AR,2000,Americas,Latin America and the Caribbean,331,919,93
+Insecta,AR,2010,Americas,Latin America and the Caribbean,208,272,46
+Insecta,AS,1910,Oceania,Polynesia,3,3,2
+Insecta,AS,1920,Oceania,Polynesia,4,4,3
+Insecta,AS,1930,Oceania,Polynesia,10,10,5
+Insecta,AS,1940,Oceania,Polynesia,34,35,13
+Insecta,AS,1950,Oceania,Polynesia,2,2,2
+Insecta,AS,1960,Oceania,Polynesia,6,6,6
+Insecta,AS,1970,Oceania,Polynesia,1,1,1
+Insecta,AS,1990,Oceania,Polynesia,507,1237,28
+Insecta,AS,2000,Oceania,Polynesia,2,2,2
+Insecta,AT,1850,Europe,Western Europe,5,5,2
+Insecta,AT,1860,Europe,Western Europe,4,4,2
+Insecta,AT,1870,Europe,Western Europe,87,87,41
+Insecta,AT,1880,Europe,Western Europe,99,123,68
+Insecta,AT,1890,Europe,Western Europe,710,714,209
+Insecta,AT,1900,Europe,Western Europe,277,285,114
+Insecta,AT,1910,Europe,Western Europe,248,251,107
+Insecta,AT,1920,Europe,Western Europe,3345,3363,133
+Insecta,AT,1930,Europe,Western Europe,403,415,159
+Insecta,AT,1940,Europe,Western Europe,392,446,130
+Insecta,AT,1950,Europe,Western Europe,2883,2906,337
+Insecta,AT,1960,Europe,Western Europe,2429,2451,434
+Insecta,AT,1970,Europe,Western Europe,2416,2432,526
+Insecta,AT,1980,Europe,Western Europe,2196,2267,620
+Insecta,AT,1990,Europe,Western Europe,348,359,138
+Insecta,AT,2000,Europe,Western Europe,694,1555,157
+Insecta,AT,2010,Europe,Western Europe,217,421,110
+Insecta,AT,2020,Europe,Western Europe,2,2,2
+Insecta,AU,1700,Oceania,Australia and New Zealand,1,1,1
+Insecta,AU,1790,Oceania,Australia and New Zealand,3,3,2
+Insecta,AU,1810,Oceania,Australia and New Zealand,3,3,3
+Insecta,AU,1820,Oceania,Australia and New Zealand,3,3,3
+Insecta,AU,1830,Oceania,Australia and New Zealand,44,44,38
+Insecta,AU,1840,Oceania,Australia and New Zealand,83,88,42
+Insecta,AU,1850,Oceania,Australia and New Zealand,21,25,10
+Insecta,AU,1860,Oceania,Australia and New Zealand,47,48,24
+Insecta,AU,1870,Oceania,Australia and New Zealand,24,27,21
+Insecta,AU,1880,Oceania,Australia and New Zealand,378,473,192
+Insecta,AU,1890,Oceania,Australia and New Zealand,3221,3470,1145
+Insecta,AU,1900,Oceania,Australia and New Zealand,12369,13862,3089
+Insecta,AU,1910,Oceania,Australia and New Zealand,13778,15761,3704
+Insecta,AU,1920,Oceania,Australia and New Zealand,15889,19764,4356
+Insecta,AU,1930,Oceania,Australia and New Zealand,17113,22738,3761
+Insecta,AU,1940,Oceania,Australia and New Zealand,16953,23522,3011
+Insecta,AU,1950,Oceania,Australia and New Zealand,41554,57114,4686
+Insecta,AU,1960,Oceania,Australia and New Zealand,41327,87305,4431
+Insecta,AU,1970,Oceania,Australia and New Zealand,75800,193423,5364
+Insecta,AU,1980,Oceania,Australia and New Zealand,61086,160597,4810
+Insecta,AU,1990,Oceania,Australia and New Zealand,43194,95980,3204
+Insecta,AU,2000,Oceania,Australia and New Zealand,16209,28033,1797
+Insecta,AU,2010,Oceania,Australia and New Zealand,5371,14854,1297
+Insecta,AU,2020,Oceania,Australia and New Zealand,1153,1161,69
+Insecta,AW,1900,Americas,Latin America and the Caribbean,1,1,1
+Insecta,AW,1940,Americas,Latin America and the Caribbean,1,8,1
+Insecta,AW,1950,Americas,Latin America and the Caribbean,1,10,1
+Insecta,AW,1970,Americas,Latin America and the Caribbean,1,1,1
+Insecta,AW,2000,Americas,Latin America and the Caribbean,158,309,17
+Insecta,AW,2020,Americas,Latin America and the Caribbean,1,11,1
+Insecta,AX,1900,Europe,Northern Europe,25,25,22
+Insecta,AX,1910,Europe,Northern Europe,27,31,18
+Insecta,AX,1920,Europe,Northern Europe,82,82,58
+Insecta,AX,1930,Europe,Northern Europe,47,48,28
+Insecta,AX,1940,Europe,Northern Europe,189,189,92
+Insecta,AX,1950,Europe,Northern Europe,83,83,53
+Insecta,AX,1960,Europe,Northern Europe,29,29,21
+Insecta,AX,1970,Europe,Northern Europe,30,30,24
+Insecta,AX,1980,Europe,Northern Europe,39,144,28
+Insecta,AX,1990,Europe,Northern Europe,8,9,7
+Insecta,AX,2000,Europe,Northern Europe,7,7,4
+Insecta,AX,2010,Europe,Northern Europe,47,47,15
+Insecta,AZ,1870,Asia,Western Asia,37,37,3
+Insecta,AZ,1880,Asia,Western Asia,84,89,16
+Insecta,AZ,1890,Asia,Western Asia,136,151,31
+Insecta,AZ,1900,Asia,Western Asia,2,2,2
+Insecta,AZ,1910,Asia,Western Asia,1,1,1
+Insecta,AZ,1930,Asia,Western Asia,1,1,1
+Insecta,AZ,1950,Asia,Western Asia,5,5,4
+Insecta,AZ,1960,Asia,Western Asia,4,4,3
+Insecta,AZ,1970,Asia,Western Asia,5,5,4
+Insecta,AZ,1980,Asia,Western Asia,42,42,26
+Insecta,AZ,1990,Asia,Western Asia,53,53,7
+Insecta,AZ,2020,Asia,Western Asia,1,1,1
+Insecta,BA,1880,Europe,Southern Europe,1,1,1
+Insecta,BA,1890,Europe,Southern Europe,10,10,8
+Insecta,BA,1900,Europe,Southern Europe,35,37,29
+Insecta,BA,1910,Europe,Southern Europe,26,26,17
+Insecta,BA,1920,Europe,Southern Europe,4,4,3
+Insecta,BA,1930,Europe,Southern Europe,19,21,10
+Insecta,BA,1940,Europe,Southern Europe,6,6,4
+Insecta,BA,1950,Europe,Southern Europe,92,95,27
+Insecta,BA,1960,Europe,Southern Europe,285,285,84
+Insecta,BA,1970,Europe,Southern Europe,146,146,79
+Insecta,BA,1980,Europe,Southern Europe,187,187,60
+Insecta,BA,1990,Europe,Southern Europe,3,3,3
+Insecta,BA,2000,Europe,Southern Europe,77,77,27
+Insecta,BA,2010,Europe,Southern Europe,1,1,1
+Insecta,BB,1900,Americas,Latin America and the Caribbean,6,6,3
+Insecta,BB,1910,Americas,Latin America and the Caribbean,21,27,8
+Insecta,BB,1920,Americas,Latin America and the Caribbean,7,13,2
+Insecta,BB,1930,Americas,Latin America and the Caribbean,8,8,7
+Insecta,BB,1940,Americas,Latin America and the Caribbean,10,43,4
+Insecta,BB,1950,Americas,Latin America and the Caribbean,4,4,2
+Insecta,BB,1960,Americas,Latin America and the Caribbean,18,37,8
+Insecta,BB,1970,Americas,Latin America and the Caribbean,14,16,9
+Insecta,BB,1980,Americas,Latin America and the Caribbean,36,43,11
+Insecta,BB,1990,Americas,Latin America and the Caribbean,282,1714,50
+Insecta,BB,2000,Americas,Latin America and the Caribbean,1061,1487,54
+Insecta,BB,2010,Americas,Latin America and the Caribbean,89,151,11
+Insecta,BD,1840,Asia,Southern Asia,1,1,1
+Insecta,BD,1850,Asia,Southern Asia,1,1,1
+Insecta,BD,1880,Asia,Southern Asia,3,3,1
+Insecta,BD,1900,Asia,Southern Asia,7,7,1
+Insecta,BD,1910,Asia,Southern Asia,1,1,1
+Insecta,BD,1920,Asia,Southern Asia,1,1,1
+Insecta,BD,1930,Asia,Southern Asia,2,2,2
+Insecta,BD,1940,Asia,Southern Asia,3,3,2
+Insecta,BD,1950,Asia,Southern Asia,108,245,8
+Insecta,BD,1960,Asia,Southern Asia,186,194,14
+Insecta,BD,1970,Asia,Southern Asia,39,39,3
+Insecta,BD,1980,Asia,Southern Asia,36,36,5
+Insecta,BE,1800,Europe,Western Europe,217,788,37
+Insecta,BE,1810,Europe,Western Europe,2,2,2
+Insecta,BE,1820,Europe,Western Europe,1,2,1
+Insecta,BE,1830,Europe,Western Europe,559,654,95
+Insecta,BE,1840,Europe,Western Europe,55,61,29
+Insecta,BE,1850,Europe,Western Europe,589,659,71
+Insecta,BE,1860,Europe,Western Europe,749,1131,218
+Insecta,BE,1870,Europe,Western Europe,3050,4573,429
+Insecta,BE,1880,Europe,Western Europe,2324,3256,375
+Insecta,BE,1890,Europe,Western Europe,5543,8520,777
+Insecta,BE,1900,Europe,Western Europe,4788,6424,1232
+Insecta,BE,1910,Europe,Western Europe,17565,57227,1356
+Insecta,BE,1920,Europe,Western Europe,9496,21754,1549
+Insecta,BE,1930,Europe,Western Europe,13777,20167,1342
+Insecta,BE,1940,Europe,Western Europe,15795,31191,1791
+Insecta,BE,1950,Europe,Western Europe,10057,14813,1372
+Insecta,BE,1960,Europe,Western Europe,19032,30362,746
+Insecta,BE,1970,Europe,Western Europe,29290,44670,995
+Insecta,BE,1980,Europe,Western Europe,37040,63066,712
+Insecta,BE,1990,Europe,Western Europe,26217,46632,633
+Insecta,BE,2000,Europe,Western Europe,25975,66747,693
+Insecta,BE,2010,Europe,Western Europe,21095,50520,712
+Insecta,BE,2020,Europe,Western Europe,70,206,27
+Insecta,BF,1870,Africa,Sub-Saharan Africa,1,1,1
+Insecta,BF,1920,Africa,Sub-Saharan Africa,8,8,5
+Insecta,BF,1950,Africa,Sub-Saharan Africa,7,7,4
+Insecta,BF,1960,Africa,Sub-Saharan Africa,623,642,9
+Insecta,BF,1970,Africa,Sub-Saharan Africa,90,93,41
+Insecta,BF,1980,Africa,Sub-Saharan Africa,85,105,25
+Insecta,BF,1990,Africa,Sub-Saharan Africa,12,40,5
+Insecta,BF,2000,Africa,Sub-Saharan Africa,13,119,10
+Insecta,BF,2010,Africa,Sub-Saharan Africa,3,31,2
+Insecta,BG,1870,Europe,Eastern Europe,1,1,1
+Insecta,BG,1890,Europe,Eastern Europe,47,51,18
+Insecta,BG,1900,Europe,Eastern Europe,548,548,30
+Insecta,BG,1910,Europe,Eastern Europe,301,301,31
+Insecta,BG,1920,Europe,Eastern Europe,88,90,15
+Insecta,BG,1930,Europe,Eastern Europe,145,152,41
+Insecta,BG,1940,Europe,Eastern Europe,10,12,8
+Insecta,BG,1950,Europe,Eastern Europe,27,33,15
+Insecta,BG,1960,Europe,Eastern Europe,101,134,45
+Insecta,BG,1970,Europe,Eastern Europe,608,659,180
+Insecta,BG,1980,Europe,Eastern Europe,2287,2336,469
+Insecta,BG,1990,Europe,Eastern Europe,409,420,196
+Insecta,BG,2000,Europe,Eastern Europe,92,101,51
+Insecta,BG,2010,Europe,Eastern Europe,65,240,43
+Insecta,BG,2020,Europe,Eastern Europe,15,15,10
+Insecta,BH,1930,Asia,Western Asia,2,2,2
+Insecta,BH,1950,Asia,Western Asia,6,9,3
+Insecta,BH,1970,Asia,Western Asia,5,5,1
+Insecta,BI,1910,Africa,Sub-Saharan Africa,2,2,2
+Insecta,BI,1920,Africa,Sub-Saharan Africa,1,1,1
+Insecta,BI,1930,Africa,Sub-Saharan Africa,13,19,10
+Insecta,BI,1940,Africa,Sub-Saharan Africa,13,15,8
+Insecta,BI,1950,Africa,Sub-Saharan Africa,136,199,35
+Insecta,BI,1960,Africa,Sub-Saharan Africa,2199,2338,40
+Insecta,BI,1970,Africa,Sub-Saharan Africa,40,138,11
+Insecta,BI,1980,Africa,Sub-Saharan Africa,164,183,45
+Insecta,BI,1990,Africa,Sub-Saharan Africa,25,25,10
+Insecta,BI,2000,Africa,Sub-Saharan Africa,8,147,6
+Insecta,BI,2010,Africa,Sub-Saharan Africa,121,46055,29
+Insecta,BJ,1880,Africa,Sub-Saharan Africa,1,1,1
+Insecta,BJ,1890,Africa,Sub-Saharan Africa,1,11,1
+Insecta,BJ,1900,Africa,Sub-Saharan Africa,8,84,5
+Insecta,BJ,1910,Africa,Sub-Saharan Africa,4,31,3
+Insecta,BJ,1920,Africa,Sub-Saharan Africa,1,1,1
+Insecta,BJ,1950,Africa,Sub-Saharan Africa,12,12,9
+Insecta,BJ,1960,Africa,Sub-Saharan Africa,18,29,8
+Insecta,BJ,1970,Africa,Sub-Saharan Africa,8,8,7
+Insecta,BJ,1980,Africa,Sub-Saharan Africa,138,138,38
+Insecta,BJ,1990,Africa,Sub-Saharan Africa,203,226,66
+Insecta,BJ,2000,Africa,Sub-Saharan Africa,1088,4563,111
+Insecta,BJ,2010,Africa,Sub-Saharan Africa,150,153,36
+Insecta,BL,1970,Americas,Latin America and the Caribbean,21,21,4
+Insecta,BL,1980,Americas,Latin America and the Caribbean,1,1,1
+Insecta,BM,1700,Americas,Northern America,1,3,1
+Insecta,BM,1870,Americas,Northern America,2,5,1
+Insecta,BM,1900,Americas,Northern America,18,18,8
+Insecta,BM,1910,Americas,Northern America,1,1,1
+Insecta,BM,1920,Americas,Northern America,51,51,3
+Insecta,BM,1930,Americas,Northern America,11,21,1
+Insecta,BM,1940,Americas,Northern America,15,15,8
+Insecta,BM,1950,Americas,Northern America,14,14,7
+Insecta,BM,1960,Americas,Northern America,1,1,1
+Insecta,BM,2000,Americas,Northern America,49,97,4
+Insecta,BN,1890,Asia,South-eastern Asia,4,4,1
+Insecta,BN,1900,Asia,South-eastern Asia,2,2,2
+Insecta,BN,1970,Asia,South-eastern Asia,12,12,9
+Insecta,BN,1980,Asia,South-eastern Asia,26,25,19
+Insecta,BN,1990,Asia,South-eastern Asia,49,49,19
+Insecta,BN,2000,Asia,South-eastern Asia,12,50,10
+Insecta,BN,2010,Asia,South-eastern Asia,18,18,11
+Insecta,BO,1800,Americas,Latin America and the Caribbean,1,1,1
+Insecta,BO,1820,Americas,Latin America and the Caribbean,6,6,3
+Insecta,BO,1830,Americas,Latin America and the Caribbean,42,43,30
+Insecta,BO,1860,Americas,Latin America and the Caribbean,2,17,2
+Insecta,BO,1880,Americas,Latin America and the Caribbean,27,62,19
+Insecta,BO,1890,Americas,Latin America and the Caribbean,1795,1815,636
+Insecta,BO,1900,Americas,Latin America and the Caribbean,16,18,15
+Insecta,BO,1910,Americas,Latin America and the Caribbean,117,117,80
+Insecta,BO,1920,Americas,Latin America and the Caribbean,153,606,102
+Insecta,BO,1930,Americas,Latin America and the Caribbean,345,376,145
+Insecta,BO,1940,Americas,Latin America and the Caribbean,154,209,88
+Insecta,BO,1950,Americas,Latin America and the Caribbean,769,806,310
+Insecta,BO,1960,Americas,Latin America and the Caribbean,979,1639,238
+Insecta,BO,1970,Americas,Latin America and the Caribbean,293,298,165
+Insecta,BO,1980,Americas,Latin America and the Caribbean,959,995,281
+Insecta,BO,1990,Americas,Latin America and the Caribbean,1591,1775,244
+Insecta,BO,2000,Americas,Latin America and the Caribbean,1449,2063,346
+Insecta,BO,2010,Americas,Latin America and the Caribbean,31,871,22
+Insecta,BO,2020,Americas,Latin America and the Caribbean,7,17,2
+Insecta,BQ,1930,Americas,Latin America and the Caribbean,2,2,2
+Insecta,BQ,1970,Americas,Latin America and the Caribbean,3,5,3
+Insecta,BQ,1980,Americas,Latin America and the Caribbean,4,4,1
+Insecta,BQ,1990,Americas,Latin America and the Caribbean,7,15,7
+Insecta,BQ,2000,Americas,Latin America and the Caribbean,166,294,21
+Insecta,BQ,2010,Americas,Latin America and the Caribbean,35,211,5
+Insecta,BR,1700,Americas,Latin America and the Caribbean,7,7,4
+Insecta,BR,1810,Americas,Latin America and the Caribbean,6,6,3
+Insecta,BR,1820,Americas,Latin America and the Caribbean,46,46,43
+Insecta,BR,1830,Americas,Latin America and the Caribbean,65,66,50
+Insecta,BR,1840,Americas,Latin America and the Caribbean,17,17,17
+Insecta,BR,1850,Americas,Latin America and the Caribbean,50,54,25
+Insecta,BR,1860,Americas,Latin America and the Caribbean,653,656,257
+Insecta,BR,1870,Americas,Latin America and the Caribbean,209,210,111
+Insecta,BR,1880,Americas,Latin America and the Caribbean,140,172,83
+Insecta,BR,1890,Americas,Latin America and the Caribbean,205,294,127
+Insecta,BR,1900,Americas,Latin America and the Caribbean,750,865,482
+Insecta,BR,1910,Americas,Latin America and the Caribbean,1684,2058,767
+Insecta,BR,1920,Americas,Latin America and the Caribbean,4132,5915,1573
+Insecta,BR,1930,Americas,Latin America and the Caribbean,5143,8883,1784
+Insecta,BR,1940,Americas,Latin America and the Caribbean,3765,5023,1241
+Insecta,BR,1950,Americas,Latin America and the Caribbean,14605,16574,1561
+Insecta,BR,1960,Americas,Latin America and the Caribbean,22493,26534,1804
+Insecta,BR,1970,Americas,Latin America and the Caribbean,11072,14363,1283
+Insecta,BR,1980,Americas,Latin America and the Caribbean,14148,18034,999
+Insecta,BR,1990,Americas,Latin America and the Caribbean,16548,21590,1170
+Insecta,BR,2000,Americas,Latin America and the Caribbean,27850,36170,1226
+Insecta,BR,2010,Americas,Latin America and the Caribbean,8270,14889,1076
+Insecta,BR,2020,Americas,Latin America and the Caribbean,11,11,10
+Insecta,BS,1700,Americas,Latin America and the Caribbean,1,1,1
+Insecta,BS,1880,Americas,Latin America and the Caribbean,6,6,5
+Insecta,BS,1890,Americas,Latin America and the Caribbean,77,77,25
+Insecta,BS,1900,Americas,Latin America and the Caribbean,138,459,48
+Insecta,BS,1910,Americas,Latin America and the Caribbean,28,28,21
+Insecta,BS,1920,Americas,Latin America and the Caribbean,1,1,1
+Insecta,BS,1930,Americas,Latin America and the Caribbean,405,485,73
+Insecta,BS,1940,Americas,Latin America and the Caribbean,3,7,3
+Insecta,BS,1950,Americas,Latin America and the Caribbean,100,170,56
+Insecta,BS,1960,Americas,Latin America and the Caribbean,207,212,32
+Insecta,BS,1970,Americas,Latin America and the Caribbean,43,44,26
+Insecta,BS,1980,Americas,Latin America and the Caribbean,183,192,44
+Insecta,BS,1990,Americas,Latin America and the Caribbean,152,394,49
+Insecta,BS,2000,Americas,Latin America and the Caribbean,31,48,16
+Insecta,BS,2010,Americas,Latin America and the Caribbean,97,168,19
+Insecta,BT,1880,Asia,Southern Asia,1,1,1
+Insecta,BT,1890,Asia,Southern Asia,5,5,3
+Insecta,BT,1900,Asia,Southern Asia,4,4,3
+Insecta,BT,1910,Asia,Southern Asia,77,77,3
+Insecta,BT,1960,Asia,Southern Asia,2,2,2
+Insecta,BT,1970,Asia,Southern Asia,37,37,10
+Insecta,BT,1980,Asia,Southern Asia,18,18,7
+Insecta,BT,1990,Asia,Southern Asia,105,105,15
+Insecta,BT,2000,Asia,Southern Asia,35,36,19
+Insecta,BW,1860,Africa,Sub-Saharan Africa,1,1,1
+Insecta,BW,1890,Africa,Sub-Saharan Africa,1,1,1
+Insecta,BW,1900,Africa,Sub-Saharan Africa,16,56,9
+Insecta,BW,1910,Africa,Sub-Saharan Africa,4,8,3
+Insecta,BW,1920,Africa,Sub-Saharan Africa,10,10,6
+Insecta,BW,1930,Africa,Sub-Saharan Africa,118,726,49
+Insecta,BW,1940,Africa,Sub-Saharan Africa,6,6,5
+Insecta,BW,1950,Africa,Sub-Saharan Africa,55,228,35
+Insecta,BW,1960,Africa,Sub-Saharan Africa,772,777,19
+Insecta,BW,1970,Africa,Sub-Saharan Africa,964,1952,206
+Insecta,BW,1980,Africa,Sub-Saharan Africa,473,673,119
+Insecta,BW,1990,Africa,Sub-Saharan Africa,98,185,45
+Insecta,BW,2000,Africa,Sub-Saharan Africa,171,670,95
+Insecta,BW,2010,Africa,Sub-Saharan Africa,72,72,39
+Insecta,BY,1860,Europe,Eastern Europe,4,4,3
+Insecta,BY,1870,Europe,Eastern Europe,2,2,2
+Insecta,BY,1880,Europe,Eastern Europe,36,36,29
+Insecta,BY,1890,Europe,Eastern Europe,1,1,1
+Insecta,BY,1900,Europe,Eastern Europe,42,42,26
+Insecta,BY,1910,Europe,Eastern Europe,5,5,5
+Insecta,BY,1920,Europe,Eastern Europe,9,9,7
+Insecta,BY,1930,Europe,Eastern Europe,45,60,21
+Insecta,BY,1940,Europe,Eastern Europe,1,1,1
+Insecta,BY,1950,Europe,Eastern Europe,1,1,1
+Insecta,BY,1960,Europe,Eastern Europe,2,2,2
+Insecta,BY,1970,Europe,Eastern Europe,3,3,3
+Insecta,BY,1980,Europe,Eastern Europe,7,7,4
+Insecta,BY,2000,Europe,Eastern Europe,6,6,2
+Insecta,BY,2010,Europe,Eastern Europe,61,115,38
+Insecta,BZ,1880,Americas,Latin America and the Caribbean,3,3,1
+Insecta,BZ,1890,Americas,Latin America and the Caribbean,4,4,3
+Insecta,BZ,1900,Americas,Latin America and the Caribbean,81,81,43
+Insecta,BZ,1910,Americas,Latin America and the Caribbean,2,2,2
+Insecta,BZ,1920,Americas,Latin America and the Caribbean,4,4,4
+Insecta,BZ,1930,Americas,Latin America and the Caribbean,19,47,14
+Insecta,BZ,1940,Americas,Latin America and the Caribbean,21,21,2
+Insecta,BZ,1950,Americas,Latin America and the Caribbean,30,30,23
+Insecta,BZ,1960,Americas,Latin America and the Caribbean,739,764,171
+Insecta,BZ,1970,Americas,Latin America and the Caribbean,519,1323,130
+Insecta,BZ,1980,Americas,Latin America and the Caribbean,307,363,137
+Insecta,BZ,1990,Americas,Latin America and the Caribbean,348,375,106
+Insecta,BZ,2000,Americas,Latin America and the Caribbean,257,257,54
+Insecta,BZ,2010,Americas,Latin America and the Caribbean,323,323,42
+Insecta,BZ,2020,Americas,Latin America and the Caribbean,1,271,1
+Insecta,CA,1700,Americas,Northern America,1,2,1
+Insecta,CA,1770,Americas,Northern America,1,1,1
+Insecta,CA,1810,Americas,Northern America,1,1,1
+Insecta,CA,1820,Americas,Northern America,1,1,1
+Insecta,CA,1830,Americas,Northern America,5,7,4
+Insecta,CA,1840,Americas,Northern America,2,2,2
+Insecta,CA,1850,Americas,Northern America,46,48,19
+Insecta,CA,1860,Americas,Northern America,31,33,21
+Insecta,CA,1870,Americas,Northern America,33,34,24
+Insecta,CA,1880,Americas,Northern America,84,84,52
+Insecta,CA,1890,Americas,Northern America,733,755,277
+Insecta,CA,1900,Americas,Northern America,3804,5651,921
+Insecta,CA,1910,Americas,Northern America,9645,10401,1763
+Insecta,CA,1920,Americas,Northern America,15646,16367,2812
+Insecta,CA,1930,Americas,Northern America,14234,18851,2578
+Insecta,CA,1940,Americas,Northern America,12195,15784,2207
+Insecta,CA,1950,Americas,Northern America,50920,86195,2767
+Insecta,CA,1960,Americas,Northern America,34126,99903,2871
+Insecta,CA,1970,Americas,Northern America,73063,172932,3353
+Insecta,CA,1980,Americas,Northern America,41880,88692,3103
+Insecta,CA,1990,Americas,Northern America,52053,60528,3206
+Insecta,CA,2000,Americas,Northern America,103042,106522,4471
+Insecta,CA,2010,Americas,Northern America,9723,10372,1206
+Insecta,CA,2020,Americas,Northern America,39,426,27
+Insecta,CC,1900,Oceania,Australia and New Zealand,1,2,1
+Insecta,CC,1930,Oceania,Australia and New Zealand,2,2,1
+Insecta,CC,1950,Oceania,Australia and New Zealand,52,58,6
+Insecta,CC,1960,Oceania,Australia and New Zealand,16,46,6
+Insecta,CC,1980,Oceania,Australia and New Zealand,2,10,2
+Insecta,CC,2000,Oceania,Australia and New Zealand,1,1,1
+Insecta,CD,1850,Africa,Sub-Saharan Africa,1,1,1
+Insecta,CD,1870,Africa,Sub-Saharan Africa,3,4,3
+Insecta,CD,1880,Africa,Sub-Saharan Africa,5,6,3
+Insecta,CD,1890,Africa,Sub-Saharan Africa,106,156,54
+Insecta,CD,1900,Africa,Sub-Saharan Africa,258,441,72
+Insecta,CD,1910,Africa,Sub-Saharan Africa,1459,1817,231
+Insecta,CD,1920,Africa,Sub-Saharan Africa,2756,3801,281
+Insecta,CD,1930,Africa,Sub-Saharan Africa,5361,11861,413
+Insecta,CD,1940,Africa,Sub-Saharan Africa,2682,4195,367
+Insecta,CD,1950,Africa,Sub-Saharan Africa,9410,11007,674
+Insecta,CD,1960,Africa,Sub-Saharan Africa,1093,1414,387
+Insecta,CD,1970,Africa,Sub-Saharan Africa,238,299,96
+Insecta,CD,1980,Africa,Sub-Saharan Africa,76,79,44
+Insecta,CD,1990,Africa,Sub-Saharan Africa,26,28,20
+Insecta,CD,2000,Africa,Sub-Saharan Africa,104,744,37
+Insecta,CD,2010,Africa,Sub-Saharan Africa,1392,3078,209
+Insecta,CD,2020,Africa,Sub-Saharan Africa,1,2,1
+Insecta,CF,1870,Africa,Sub-Saharan Africa,1,1,1
+Insecta,CF,1880,Africa,Sub-Saharan Africa,3,3,2
+Insecta,CF,1890,Africa,Sub-Saharan Africa,4,15,3
+Insecta,CF,1900,Africa,Sub-Saharan Africa,69,74,26
+Insecta,CF,1910,Africa,Sub-Saharan Africa,5,5,4
+Insecta,CF,1920,Africa,Sub-Saharan Africa,1,1,1
+Insecta,CF,1930,Africa,Sub-Saharan Africa,6,7,4
+Insecta,CF,1940,Africa,Sub-Saharan Africa,4,4,3
+Insecta,CF,1950,Africa,Sub-Saharan Africa,16,25,8
+Insecta,CF,1960,Africa,Sub-Saharan Africa,739,819,195
+Insecta,CF,1970,Africa,Sub-Saharan Africa,376,392,192
+Insecta,CF,1980,Africa,Sub-Saharan Africa,101,105,35
+Insecta,CF,1990,Africa,Sub-Saharan Africa,124,124,35
+Insecta,CF,2000,Africa,Sub-Saharan Africa,46,47,25
+Insecta,CF,2010,Africa,Sub-Saharan Africa,2,2,1
+Insecta,CF,2020,Africa,Sub-Saharan Africa,1,5,1
+Insecta,CG,1870,Africa,Sub-Saharan Africa,1,1,1
+Insecta,CG,1880,Africa,Sub-Saharan Africa,22,56,9
+Insecta,CG,1890,Africa,Sub-Saharan Africa,31,92,18
+Insecta,CG,1900,Africa,Sub-Saharan Africa,15,20,11
+Insecta,CG,1910,Africa,Sub-Saharan Africa,12,12,11
+Insecta,CG,1920,Africa,Sub-Saharan Africa,19,22,17
+Insecta,CG,1930,Africa,Sub-Saharan Africa,41,97,34
+Insecta,CG,1940,Africa,Sub-Saharan Africa,40,67,32
+Insecta,CG,1950,Africa,Sub-Saharan Africa,209,228,124
+Insecta,CG,1960,Africa,Sub-Saharan Africa,1205,1336,386
+Insecta,CG,1970,Africa,Sub-Saharan Africa,22,32,17
+Insecta,CG,1980,Africa,Sub-Saharan Africa,299,300,43
+Insecta,CG,1990,Africa,Sub-Saharan Africa,7,8,4
+Insecta,CG,2000,Africa,Sub-Saharan Africa,10,24,7
+Insecta,CG,2010,Africa,Sub-Saharan Africa,15,106,10
+Insecta,CH,1700,Europe,Western Europe,1,3,1
+Insecta,CH,1770,Europe,Western Europe,1,1,1
+Insecta,CH,1820,Europe,Western Europe,2,2,1
+Insecta,CH,1840,Europe,Western Europe,1,1,1
+Insecta,CH,1850,Europe,Western Europe,3,3,3
+Insecta,CH,1860,Europe,Western Europe,13,13,9
+Insecta,CH,1870,Europe,Western Europe,135,136,38
+Insecta,CH,1880,Europe,Western Europe,1667,1689,159
+Insecta,CH,1890,Europe,Western Europe,1381,1387,127
+Insecta,CH,1900,Europe,Western Europe,2550,2961,153
+Insecta,CH,1910,Europe,Western Europe,3701,3701,109
+Insecta,CH,1920,Europe,Western Europe,3673,3684,208
+Insecta,CH,1930,Europe,Western Europe,2211,2224,93
+Insecta,CH,1940,Europe,Western Europe,1048,1063,210
+Insecta,CH,1950,Europe,Western Europe,2587,2734,203
+Insecta,CH,1960,Europe,Western Europe,910,982,286
+Insecta,CH,1970,Europe,Western Europe,2192,2241,365
+Insecta,CH,1980,Europe,Western Europe,1717,1778,303
+Insecta,CH,1990,Europe,Western Europe,159,172,75
+Insecta,CH,2000,Europe,Western Europe,310,313,56
+Insecta,CH,2010,Europe,Western Europe,75,93,10
+Insecta,CH,2020,Europe,Western Europe,3,3,2
+Insecta,CI,1690,Africa,Sub-Saharan Africa,1,1,1
+Insecta,CI,1850,Africa,Sub-Saharan Africa,1,1,1
+Insecta,CI,1880,Africa,Sub-Saharan Africa,11,34,9
+Insecta,CI,1890,Africa,Sub-Saharan Africa,1,4,1
+Insecta,CI,1900,Africa,Sub-Saharan Africa,9,16,8
+Insecta,CI,1910,Africa,Sub-Saharan Africa,13,15,9
+Insecta,CI,1920,Africa,Sub-Saharan Africa,5,6,5
+Insecta,CI,1930,Africa,Sub-Saharan Africa,12,12,11
+Insecta,CI,1940,Africa,Sub-Saharan Africa,26,27,20
+Insecta,CI,1950,Africa,Sub-Saharan Africa,56,64,36
+Insecta,CI,1960,Africa,Sub-Saharan Africa,1022,1468,265
+Insecta,CI,1970,Africa,Sub-Saharan Africa,630,955,140
+Insecta,CI,1980,Africa,Sub-Saharan Africa,425,470,129
+Insecta,CI,1990,Africa,Sub-Saharan Africa,6646,6882,106
+Insecta,CI,2000,Africa,Sub-Saharan Africa,376,1457,70
+Insecta,CI,2010,Africa,Sub-Saharan Africa,2582,2582,322
+Insecta,CK,1890,Oceania,Polynesia,1,1,1
+Insecta,CK,1900,Oceania,Polynesia,3,3,1
+Insecta,CK,1910,Oceania,Polynesia,3,9,1
+Insecta,CK,1920,Oceania,Polynesia,16,38,5
+Insecta,CK,1950,Oceania,Polynesia,3,3,3
+Insecta,CK,1960,Oceania,Polynesia,43,76,11
+Insecta,CK,1970,Oceania,Polynesia,20,24,3
+Insecta,CK,1980,Oceania,Polynesia,22,22,1
+Insecta,CK,1990,Oceania,Polynesia,5,5,2
+Insecta,CK,2000,Oceania,Polynesia,4,4,2
+Insecta,CL,1820,Americas,Latin America and the Caribbean,1,1,1
+Insecta,CL,1830,Americas,Latin America and the Caribbean,42,42,32
+Insecta,CL,1840,Americas,Latin America and the Caribbean,122,125,65
+Insecta,CL,1850,Americas,Latin America and the Caribbean,8,8,6
+Insecta,CL,1860,Americas,Latin America and the Caribbean,2,2,2
+Insecta,CL,1870,Americas,Latin America and the Caribbean,10,10,5
+Insecta,CL,1880,Americas,Latin America and the Caribbean,144,147,68
+Insecta,CL,1890,Americas,Latin America and the Caribbean,46,46,31
+Insecta,CL,1900,Americas,Latin America and the Caribbean,117,119,52
+Insecta,CL,1910,Americas,Latin America and the Caribbean,141,142,50
+Insecta,CL,1920,Americas,Latin America and the Caribbean,369,406,210
+Insecta,CL,1930,Americas,Latin America and the Caribbean,439,458,132
+Insecta,CL,1940,Americas,Latin America and the Caribbean,499,516,126
+Insecta,CL,1950,Americas,Latin America and the Caribbean,3809,4427,555
+Insecta,CL,1960,Americas,Latin America and the Caribbean,14052,14130,574
+Insecta,CL,1970,Americas,Latin America and the Caribbean,16457,16546,423
+Insecta,CL,1980,Americas,Latin America and the Caribbean,16754,17198,376
+Insecta,CL,1990,Americas,Latin America and the Caribbean,1776,1998,265
+Insecta,CL,2000,Americas,Latin America and the Caribbean,24164,42036,502
+Insecta,CL,2010,Americas,Latin America and the Caribbean,1237,1383,156
+Insecta,CM,1870,Africa,Sub-Saharan Africa,1,3,1
+Insecta,CM,1890,Africa,Sub-Saharan Africa,43,108,26
+Insecta,CM,1900,Africa,Sub-Saharan Africa,48,53,32
+Insecta,CM,1910,Africa,Sub-Saharan Africa,190,200,137
+Insecta,CM,1920,Africa,Sub-Saharan Africa,105,113,73
+Insecta,CM,1930,Africa,Sub-Saharan Africa,298,498,94
+Insecta,CM,1940,Africa,Sub-Saharan Africa,36,54,22
+Insecta,CM,1950,Africa,Sub-Saharan Africa,338,369,137
+Insecta,CM,1960,Africa,Sub-Saharan Africa,290,541,137
+Insecta,CM,1970,Africa,Sub-Saharan Africa,906,924,202
+Insecta,CM,1980,Africa,Sub-Saharan Africa,311,903,109
+Insecta,CM,1990,Africa,Sub-Saharan Africa,298,351,131
+Insecta,CM,2000,Africa,Sub-Saharan Africa,548,2892,131
+Insecta,CM,2010,Africa,Sub-Saharan Africa,463,3324,62
+Insecta,CM,2020,Africa,Sub-Saharan Africa,4,8,2
+Insecta,CN,1700,Asia,Eastern Asia,53,53,34
+Insecta,CN,1800,Asia,Eastern Asia,2,2,2
+Insecta,CN,1840,Asia,Eastern Asia,1,1,1
+Insecta,CN,1850,Asia,Eastern Asia,4,4,4
+Insecta,CN,1860,Asia,Eastern Asia,32,32,8
+Insecta,CN,1870,Asia,Eastern Asia,66,67,34
+Insecta,CN,1880,Asia,Eastern Asia,77,82,45
+Insecta,CN,1890,Asia,Eastern Asia,376,386,153
+Insecta,CN,1900,Asia,Eastern Asia,399,400,199
+Insecta,CN,1910,Asia,Eastern Asia,515,575,137
+Insecta,CN,1920,Asia,Eastern Asia,1292,1534,396
+Insecta,CN,1930,Asia,Eastern Asia,3682,3859,1067
+Insecta,CN,1940,Asia,Eastern Asia,658,852,186
+Insecta,CN,1950,Asia,Eastern Asia,498,528,47
+Insecta,CN,1960,Asia,Eastern Asia,38,168,34
+Insecta,CN,1970,Asia,Eastern Asia,51,72,21
+Insecta,CN,1980,Asia,Eastern Asia,178,204,108
+Insecta,CN,1990,Asia,Eastern Asia,336,692,158
+Insecta,CN,2000,Asia,Eastern Asia,840,1133,305
+Insecta,CN,2010,Asia,Eastern Asia,811,2291,349
+Insecta,CN,2020,Asia,Eastern Asia,100,1769,35
+Insecta,CO,1700,Americas,Latin America and the Caribbean,8,12,3
+Insecta,CO,1770,Americas,Latin America and the Caribbean,3,3,1
+Insecta,CO,1830,Americas,Latin America and the Caribbean,11,11,8
+Insecta,CO,1840,Americas,Latin America and the Caribbean,8,8,7
+Insecta,CO,1850,Americas,Latin America and the Caribbean,1,1,1
+Insecta,CO,1860,Americas,Latin America and the Caribbean,14,14,10
+Insecta,CO,1870,Americas,Latin America and the Caribbean,7,7,7
+Insecta,CO,1880,Americas,Latin America and the Caribbean,20,20,14
+Insecta,CO,1890,Americas,Latin America and the Caribbean,69,2976,51
+Insecta,CO,1900,Americas,Latin America and the Caribbean,55,63,48
+Insecta,CO,1910,Americas,Latin America and the Caribbean,467,476,216
+Insecta,CO,1920,Americas,Latin America and the Caribbean,306,353,186
+Insecta,CO,1930,Americas,Latin America and the Caribbean,439,1209,231
+Insecta,CO,1940,Americas,Latin America and the Caribbean,1434,1532,611
+Insecta,CO,1950,Americas,Latin America and the Caribbean,724,1042,398
+Insecta,CO,1960,Americas,Latin America and the Caribbean,5883,9864,734
+Insecta,CO,1970,Americas,Latin America and the Caribbean,4541,7112,1087
+Insecta,CO,1980,Americas,Latin America and the Caribbean,1725,2043,616
+Insecta,CO,1990,Americas,Latin America and the Caribbean,6084,7198,708
+Insecta,CO,2000,Americas,Latin America and the Caribbean,12271,45141,1135
+Insecta,CO,2010,Americas,Latin America and the Caribbean,14961,61084,1444
+Insecta,CO,2020,Americas,Latin America and the Caribbean,10,60,5
+Insecta,CR,1700,Americas,Latin America and the Caribbean,3,19,3
+Insecta,CR,1850,Americas,Latin America and the Caribbean,1,1,1
+Insecta,CR,1860,Americas,Latin America and the Caribbean,3,3,2
+Insecta,CR,1880,Americas,Latin America and the Caribbean,2,3,2
+Insecta,CR,1890,Americas,Latin America and the Caribbean,5,7,4
+Insecta,CR,1900,Americas,Latin America and the Caribbean,220,226,125
+Insecta,CR,1910,Americas,Latin America and the Caribbean,196,350,66
+Insecta,CR,1920,Americas,Latin America and the Caribbean,385,504,252
+Insecta,CR,1930,Americas,Latin America and the Caribbean,1268,1542,336
+Insecta,CR,1940,Americas,Latin America and the Caribbean,132,181,92
+Insecta,CR,1950,Americas,Latin America and the Caribbean,198,242,108
+Insecta,CR,1960,Americas,Latin America and the Caribbean,5178,9360,979
+Insecta,CR,1970,Americas,Latin America and the Caribbean,2772,3459,651
+Insecta,CR,1980,Americas,Latin America and the Caribbean,13939,43646,1222
+Insecta,CR,1990,Americas,Latin America and the Caribbean,20400,31733,1153
+Insecta,CR,2000,Americas,Latin America and the Caribbean,3562,12324,587
+Insecta,CR,2010,Americas,Latin America and the Caribbean,1898,6045,392
+Insecta,CR,2020,Americas,Latin America and the Caribbean,20,1213,14
+Insecta,CU,1700,Americas,Latin America and the Caribbean,13,15,5
+Insecta,CU,1830,Americas,Latin America and the Caribbean,8,8,6
+Insecta,CU,1850,Americas,Latin America and the Caribbean,2,2,2
+Insecta,CU,1860,Americas,Latin America and the Caribbean,6,6,3
+Insecta,CU,1870,Americas,Latin America and the Caribbean,2,2,1
+Insecta,CU,1880,Americas,Latin America and the Caribbean,4,4,4
+Insecta,CU,1890,Americas,Latin America and the Caribbean,11,13,10
+Insecta,CU,1900,Americas,Latin America and the Caribbean,155,159,62
+Insecta,CU,1910,Americas,Latin America and the Caribbean,342,460,134
+Insecta,CU,1920,Americas,Latin America and the Caribbean,1966,2435,479
+Insecta,CU,1930,Americas,Latin America and the Caribbean,3601,4135,559
+Insecta,CU,1940,Americas,Latin America and the Caribbean,118,119,67
+Insecta,CU,1950,Americas,Latin America and the Caribbean,338,613,115
+Insecta,CU,1960,Americas,Latin America and the Caribbean,38,50,29
+Insecta,CU,1970,Americas,Latin America and the Caribbean,100,141,41
+Insecta,CU,1980,Americas,Latin America and the Caribbean,31,31,28
+Insecta,CU,1990,Americas,Latin America and the Caribbean,334,437,73
+Insecta,CU,2000,Americas,Latin America and the Caribbean,58,138,43
+Insecta,CU,2010,Americas,Latin America and the Caribbean,17,19,7
+Insecta,CV,1890,Africa,Sub-Saharan Africa,20,26,3
+Insecta,CV,1940,Africa,Sub-Saharan Africa,1,1,1
+Insecta,CV,1950,Africa,Sub-Saharan Africa,2699,3394,152
+Insecta,CV,1960,Africa,Sub-Saharan Africa,16,16,2
+Insecta,CV,1980,Africa,Sub-Saharan Africa,305,315,20
+Insecta,CV,1990,Africa,Sub-Saharan Africa,18,18,4
+Insecta,CV,2000,Africa,Sub-Saharan Africa,739,1323,21
+Insecta,CV,2010,Africa,Sub-Saharan Africa,10,34,4
+Insecta,CW,1900,Americas,Latin America and the Caribbean,1,6,1
+Insecta,CW,1940,Americas,Latin America and the Caribbean,4,45,4
+Insecta,CW,1950,Americas,Latin America and the Caribbean,3,82,3
+Insecta,CW,1960,Americas,Latin America and the Caribbean,6,51,4
+Insecta,CW,1970,Americas,Latin America and the Caribbean,4,4,4
+Insecta,CW,2000,Americas,Latin America and the Caribbean,282,350,38
+Insecta,CW,2010,Americas,Latin America and the Caribbean,114,188,16
+Insecta,CX,1890,Oceania,Australia and New Zealand,2,2,2
+Insecta,CX,1930,Oceania,Australia and New Zealand,3,3,2
+Insecta,CX,1960,Oceania,Australia and New Zealand,47,74,9
+Insecta,CX,1970,Oceania,Australia and New Zealand,24,65,6
+Insecta,CX,1980,Oceania,Australia and New Zealand,96,366,25
+Insecta,CX,2010,Oceania,Australia and New Zealand,15,15,12
+Insecta,CY,1880,Asia,Western Asia,1,1,1
+Insecta,CY,1900,Asia,Western Asia,3,3,3
+Insecta,CY,1910,Asia,Western Asia,2,2,1
+Insecta,CY,1920,Asia,Western Asia,14,14,12
+Insecta,CY,1930,Asia,Western Asia,753,797,85
+Insecta,CY,1940,Asia,Western Asia,9,9,4
+Insecta,CY,1950,Asia,Western Asia,44,50,19
+Insecta,CY,1960,Asia,Western Asia,28,28,7
+Insecta,CY,1970,Asia,Western Asia,99,99,20
+Insecta,CY,1980,Asia,Western Asia,107,117,31
+Insecta,CY,1990,Asia,Western Asia,252,276,86
+Insecta,CY,2000,Asia,Western Asia,158,165,50
+Insecta,CY,2010,Asia,Western Asia,15,15,2
+Insecta,CZ,1860,Europe,Eastern Europe,1,1,1
+Insecta,CZ,1870,Europe,Eastern Europe,236,236,12
+Insecta,CZ,1880,Europe,Eastern Europe,11,11,7
+Insecta,CZ,1890,Europe,Eastern Europe,128,137,46
+Insecta,CZ,1900,Europe,Eastern Europe,200,200,96
+Insecta,CZ,1910,Europe,Eastern Europe,100,100,57
+Insecta,CZ,1920,Europe,Eastern Europe,60,60,38
+Insecta,CZ,1930,Europe,Eastern Europe,67,67,48
+Insecta,CZ,1940,Europe,Eastern Europe,143,175,63
+Insecta,CZ,1950,Europe,Eastern Europe,667,686,125
+Insecta,CZ,1960,Europe,Eastern Europe,232,262,93
+Insecta,CZ,1970,Europe,Eastern Europe,197,421,94
+Insecta,CZ,1980,Europe,Eastern Europe,298,2310,148
+Insecta,CZ,1990,Europe,Eastern Europe,340,392,62
+Insecta,CZ,2000,Europe,Eastern Europe,405,657,62
+Insecta,CZ,2010,Europe,Eastern Europe,88,106,50
+Insecta,DE,1700,Europe,Western Europe,1,1,1
+Insecta,DE,1790,Europe,Western Europe,2,2,2
+Insecta,DE,1800,Europe,Western Europe,7,7,4
+Insecta,DE,1810,Europe,Western Europe,2,2,2
+Insecta,DE,1820,Europe,Western Europe,1,1,1
+Insecta,DE,1840,Europe,Western Europe,6,6,4
+Insecta,DE,1850,Europe,Western Europe,4,4,2
+Insecta,DE,1860,Europe,Western Europe,8,8,7
+Insecta,DE,1870,Europe,Western Europe,52,52,33
+Insecta,DE,1880,Europe,Western Europe,1158,1166,359
+Insecta,DE,1890,Europe,Western Europe,4334,4427,540
+Insecta,DE,1900,Europe,Western Europe,2374,2449,286
+Insecta,DE,1910,Europe,Western Europe,10943,10999,330
+Insecta,DE,1920,Europe,Western Europe,5084,5138,384
+Insecta,DE,1930,Europe,Western Europe,18675,18745,314
+Insecta,DE,1940,Europe,Western Europe,18271,18462,226
+Insecta,DE,1950,Europe,Western Europe,6785,6994,719
+Insecta,DE,1960,Europe,Western Europe,3282,3674,616
+Insecta,DE,1970,Europe,Western Europe,2190,2866,786
+Insecta,DE,1980,Europe,Western Europe,2183,2292,713
+Insecta,DE,1990,Europe,Western Europe,1007,1043,246
+Insecta,DE,2000,Europe,Western Europe,670,760,216
+Insecta,DE,2010,Europe,Western Europe,317,599,59
+Insecta,DE,2020,Europe,Western Europe,17,51,3
+Insecta,DJ,1870,Africa,Sub-Saharan Africa,1,2,1
+Insecta,DJ,1880,Africa,Sub-Saharan Africa,2,2,1
+Insecta,DJ,1890,Africa,Sub-Saharan Africa,34,34,7
+Insecta,DJ,1900,Africa,Sub-Saharan Africa,1,1,1
+Insecta,DJ,1930,Africa,Sub-Saharan Africa,1,1,1
+Insecta,DJ,1970,Africa,Sub-Saharan Africa,20,20,17
+Insecta,DJ,2010,Africa,Sub-Saharan Africa,15,15,6
+Insecta,DK,1810,Europe,Northern Europe,3,3,3
+Insecta,DK,1820,Europe,Northern Europe,2,2,2
+Insecta,DK,1830,Europe,Northern Europe,20,20,14
+Insecta,DK,1840,Europe,Northern Europe,20,21,18
+Insecta,DK,1850,Europe,Northern Europe,18,18,13
+Insecta,DK,1860,Europe,Northern Europe,180,200,46
+Insecta,DK,1870,Europe,Northern Europe,443,589,88
+Insecta,DK,1880,Europe,Northern Europe,220,607,89
+Insecta,DK,1890,Europe,Northern Europe,902,21312,222
+Insecta,DK,1900,Europe,Northern Europe,931,1388,183
+Insecta,DK,1910,Europe,Northern Europe,3281,4747,280
+Insecta,DK,1920,Europe,Northern Europe,550,1204,160
+Insecta,DK,1930,Europe,Northern Europe,2048,5698,181
+Insecta,DK,1940,Europe,Northern Europe,4961,48416,192
+Insecta,DK,1950,Europe,Northern Europe,3021,12296,228
+Insecta,DK,1960,Europe,Northern Europe,5315,72994,601
+Insecta,DK,1970,Europe,Northern Europe,7475,95920,723
+Insecta,DK,1980,Europe,Northern Europe,5491,33796,620
+Insecta,DK,1990,Europe,Northern Europe,9108,108086,354
+Insecta,DK,2000,Europe,Northern Europe,2769,3479,312
+Insecta,DK,2010,Europe,Northern Europe,2571,18161,444
+Insecta,DK,2020,Europe,Northern Europe,402,664,119
+Insecta,DM,1700,Americas,Latin America and the Caribbean,5,9,1
+Insecta,DM,1860,Americas,Latin America and the Caribbean,2,6,1
+Insecta,DM,1880,Americas,Latin America and the Caribbean,2,2,1
+Insecta,DM,1900,Americas,Latin America and the Caribbean,5,5,4
+Insecta,DM,1910,Americas,Latin America and the Caribbean,26,29,12
+Insecta,DM,1930,Americas,Latin America and the Caribbean,19,19,17
+Insecta,DM,1940,Americas,Latin America and the Caribbean,8,8,8
+Insecta,DM,1950,Americas,Latin America and the Caribbean,65,65,29
+Insecta,DM,1960,Americas,Latin America and the Caribbean,929,963,256
+Insecta,DM,1970,Americas,Latin America and the Caribbean,6,6,6
+Insecta,DM,1980,Americas,Latin America and the Caribbean,13,13,5
+Insecta,DM,1990,Americas,Latin America and the Caribbean,28,41,3
+Insecta,DM,2000,Americas,Latin America and the Caribbean,268,459,51
+Insecta,DM,2010,Americas,Latin America and the Caribbean,11,11,6
+Insecta,DO,1830,Americas,Latin America and the Caribbean,1,1,1
+Insecta,DO,1880,Americas,Latin America and the Caribbean,1,1,1
+Insecta,DO,1900,Americas,Latin America and the Caribbean,27,29,17
+Insecta,DO,1910,Americas,Latin America and the Caribbean,111,155,42
+Insecta,DO,1920,Americas,Latin America and the Caribbean,12,12,11
+Insecta,DO,1930,Americas,Latin America and the Caribbean,836,902,190
+Insecta,DO,1940,Americas,Latin America and the Caribbean,24,24,12
+Insecta,DO,1950,Americas,Latin America and the Caribbean,55,57,29
+Insecta,DO,1960,Americas,Latin America and the Caribbean,674,676,105
+Insecta,DO,1970,Americas,Latin America and the Caribbean,425,692,100
+Insecta,DO,1980,Americas,Latin America and the Caribbean,174,271,94
+Insecta,DO,1990,Americas,Latin America and the Caribbean,917,1418,199
+Insecta,DO,2000,Americas,Latin America and the Caribbean,1075,2458,246
+Insecta,DO,2010,Americas,Latin America and the Caribbean,2395,15268,108
+Insecta,DZ,1830,Africa,Northern Africa,1,1,1
+Insecta,DZ,1840,Africa,Northern Africa,24,28,12
+Insecta,DZ,1850,Africa,Northern Africa,8,8,5
+Insecta,DZ,1860,Africa,Northern Africa,4,7,4
+Insecta,DZ,1870,Africa,Northern Africa,27,28,13
+Insecta,DZ,1880,Africa,Northern Africa,260,261,74
+Insecta,DZ,1890,Africa,Northern Africa,159,169,88
+Insecta,DZ,1900,Africa,Northern Africa,79,124,50
+Insecta,DZ,1910,Africa,Northern Africa,78,79,53
+Insecta,DZ,1920,Africa,Northern Africa,109,198,73
+Insecta,DZ,1930,Africa,Northern Africa,75,76,46
+Insecta,DZ,1940,Africa,Northern Africa,78,93,44
+Insecta,DZ,1950,Africa,Northern Africa,148,148,59
+Insecta,DZ,1960,Africa,Northern Africa,38,55,24
+Insecta,DZ,1970,Africa,Northern Africa,109,161,39
+Insecta,DZ,1980,Africa,Northern Africa,81,85,51
+Insecta,DZ,1990,Africa,Northern Africa,12,24,8
+Insecta,DZ,2000,Africa,Northern Africa,5,5,4
+Insecta,DZ,2010,Africa,Northern Africa,62,1469,21
+Insecta,EC,1700,Americas,Latin America and the Caribbean,4,4,3
+Insecta,EC,1830,Americas,Latin America and the Caribbean,3,3,3
+Insecta,EC,1850,Americas,Latin America and the Caribbean,20,20,10
+Insecta,EC,1860,Americas,Latin America and the Caribbean,2,2,2
+Insecta,EC,1870,Americas,Latin America and the Caribbean,5,5,4
+Insecta,EC,1880,Americas,Latin America and the Caribbean,23,27,19
+Insecta,EC,1890,Americas,Latin America and the Caribbean,112,113,58
+Insecta,EC,1900,Americas,Latin America and the Caribbean,152,212,55
+Insecta,EC,1910,Americas,Latin America and the Caribbean,338,338,98
+Insecta,EC,1920,Americas,Latin America and the Caribbean,372,447,251
+Insecta,EC,1930,Americas,Latin America and the Caribbean,316,350,250
+Insecta,EC,1940,Americas,Latin America and the Caribbean,251,282,211
+Insecta,EC,1950,Americas,Latin America and the Caribbean,253,448,138
+Insecta,EC,1960,Americas,Latin America and the Caribbean,931,1625,305
+Insecta,EC,1970,Americas,Latin America and the Caribbean,6633,13764,1332
+Insecta,EC,1980,Americas,Latin America and the Caribbean,2749,4165,841
+Insecta,EC,1990,Americas,Latin America and the Caribbean,3131,6397,668
+Insecta,EC,2000,Americas,Latin America and the Caribbean,3083,7456,381
+Insecta,EC,2010,Americas,Latin America and the Caribbean,7152,12628,254
+Insecta,EC,2020,Americas,Latin America and the Caribbean,594,596,47
+Insecta,EE,1890,Europe,Northern Europe,7,7,5
+Insecta,EE,1900,Europe,Northern Europe,4,4,2
+Insecta,EE,1910,Europe,Northern Europe,39,39,10
+Insecta,EE,1920,Europe,Northern Europe,7,7,1
+Insecta,EE,1930,Europe,Northern Europe,21,21,12
+Insecta,EE,1950,Europe,Northern Europe,5,5,4
+Insecta,EE,1960,Europe,Northern Europe,3,3,2
+Insecta,EE,1970,Europe,Northern Europe,1,1,1
+Insecta,EE,1980,Europe,Northern Europe,123,123,57
+Insecta,EE,1990,Europe,Northern Europe,181,182,106
+Insecta,EE,2000,Europe,Northern Europe,162,203,100
+Insecta,EE,2010,Europe,Northern Europe,1542,2065,859
+Insecta,EE,2020,Europe,Northern Europe,62,100,54
+Insecta,EG,1830,Africa,Northern Africa,10,12,8
+Insecta,EG,1850,Africa,Northern Africa,4,5,3
+Insecta,EG,1880,Africa,Northern Africa,2,2,2
+Insecta,EG,1890,Africa,Northern Africa,3,3,3
+Insecta,EG,1900,Africa,Northern Africa,43,44,25
+Insecta,EG,1910,Africa,Northern Africa,55,83,42
+Insecta,EG,1920,Africa,Northern Africa,142,372,70
+Insecta,EG,1930,Africa,Northern Africa,246,332,96
+Insecta,EG,1940,Africa,Northern Africa,96,207,22
+Insecta,EG,1950,Africa,Northern Africa,269,377,72
+Insecta,EG,1960,Africa,Northern Africa,266,301,79
+Insecta,EG,1970,Africa,Northern Africa,211,978,24
+Insecta,EG,1980,Africa,Northern Africa,29,40,15
+Insecta,EG,1990,Africa,Northern Africa,33,35,17
+Insecta,EG,2000,Africa,Northern Africa,5,7,4
+Insecta,EH,1910,Africa,Northern Africa,1,1,1
+Insecta,EH,1930,Africa,Northern Africa,1,1,1
+Insecta,EH,1940,Africa,Northern Africa,5,5,5
+Insecta,EH,1960,Africa,Northern Africa,1,1,1
+Insecta,ER,1870,Africa,Sub-Saharan Africa,1,4,1
+Insecta,ER,1890,Africa,Sub-Saharan Africa,3,3,2
+Insecta,ER,1900,Africa,Sub-Saharan Africa,11,11,11
+Insecta,ER,1910,Africa,Sub-Saharan Africa,9,17,8
+Insecta,ER,1940,Africa,Sub-Saharan Africa,76,82,34
+Insecta,ER,1950,Africa,Sub-Saharan Africa,294,305,70
+Insecta,ER,1960,Africa,Sub-Saharan Africa,28,28,15
+Insecta,ER,1970,Africa,Sub-Saharan Africa,13,13,5
+Insecta,ES,1720,Europe,Southern Europe,2,2,2
+Insecta,ES,1800,Europe,Southern Europe,1,1,1
+Insecta,ES,1820,Europe,Southern Europe,13,13,13
+Insecta,ES,1840,Europe,Southern Europe,8,8,5
+Insecta,ES,1850,Europe,Southern Europe,70,70,2
+Insecta,ES,1860,Europe,Southern Europe,5,5,2
+Insecta,ES,1870,Europe,Southern Europe,19,22,14
+Insecta,ES,1880,Europe,Southern Europe,82,88,46
+Insecta,ES,1890,Europe,Southern Europe,443,463,131
+Insecta,ES,1900,Europe,Southern Europe,1173,1191,307
+Insecta,ES,1910,Europe,Southern Europe,2133,2422,430
+Insecta,ES,1920,Europe,Southern Europe,5237,6801,665
+Insecta,ES,1930,Europe,Southern Europe,3135,3766,654
+Insecta,ES,1940,Europe,Southern Europe,2510,2928,496
+Insecta,ES,1950,Europe,Southern Europe,2935,3528,715
+Insecta,ES,1960,Europe,Southern Europe,4929,9733,855
+Insecta,ES,1970,Europe,Southern Europe,11124,23697,1620
+Insecta,ES,1980,Europe,Southern Europe,16293,25308,2099
+Insecta,ES,1990,Europe,Southern Europe,14469,21044,1809
+Insecta,ES,2000,Europe,Southern Europe,15841,17167,1726
+Insecta,ES,2010,Europe,Southern Europe,12629,20774,1874
+Insecta,ES,2020,Europe,Southern Europe,1266,2244,162
+Insecta,ET,1830,Africa,Sub-Saharan Africa,2,2,2
+Insecta,ET,1840,Africa,Sub-Saharan Africa,3,3,1
+Insecta,ET,1850,Africa,Sub-Saharan Africa,21,21,19
+Insecta,ET,1880,Africa,Sub-Saharan Africa,2,5,2
+Insecta,ET,1890,Africa,Sub-Saharan Africa,22,29,14
+Insecta,ET,1900,Africa,Sub-Saharan Africa,39,42,30
+Insecta,ET,1910,Africa,Sub-Saharan Africa,41,50,26
+Insecta,ET,1920,Africa,Sub-Saharan Africa,43,58,33
+Insecta,ET,1930,Africa,Sub-Saharan Africa,56,78,29
+Insecta,ET,1940,Africa,Sub-Saharan Africa,176,182,75
+Insecta,ET,1950,Africa,Sub-Saharan Africa,2221,2238,341
+Insecta,ET,1960,Africa,Sub-Saharan Africa,787,926,293
+Insecta,ET,1970,Africa,Sub-Saharan Africa,389,504,202
+Insecta,ET,1980,Africa,Sub-Saharan Africa,162,394,73
+Insecta,ET,1990,Africa,Sub-Saharan Africa,60,61,19
+Insecta,ET,2000,Africa,Sub-Saharan Africa,61,218,37
+Insecta,ET,2010,Africa,Sub-Saharan Africa,201,1005,50
+Insecta,FI,1690,Europe,Northern Europe,1,1,1
+Insecta,FI,1750,Europe,Northern Europe,1,1,1
+Insecta,FI,1800,Europe,Northern Europe,10,10,8
+Insecta,FI,1810,Europe,Northern Europe,2,2,2
+Insecta,FI,1820,Europe,Northern Europe,12,12,4
+Insecta,FI,1830,Europe,Northern Europe,13,13,10
+Insecta,FI,1840,Europe,Northern Europe,273,288,156
+Insecta,FI,1850,Europe,Northern Europe,96,96,80
+Insecta,FI,1860,Europe,Northern Europe,951,989,422
+Insecta,FI,1870,Europe,Northern Europe,362,370,192
+Insecta,FI,1880,Europe,Northern Europe,631,634,307
+Insecta,FI,1890,Europe,Northern Europe,3211,3270,1117
+Insecta,FI,1900,Europe,Northern Europe,6107,6209,1102
+Insecta,FI,1910,Europe,Northern Europe,20669,21225,3271
+Insecta,FI,1920,Europe,Northern Europe,22069,22730,3115
+Insecta,FI,1930,Europe,Northern Europe,61857,62510,4311
+Insecta,FI,1940,Europe,Northern Europe,78679,82963,5097
+Insecta,FI,1950,Europe,Northern Europe,105510,107970,4846
+Insecta,FI,1960,Europe,Northern Europe,112097,141148,4884
+Insecta,FI,1970,Europe,Northern Europe,93665,132688,4515
+Insecta,FI,1980,Europe,Northern Europe,92177,197447,4686
+Insecta,FI,1990,Europe,Northern Europe,116557,258357,4964
+Insecta,FI,2000,Europe,Northern Europe,156360,531506,8434
+Insecta,FI,2010,Europe,Northern Europe,197092,795284,10099
+Insecta,FI,2020,Europe,Northern Europe,40643,154083,7178
+Insecta,FJ,1840,Oceania,Melanesia,2,2,2
+Insecta,FJ,1870,Oceania,Melanesia,1,1,1
+Insecta,FJ,1890,Oceania,Melanesia,8,8,2
+Insecta,FJ,1900,Oceania,Melanesia,3,3,3
+Insecta,FJ,1910,Oceania,Melanesia,31,31,12
+Insecta,FJ,1920,Oceania,Melanesia,51,70,24
+Insecta,FJ,1930,Oceania,Melanesia,29,31,14
+Insecta,FJ,1940,Oceania,Melanesia,26,26,17
+Insecta,FJ,1950,Oceania,Melanesia,40,67,21
+Insecta,FJ,1960,Oceania,Melanesia,65,109,26
+Insecta,FJ,1970,Oceania,Melanesia,98,123,42
+Insecta,FJ,1980,Oceania,Melanesia,103,211,44
+Insecta,FJ,1990,Oceania,Melanesia,3067,4550,471
+Insecta,FJ,2000,Oceania,Melanesia,302,354,157
+Insecta,FJ,2010,Oceania,Melanesia,131,161,66
+Insecta,FK,1830,Americas,Latin America and the Caribbean,1,1,1
+Insecta,FK,1960,Americas,Latin America and the Caribbean,2,2,1
+Insecta,FK,2010,Americas,Latin America and the Caribbean,1,1,1
+Insecta,FM,1910,Oceania,Micronesia,2,2,2
+Insecta,FM,1930,Oceania,Micronesia,14,23,9
+Insecta,FM,1940,Oceania,Micronesia,301,362,125
+Insecta,FM,1950,Oceania,Micronesia,346,689,173
+Insecta,FM,1960,Oceania,Micronesia,4,10,4
+Insecta,FM,1970,Oceania,Micronesia,9,9,5
+Insecta,FM,1980,Oceania,Micronesia,4,7,4
+Insecta,FM,1990,Oceania,Micronesia,7,7,1
+Insecta,FM,2000,Oceania,Micronesia,48,48,10
+Insecta,FO,1920,Europe,Northern Europe,23,23,9
+Insecta,FO,1990,Europe,Northern Europe,38,89,8
+Insecta,FO,2000,Europe,Northern Europe,11,11,5
+Insecta,FR,1820,Europe,Western Europe,13,13,13
+Insecta,FR,1830,Europe,Western Europe,16,16,11
+Insecta,FR,1840,Europe,Western Europe,7,7,5
+Insecta,FR,1850,Europe,Western Europe,17,17,10
+Insecta,FR,1860,Europe,Western Europe,20,22,12
+Insecta,FR,1870,Europe,Western Europe,110,128,51
+Insecta,FR,1880,Europe,Western Europe,631,692,128
+Insecta,FR,1890,Europe,Western Europe,1038,1356,340
+Insecta,FR,1900,Europe,Western Europe,3296,4306,359
+Insecta,FR,1910,Europe,Western Europe,2060,2262,229
+Insecta,FR,1920,Europe,Western Europe,1378,1821,397
+Insecta,FR,1930,Europe,Western Europe,1196,1519,281
+Insecta,FR,1940,Europe,Western Europe,1794,1971,249
+Insecta,FR,1950,Europe,Western Europe,7579,11168,570
+Insecta,FR,1960,Europe,Western Europe,4843,5119,646
+Insecta,FR,1970,Europe,Western Europe,10560,12306,1466
+Insecta,FR,1980,Europe,Western Europe,12194,12700,1894
+Insecta,FR,1990,Europe,Western Europe,7559,7787,1208
+Insecta,FR,2000,Europe,Western Europe,4601,5468,924
+Insecta,FR,2010,Europe,Western Europe,584,859,228
+Insecta,FR,2020,Europe,Western Europe,37,38,19
+Insecta,GA,1850,Africa,Sub-Saharan Africa,1,7,1
+Insecta,GA,1870,Africa,Sub-Saharan Africa,2,11,2
+Insecta,GA,1880,Africa,Sub-Saharan Africa,9,13,8
+Insecta,GA,1890,Africa,Sub-Saharan Africa,28,95,11
+Insecta,GA,1900,Africa,Sub-Saharan Africa,30,30,20
+Insecta,GA,1910,Africa,Sub-Saharan Africa,13,72,6
+Insecta,GA,1920,Africa,Sub-Saharan Africa,2,2,2
+Insecta,GA,1930,Africa,Sub-Saharan Africa,5,5,5
+Insecta,GA,1940,Africa,Sub-Saharan Africa,5,5,3
+Insecta,GA,1950,Africa,Sub-Saharan Africa,19,39,14
+Insecta,GA,1960,Africa,Sub-Saharan Africa,101,111,58
+Insecta,GA,1970,Africa,Sub-Saharan Africa,438,458,45
+Insecta,GA,1980,Africa,Sub-Saharan Africa,60,87,34
+Insecta,GA,1990,Africa,Sub-Saharan Africa,129,159,42
+Insecta,GA,2000,Africa,Sub-Saharan Africa,161,460,56
+Insecta,GA,2010,Africa,Sub-Saharan Africa,1556,3737,271
+Insecta,GB,1790,Europe,Northern Europe,1,1,1
+Insecta,GB,1800,Europe,Northern Europe,17,17,16
+Insecta,GB,1810,Europe,Northern Europe,27,27,14
+Insecta,GB,1820,Europe,Northern Europe,20,20,16
+Insecta,GB,1830,Europe,Northern Europe,58,58,21
+Insecta,GB,1840,Europe,Northern Europe,232,232,121
+Insecta,GB,1850,Europe,Northern Europe,122,122,73
+Insecta,GB,1860,Europe,Northern Europe,296,296,113
+Insecta,GB,1870,Europe,Northern Europe,923,933,237
+Insecta,GB,1880,Europe,Northern Europe,4832,4842,483
+Insecta,GB,1890,Europe,Northern Europe,23148,23160,639
+Insecta,GB,1900,Europe,Northern Europe,31034,31156,720
+Insecta,GB,1910,Europe,Northern Europe,34371,34508,658
+Insecta,GB,1920,Europe,Northern Europe,39885,40167,701
+Insecta,GB,1930,Europe,Northern Europe,37329,39055,882
+Insecta,GB,1940,Europe,Northern Europe,31798,32376,768
+Insecta,GB,1950,Europe,Northern Europe,32939,33873,934
+Insecta,GB,1960,Europe,Northern Europe,20503,24228,863
+Insecta,GB,1970,Europe,Northern Europe,15713,16128,934
+Insecta,GB,1980,Europe,Northern Europe,6776,10135,847
+Insecta,GB,1990,Europe,Northern Europe,2569,2989,576
+Insecta,GB,2000,Europe,Northern Europe,9249,10322,667
+Insecta,GB,2010,Europe,Northern Europe,48871,72545,3281
+Insecta,GB,2020,Europe,Northern Europe,3440,3541,1522
+Insecta,GD,1890,Americas,Latin America and the Caribbean,7,7,7
+Insecta,GD,1910,Americas,Latin America and the Caribbean,37,92,19
+Insecta,GD,1920,Americas,Latin America and the Caribbean,1,1,1
+Insecta,GD,1930,Americas,Latin America and the Caribbean,5,5,5
+Insecta,GD,1940,Americas,Latin America and the Caribbean,8,8,5
+Insecta,GD,1950,Americas,Latin America and the Caribbean,17,17,8
+Insecta,GD,1960,Americas,Latin America and the Caribbean,37,48,21
+Insecta,GD,1970,Americas,Latin America and the Caribbean,2,2,2
+Insecta,GD,1990,Americas,Latin America and the Caribbean,482,2502,64
+Insecta,GD,2000,Americas,Latin America and the Caribbean,1020,1828,50
+Insecta,GD,2010,Americas,Latin America and the Caribbean,67,121,12
+Insecta,GE,1880,Asia,Western Asia,24,24,13
+Insecta,GE,1890,Asia,Western Asia,5,7,5
+Insecta,GE,1900,Asia,Western Asia,461,461,19
+Insecta,GE,1910,Asia,Western Asia,221,221,40
+Insecta,GE,1930,Asia,Western Asia,3,3,1
+Insecta,GE,1950,Asia,Western Asia,40,107,25
+Insecta,GE,1960,Asia,Western Asia,32,32,21
+Insecta,GE,1970,Asia,Western Asia,21,21,9
+Insecta,GE,1980,Asia,Western Asia,229,229,81
+Insecta,GE,1990,Asia,Western Asia,26,26,16
+Insecta,GE,2000,Asia,Western Asia,23,23,4
+Insecta,GE,2010,Asia,Western Asia,144,145,8
+Insecta,GE,2020,Asia,Western Asia,1,1,1
+Insecta,GF,1770,Americas,Latin America and the Caribbean,1,1,1
+Insecta,GF,1830,Americas,Latin America and the Caribbean,4,4,2
+Insecta,GF,1860,Americas,Latin America and the Caribbean,6,6,4
+Insecta,GF,1880,Americas,Latin America and the Caribbean,1,1,1
+Insecta,GF,1890,Americas,Latin America and the Caribbean,6,6,5
+Insecta,GF,1900,Americas,Latin America and the Caribbean,41,96,32
+Insecta,GF,1910,Americas,Latin America and the Caribbean,55,55,40
+Insecta,GF,1920,Americas,Latin America and the Caribbean,5,5,5
+Insecta,GF,1930,Americas,Latin America and the Caribbean,20,20,4
+Insecta,GF,1940,Americas,Latin America and the Caribbean,18,18,10
+Insecta,GF,1950,Americas,Latin America and the Caribbean,55,55,18
+Insecta,GF,1960,Americas,Latin America and the Caribbean,217,302,88
+Insecta,GF,1970,Americas,Latin America and the Caribbean,825,1606,202
+Insecta,GF,1980,Americas,Latin America and the Caribbean,1691,1714,281
+Insecta,GF,1990,Americas,Latin America and the Caribbean,1157,1256,188
+Insecta,GF,2000,Americas,Latin America and the Caribbean,1168,1177,322
+Insecta,GF,2010,Americas,Latin America and the Caribbean,1408,1789,306
+Insecta,GF,2020,Americas,Latin America and the Caribbean,10,10,9
+Insecta,GG,1920,Europe,Northern Europe,1,1,1
+Insecta,GG,1960,Europe,Northern Europe,6,6,3
+Insecta,GG,1970,Europe,Northern Europe,2,2,2
+Insecta,GG,1980,Europe,Northern Europe,1,1,1
+Insecta,GH,1880,Africa,Sub-Saharan Africa,2,2,2
+Insecta,GH,1890,Africa,Sub-Saharan Africa,2,2,2
+Insecta,GH,1900,Africa,Sub-Saharan Africa,42,44,17
+Insecta,GH,1910,Africa,Sub-Saharan Africa,101,134,42
+Insecta,GH,1920,Africa,Sub-Saharan Africa,76,109,25
+Insecta,GH,1930,Africa,Sub-Saharan Africa,21,34,14
+Insecta,GH,1940,Africa,Sub-Saharan Africa,133,175,78
+Insecta,GH,1950,Africa,Sub-Saharan Africa,336,345,97
+Insecta,GH,1960,Africa,Sub-Saharan Africa,319,368,148
+Insecta,GH,1970,Africa,Sub-Saharan Africa,305,502,132
+Insecta,GH,1980,Africa,Sub-Saharan Africa,154,154,51
+Insecta,GH,1990,Africa,Sub-Saharan Africa,2606,3096,443
+Insecta,GH,2000,Africa,Sub-Saharan Africa,3011,3374,504
+Insecta,GH,2010,Africa,Sub-Saharan Africa,818,822,155
+Insecta,GI,1900,Europe,Southern Europe,1,3,1
+Insecta,GI,1930,Europe,Southern Europe,2,2,2
+Insecta,GI,2000,Europe,Southern Europe,4,4,4
+Insecta,GI,2010,Europe,Southern Europe,4,4,2
+Insecta,GL,1870,Americas,Northern America,5,5,2
+Insecta,GL,1880,Americas,Northern America,28,28,9
+Insecta,GL,1890,Americas,Northern America,14,14,10
+Insecta,GL,1900,Americas,Northern America,6,6,1
+Insecta,GL,1910,Americas,Northern America,1,1,1
+Insecta,GL,1920,Americas,Northern America,187,187,19
+Insecta,GL,1930,Americas,Northern America,12,12,9
+Insecta,GL,1940,Americas,Northern America,12,12,4
+Insecta,GL,1950,Americas,Northern America,19,19,8
+Insecta,GL,1960,Americas,Northern America,19,26,11
+Insecta,GL,1970,Americas,Northern America,5,19,2
+Insecta,GL,1980,Americas,Northern America,9,58,6
+Insecta,GL,1990,Americas,Northern America,197,197,10
+Insecta,GL,2000,Americas,Northern America,19,19,5
+Insecta,GL,2010,Americas,Northern America,12,15,7
+Insecta,GL,2020,Americas,Northern America,3,3,2
+Insecta,GM,1900,Africa,Sub-Saharan Africa,2,2,1
+Insecta,GM,1910,Africa,Sub-Saharan Africa,2,2,1
+Insecta,GM,1930,Africa,Sub-Saharan Africa,2,2,2
+Insecta,GM,1940,Africa,Sub-Saharan Africa,1,1,1
+Insecta,GM,1950,Africa,Sub-Saharan Africa,1,1,1
+Insecta,GM,1960,Africa,Sub-Saharan Africa,34,34,19
+Insecta,GM,1970,Africa,Sub-Saharan Africa,63,68,23
+Insecta,GM,1980,Africa,Sub-Saharan Africa,1103,1105,174
+Insecta,GM,1990,Africa,Sub-Saharan Africa,28,29,6
+Insecta,GM,2000,Africa,Sub-Saharan Africa,5,108,4
+Insecta,GN,1890,Africa,Sub-Saharan Africa,3,3,3
+Insecta,GN,1900,Africa,Sub-Saharan Africa,18,18,9
+Insecta,GN,1910,Africa,Sub-Saharan Africa,9,18,8
+Insecta,GN,1920,Africa,Sub-Saharan Africa,9,9,6
+Insecta,GN,1930,Africa,Sub-Saharan Africa,3,6,3
+Insecta,GN,1940,Africa,Sub-Saharan Africa,111,125,60
+Insecta,GN,1950,Africa,Sub-Saharan Africa,147,207,82
+Insecta,GN,1960,Africa,Sub-Saharan Africa,21,36,9
+Insecta,GN,1970,Africa,Sub-Saharan Africa,59,59,15
+Insecta,GN,1980,Africa,Sub-Saharan Africa,17,27,9
+Insecta,GN,1990,Africa,Sub-Saharan Africa,75,91,21
+Insecta,GN,2000,Africa,Sub-Saharan Africa,45,366,16
+Insecta,GN,2010,Africa,Sub-Saharan Africa,8,9,7
+Insecta,GP,1830,Americas,Latin America and the Caribbean,1,1,1
+Insecta,GP,1910,Americas,Latin America and the Caribbean,13,13,8
+Insecta,GP,1920,Americas,Latin America and the Caribbean,3,3,3
+Insecta,GP,1930,Americas,Latin America and the Caribbean,6,6,6
+Insecta,GP,1950,Americas,Latin America and the Caribbean,91,125,40
+Insecta,GP,1960,Americas,Latin America and the Caribbean,28,29,9
+Insecta,GP,1970,Americas,Latin America and the Caribbean,145,145,22
+Insecta,GP,1980,Americas,Latin America and the Caribbean,159,280,35
+Insecta,GP,1990,Americas,Latin America and the Caribbean,17,19,8
+Insecta,GP,2000,Americas,Latin America and the Caribbean,445,802,38
+Insecta,GP,2010,Americas,Latin America and the Caribbean,229,372,32
+Insecta,GQ,1900,Africa,Sub-Saharan Africa,35,102,26
+Insecta,GQ,1910,Africa,Sub-Saharan Africa,3,3,3
+Insecta,GQ,1930,Africa,Sub-Saharan Africa,6,6,5
+Insecta,GQ,1940,Africa,Sub-Saharan Africa,33,33,21
+Insecta,GQ,1950,Africa,Sub-Saharan Africa,19,19,17
+Insecta,GQ,1960,Africa,Sub-Saharan Africa,6,7,4
+Insecta,GQ,1980,Africa,Sub-Saharan Africa,5,5,3
+Insecta,GQ,1990,Africa,Sub-Saharan Africa,10,89,6
+Insecta,GQ,2000,Africa,Sub-Saharan Africa,19,86,7
+Insecta,GR,1820,Europe,Southern Europe,1,1,1
+Insecta,GR,1840,Europe,Southern Europe,2,2,2
+Insecta,GR,1850,Europe,Southern Europe,1,1,1
+Insecta,GR,1860,Europe,Southern Europe,11,12,5
+Insecta,GR,1870,Europe,Southern Europe,6,7,6
+Insecta,GR,1880,Europe,Southern Europe,4,4,3
+Insecta,GR,1890,Europe,Southern Europe,9,9,7
+Insecta,GR,1900,Europe,Southern Europe,42,44,27
+Insecta,GR,1910,Europe,Southern Europe,38,46,23
+Insecta,GR,1920,Europe,Southern Europe,55,70,15
+Insecta,GR,1930,Europe,Southern Europe,183,334,38
+Insecta,GR,1940,Europe,Southern Europe,148,148,19
+Insecta,GR,1950,Europe,Southern Europe,238,244,91
+Insecta,GR,1960,Europe,Southern Europe,897,910,98
+Insecta,GR,1970,Europe,Southern Europe,2930,3422,640
+Insecta,GR,1980,Europe,Southern Europe,5056,5503,707
+Insecta,GR,1990,Europe,Southern Europe,3188,3439,730
+Insecta,GR,2000,Europe,Southern Europe,1362,1461,391
+Insecta,GR,2010,Europe,Southern Europe,1174,1502,180
+Insecta,GR,2020,Europe,Southern Europe,11,11,4
+Insecta,GS,1930,Americas,Latin America and the Caribbean,2,2,1
+Insecta,GS,2000,Americas,Latin America and the Caribbean,13,15,2
+Insecta,GS,2010,Americas,Latin America and the Caribbean,1,25,1
+Insecta,GT,1800,Americas,Latin America and the Caribbean,1,1,1
+Insecta,GT,1850,Americas,Latin America and the Caribbean,2,2,2
+Insecta,GT,1860,Americas,Latin America and the Caribbean,1,1,1
+Insecta,GT,1870,Americas,Latin America and the Caribbean,12,12,3
+Insecta,GT,1880,Americas,Latin America and the Caribbean,49,49,21
+Insecta,GT,1890,Americas,Latin America and the Caribbean,3,4,3
+Insecta,GT,1900,Americas,Latin America and the Caribbean,783,833,273
+Insecta,GT,1910,Americas,Latin America and the Caribbean,217,580,107
+Insecta,GT,1920,Americas,Latin America and the Caribbean,120,142,66
+Insecta,GT,1930,Americas,Latin America and the Caribbean,401,438,184
+Insecta,GT,1940,Americas,Latin America and the Caribbean,1147,1449,230
+Insecta,GT,1950,Americas,Latin America and the Caribbean,154,253,64
+Insecta,GT,1960,Americas,Latin America and the Caribbean,2313,3143,392
+Insecta,GT,1970,Americas,Latin America and the Caribbean,1148,11643,252
+Insecta,GT,1980,Americas,Latin America and the Caribbean,186,265,100
+Insecta,GT,1990,Americas,Latin America and the Caribbean,451,537,128
+Insecta,GT,2000,Americas,Latin America and the Caribbean,535,652,137
+Insecta,GT,2010,Americas,Latin America and the Caribbean,3551,3594,267
+Insecta,GT,2020,Americas,Latin America and the Caribbean,2,2,1
+Insecta,GU,1900,Oceania,Micronesia,16,16,7
+Insecta,GU,1920,Oceania,Micronesia,4,4,3
+Insecta,GU,1930,Oceania,Micronesia,33,43,28
+Insecta,GU,1940,Oceania,Micronesia,144,218,67
+Insecta,GU,1950,Oceania,Micronesia,55,156,13
+Insecta,GU,1970,Oceania,Micronesia,16,16,4
+Insecta,GU,1980,Oceania,Micronesia,6,9,2
+Insecta,GU,1990,Oceania,Micronesia,11,12,4
+Insecta,GU,2000,Oceania,Micronesia,13,13,6
+Insecta,GU,2010,Oceania,Micronesia,3,3,2
+Insecta,GW,1890,Africa,Sub-Saharan Africa,4,4,4
+Insecta,GW,1920,Africa,Sub-Saharan Africa,3,3,2
+Insecta,GW,1940,Africa,Sub-Saharan Africa,41,41,4
+Insecta,GW,1950,Africa,Sub-Saharan Africa,10,10,7
+Insecta,GW,1960,Africa,Sub-Saharan Africa,5,5,5
+Insecta,GW,1980,Africa,Sub-Saharan Africa,1,1,1
+Insecta,GW,1990,Africa,Sub-Saharan Africa,33,36,12
+Insecta,GW,2000,Africa,Sub-Saharan Africa,23,23,2
+Insecta,GW,2010,Africa,Sub-Saharan Africa,110,228,52
+Insecta,GY,1700,Americas,Latin America and the Caribbean,3,96,2
+Insecta,GY,1890,Americas,Latin America and the Caribbean,3,3,1
+Insecta,GY,1900,Americas,Latin America and the Caribbean,61,65,55
+Insecta,GY,1910,Americas,Latin America and the Caribbean,202,230,126
+Insecta,GY,1920,Americas,Latin America and the Caribbean,532,1537,203
+Insecta,GY,1930,Americas,Latin America and the Caribbean,146,203,56
+Insecta,GY,1940,Americas,Latin America and the Caribbean,46,55,17
+Insecta,GY,1950,Americas,Latin America and the Caribbean,24,24,15
+Insecta,GY,1960,Americas,Latin America and the Caribbean,145,157,60
+Insecta,GY,1970,Americas,Latin America and the Caribbean,62,62,29
+Insecta,GY,1980,Americas,Latin America and the Caribbean,107,115,58
+Insecta,GY,1990,Americas,Latin America and the Caribbean,1038,1057,175
+Insecta,GY,2000,Americas,Latin America and the Caribbean,223,223,41
+Insecta,GY,2010,Americas,Latin America and the Caribbean,248,248,73
+Insecta,GY,2020,Americas,Latin America and the Caribbean,1,1,1
+Insecta,HK,1850,Asia,Eastern Asia,13,13,7
+Insecta,HK,1890,Asia,Eastern Asia,1,1,1
+Insecta,HK,1900,Asia,Eastern Asia,3,9,2
+Insecta,HK,1910,Asia,Eastern Asia,3,45,3
+Insecta,HK,1920,Asia,Eastern Asia,1,1,1
+Insecta,HK,1930,Asia,Eastern Asia,2,2,2
+Insecta,HK,1940,Asia,Eastern Asia,5,5,4
+Insecta,HK,1950,Asia,Eastern Asia,6,6,4
+Insecta,HK,1960,Asia,Eastern Asia,150,178,54
+Insecta,HK,1970,Asia,Eastern Asia,18,20,10
+Insecta,HK,1980,Asia,Eastern Asia,27,27,11
+Insecta,HK,1990,Asia,Eastern Asia,1,1,1
+Insecta,HK,2000,Asia,Eastern Asia,7,7,5
+Insecta,HM,2000,Oceania,Australia and New Zealand,1860,16886,7
+Insecta,HN,1700,Americas,Latin America and the Caribbean,4,4,3
+Insecta,HN,1880,Americas,Latin America and the Caribbean,2,6,1
+Insecta,HN,1890,Americas,Latin America and the Caribbean,40,48,32
+Insecta,HN,1900,Americas,Latin America and the Caribbean,35,35,21
+Insecta,HN,1910,Americas,Latin America and the Caribbean,88,88,60
+Insecta,HN,1920,Americas,Latin America and the Caribbean,176,282,92
+Insecta,HN,1930,Americas,Latin America and the Caribbean,1345,1391,310
+Insecta,HN,1940,Americas,Latin America and the Caribbean,76,76,42
+Insecta,HN,1950,Americas,Latin America and the Caribbean,89,89,50
+Insecta,HN,1960,Americas,Latin America and the Caribbean,843,1061,224
+Insecta,HN,1970,Americas,Latin America and the Caribbean,610,711,205
+Insecta,HN,1980,Americas,Latin America and the Caribbean,81,124,46
+Insecta,HN,1990,Americas,Latin America and the Caribbean,384,491,103
+Insecta,HN,2000,Americas,Latin America and the Caribbean,469,2453,99
+Insecta,HN,2010,Americas,Latin America and the Caribbean,66,98,44
+Insecta,HR,1770,Europe,Southern Europe,2,4,1
+Insecta,HR,1840,Europe,Southern Europe,1,1,1
+Insecta,HR,1850,Europe,Southern Europe,2,3,1
+Insecta,HR,1860,Europe,Southern Europe,9,9,5
+Insecta,HR,1870,Europe,Southern Europe,25,27,14
+Insecta,HR,1880,Europe,Southern Europe,26,26,15
+Insecta,HR,1890,Europe,Southern Europe,126,126,59
+Insecta,HR,1900,Europe,Southern Europe,29,29,19
+Insecta,HR,1910,Europe,Southern Europe,82,112,33
+Insecta,HR,1920,Europe,Southern Europe,165,196,43
+Insecta,HR,1930,Europe,Southern Europe,85,93,28
+Insecta,HR,1940,Europe,Southern Europe,4,4,3
+Insecta,HR,1950,Europe,Southern Europe,221,225,104
+Insecta,HR,1960,Europe,Southern Europe,931,947,165
+Insecta,HR,1970,Europe,Southern Europe,1201,1261,298
+Insecta,HR,1980,Europe,Southern Europe,1313,1392,327
+Insecta,HR,1990,Europe,Southern Europe,72,78,23
+Insecta,HR,2000,Europe,Southern Europe,321,324,89
+Insecta,HR,2010,Europe,Southern Europe,49,49,27
+Insecta,HT,1840,Americas,Latin America and the Caribbean,2,2,1
+Insecta,HT,1850,Americas,Latin America and the Caribbean,1,1,1
+Insecta,HT,1870,Americas,Latin America and the Caribbean,1,1,1
+Insecta,HT,1890,Americas,Latin America and the Caribbean,7,7,5
+Insecta,HT,1900,Americas,Latin America and the Caribbean,55,141,11
+Insecta,HT,1910,Americas,Latin America and the Caribbean,173,402,64
+Insecta,HT,1920,Americas,Latin America and the Caribbean,125,145,71
+Insecta,HT,1930,Americas,Latin America and the Caribbean,1508,1567,297
+Insecta,HT,1940,Americas,Latin America and the Caribbean,32,32,5
+Insecta,HT,1950,Americas,Latin America and the Caribbean,453,458,101
+Insecta,HT,1960,Americas,Latin America and the Caribbean,12,15,8
+Insecta,HT,1970,Americas,Latin America and the Caribbean,95,3112,35
+Insecta,HT,1980,Americas,Latin America and the Caribbean,17,27,7
+Insecta,HT,1990,Americas,Latin America and the Caribbean,6,6,4
+Insecta,HT,2000,Americas,Latin America and the Caribbean,1,1,1
+Insecta,HT,2010,Americas,Latin America and the Caribbean,23,25,10
+Insecta,HU,1840,Europe,Eastern Europe,6,6,1
+Insecta,HU,1870,Europe,Eastern Europe,1,1,1
+Insecta,HU,1880,Europe,Eastern Europe,25,26,13
+Insecta,HU,1890,Europe,Eastern Europe,61,63,39
+Insecta,HU,1900,Europe,Eastern Europe,45,48,32
+Insecta,HU,1910,Europe,Eastern Europe,67,69,42
+Insecta,HU,1920,Europe,Eastern Europe,192,195,84
+Insecta,HU,1930,Europe,Eastern Europe,57,91,30
+Insecta,HU,1940,Europe,Eastern Europe,20,20,16
+Insecta,HU,1950,Europe,Eastern Europe,214,218,114
+Insecta,HU,1960,Europe,Eastern Europe,169,181,71
+Insecta,HU,1970,Europe,Eastern Europe,142,152,85
+Insecta,HU,1980,Europe,Eastern Europe,416,454,108
+Insecta,HU,1990,Europe,Eastern Europe,163,178,72
+Insecta,HU,2000,Europe,Eastern Europe,186,189,69
+Insecta,HU,2010,Europe,Eastern Europe,48,97,26
+Insecta,ID,1700,Asia,South-eastern Asia,2,12,2
+Insecta,ID,1790,Asia,South-eastern Asia,1,1,1
+Insecta,ID,1800,Asia,South-eastern Asia,1,1,1
+Insecta,ID,1820,Asia,South-eastern Asia,4,4,4
+Insecta,ID,1830,Asia,South-eastern Asia,3,3,3
+Insecta,ID,1840,Asia,South-eastern Asia,2,2,2
+Insecta,ID,1850,Asia,South-eastern Asia,7,7,6
+Insecta,ID,1860,Asia,South-eastern Asia,21,21,16
+Insecta,ID,1870,Asia,South-eastern Asia,58,94,41
+Insecta,ID,1880,Asia,South-eastern Asia,285,292,152
+Insecta,ID,1890,Asia,South-eastern Asia,1505,1553,297
+Insecta,ID,1900,Asia,South-eastern Asia,1157,1465,287
+Insecta,ID,1910,Asia,South-eastern Asia,1163,1298,414
+Insecta,ID,1920,Asia,South-eastern Asia,1406,1454,476
+Insecta,ID,1930,Asia,South-eastern Asia,2539,2721,939
+Insecta,ID,1940,Asia,South-eastern Asia,2697,2846,592
+Insecta,ID,1950,Asia,South-eastern Asia,1293,1691,443
+Insecta,ID,1960,Asia,South-eastern Asia,681,748,281
+Insecta,ID,1970,Asia,South-eastern Asia,4496,24742,417
+Insecta,ID,1980,Asia,South-eastern Asia,1667,2181,421
+Insecta,ID,1990,Asia,South-eastern Asia,1885,2078,425
+Insecta,ID,2000,Asia,South-eastern Asia,543,739,277
+Insecta,ID,2010,Asia,South-eastern Asia,191,341,97
+Insecta,ID,2020,Asia,South-eastern Asia,14,14,7
+Insecta,IE,1810,Europe,Northern Europe,1,1,1
+Insecta,IE,1820,Europe,Northern Europe,1,1,1
+Insecta,IE,1860,Europe,Northern Europe,5,5,3
+Insecta,IE,1870,Europe,Northern Europe,12,12,8
+Insecta,IE,1880,Europe,Northern Europe,54,54,29
+Insecta,IE,1890,Europe,Northern Europe,1023,1023,132
+Insecta,IE,1900,Europe,Northern Europe,263,263,77
+Insecta,IE,1910,Europe,Northern Europe,1119,1119,93
+Insecta,IE,1920,Europe,Northern Europe,2657,2657,155
+Insecta,IE,1930,Europe,Northern Europe,2775,2777,212
+Insecta,IE,1940,Europe,Northern Europe,511,521,116
+Insecta,IE,1950,Europe,Northern Europe,836,836,150
+Insecta,IE,1960,Europe,Northern Europe,842,842,131
+Insecta,IE,1970,Europe,Northern Europe,547,631,131
+Insecta,IE,1980,Europe,Northern Europe,187,187,66
+Insecta,IE,1990,Europe,Northern Europe,20,20,14
+Insecta,IE,2000,Europe,Northern Europe,91,91,36
+Insecta,IE,2010,Europe,Northern Europe,137,137,40
+Insecta,IE,2020,Europe,Northern Europe,92,92,8
+Insecta,IL,1870,Asia,Western Asia,2,2,2
+Insecta,IL,1880,Asia,Western Asia,3,3,2
+Insecta,IL,1900,Asia,Western Asia,12,12,3
+Insecta,IL,1910,Asia,Western Asia,2,2,1
+Insecta,IL,1920,Asia,Western Asia,23,103,8
+Insecta,IL,1930,Asia,Western Asia,47,53,16
+Insecta,IL,1940,Asia,Western Asia,22,22,16
+Insecta,IL,1950,Asia,Western Asia,109,128,65
+Insecta,IL,1960,Asia,Western Asia,112,131,40
+Insecta,IL,1970,Asia,Western Asia,208,294,101
+Insecta,IL,1980,Asia,Western Asia,547,556,63
+Insecta,IL,1990,Asia,Western Asia,132,177,26
+Insecta,IL,2000,Asia,Western Asia,86,93,13
+Insecta,IL,2010,Asia,Western Asia,24,129,11
+Insecta,IM,1860,Europe,Northern Europe,3,3,3
+Insecta,IM,1870,Europe,Northern Europe,1,1,1
+Insecta,IM,1880,Europe,Northern Europe,10,10,3
+Insecta,IM,1890,Europe,Northern Europe,128,128,25
+Insecta,IM,1900,Europe,Northern Europe,102,102,30
+Insecta,IM,1910,Europe,Northern Europe,1,1,1
+Insecta,IM,1920,Europe,Northern Europe,6,6,3
+Insecta,IM,1930,Europe,Northern Europe,3,3,2
+Insecta,IM,1940,Europe,Northern Europe,62,62,3
+Insecta,IM,1950,Europe,Northern Europe,10,10,10
+Insecta,IM,1960,Europe,Northern Europe,4,4,3
+Insecta,IM,1970,Europe,Northern Europe,27,27,3
+Insecta,IM,1980,Europe,Northern Europe,31,92,23
+Insecta,IM,1990,Europe,Northern Europe,31,65,18
+Insecta,IM,2000,Europe,Northern Europe,8,8,6
+Insecta,IM,2010,Europe,Northern Europe,1,1,1
+Insecta,IM,2020,Europe,Northern Europe,4,4,4
+Insecta,IN,1700,Asia,Southern Asia,2,2,2
+Insecta,IN,1800,Asia,Southern Asia,2,2,1
+Insecta,IN,1810,Asia,Southern Asia,1,1,1
+Insecta,IN,1820,Asia,Southern Asia,4,4,4
+Insecta,IN,1830,Asia,Southern Asia,17,17,10
+Insecta,IN,1840,Asia,Southern Asia,4,4,4
+Insecta,IN,1850,Asia,Southern Asia,3,3,3
+Insecta,IN,1860,Asia,Southern Asia,8,8,6
+Insecta,IN,1870,Asia,Southern Asia,17,18,11
+Insecta,IN,1880,Asia,Southern Asia,197,201,107
+Insecta,IN,1890,Asia,Southern Asia,451,507,204
+Insecta,IN,1900,Asia,Southern Asia,349,351,182
+Insecta,IN,1910,Asia,Southern Asia,526,582,262
+Insecta,IN,1920,Asia,Southern Asia,668,682,313
+Insecta,IN,1930,Asia,Southern Asia,426,567,244
+Insecta,IN,1940,Asia,Southern Asia,432,555,199
+Insecta,IN,1950,Asia,Southern Asia,768,810,610
+Insecta,IN,1960,Asia,Southern Asia,1266,2340,654
+Insecta,IN,1970,Asia,Southern Asia,692,725,315
+Insecta,IN,1980,Asia,Southern Asia,1308,1531,301
+Insecta,IN,1990,Asia,Southern Asia,1180,1212,139
+Insecta,IN,2000,Asia,Southern Asia,239,242,54
+Insecta,IN,2010,Asia,Southern Asia,22,33,16
+Insecta,IO,2000,Africa,Sub-Saharan Africa,1,1,1
+Insecta,IQ,1850,Asia,Western Asia,1,1,1
+Insecta,IQ,1900,Asia,Western Asia,1,1,1
+Insecta,IQ,1910,Asia,Western Asia,1,1,1
+Insecta,IQ,1920,Asia,Western Asia,27,27,8
+Insecta,IQ,1930,Asia,Western Asia,14,14,7
+Insecta,IQ,1950,Asia,Western Asia,63,105,13
+Insecta,IQ,1960,Asia,Western Asia,13,18,9
+Insecta,IQ,1970,Asia,Western Asia,51,53,15
+Insecta,IQ,1980,Asia,Western Asia,54,54,16
+Insecta,IQ,2010,Asia,Western Asia,1,1,1
+Insecta,IR,1860,Asia,Southern Asia,3,3,1
+Insecta,IR,1870,Asia,Southern Asia,9,12,5
+Insecta,IR,1880,Asia,Southern Asia,4,4,2
+Insecta,IR,1890,Asia,Southern Asia,32,40,23
+Insecta,IR,1900,Asia,Southern Asia,35,38,16
+Insecta,IR,1910,Asia,Southern Asia,9,9,5
+Insecta,IR,1920,Asia,Southern Asia,6,6,2
+Insecta,IR,1930,Asia,Southern Asia,50,54,36
+Insecta,IR,1940,Asia,Southern Asia,17,17,10
+Insecta,IR,1950,Asia,Southern Asia,336,384,105
+Insecta,IR,1960,Asia,Southern Asia,549,1020,93
+Insecta,IR,1970,Asia,Southern Asia,362,431,86
+Insecta,IR,1980,Asia,Southern Asia,22,29,17
+Insecta,IR,1990,Asia,Southern Asia,258,271,38
+Insecta,IR,2000,Asia,Southern Asia,846,952,139
+Insecta,IR,2010,Asia,Southern Asia,107,180,23
+Insecta,IS,1830,Europe,Northern Europe,2,2,1
+Insecta,IS,1870,Europe,Northern Europe,5,5,3
+Insecta,IS,1880,Europe,Northern Europe,1,1,1
+Insecta,IS,1900,Europe,Northern Europe,1,1,1
+Insecta,IS,1920,Europe,Northern Europe,3,3,3
+Insecta,IS,1930,Europe,Northern Europe,7,9,1
+Insecta,IS,1940,Europe,Northern Europe,2,2,1
+Insecta,IS,1950,Europe,Northern Europe,15,43,2
+Insecta,IS,1960,Europe,Northern Europe,22,48,10
+Insecta,IS,1970,Europe,Northern Europe,29,53,6
+Insecta,IS,1980,Europe,Northern Europe,3,3,2
+Insecta,IS,1990,Europe,Northern Europe,1,1,1
+Insecta,IS,2000,Europe,Northern Europe,151,695,42
+Insecta,IS,2010,Europe,Northern Europe,59,86,22
+Insecta,IT,1800,Europe,Southern Europe,2,2,2
+Insecta,IT,1810,Europe,Southern Europe,1,1,1
+Insecta,IT,1830,Europe,Southern Europe,2,2,1
+Insecta,IT,1840,Europe,Southern Europe,1,1,1
+Insecta,IT,1850,Europe,Southern Europe,5,5,5
+Insecta,IT,1860,Europe,Southern Europe,3,3,2
+Insecta,IT,1870,Europe,Southern Europe,47,51,22
+Insecta,IT,1880,Europe,Southern Europe,56,59,37
+Insecta,IT,1890,Europe,Southern Europe,922,979,303
+Insecta,IT,1900,Europe,Southern Europe,850,956,92
+Insecta,IT,1910,Europe,Southern Europe,1504,1522,241
+Insecta,IT,1920,Europe,Southern Europe,1137,1273,231
+Insecta,IT,1930,Europe,Southern Europe,880,969,154
+Insecta,IT,1940,Europe,Southern Europe,622,1031,198
+Insecta,IT,1950,Europe,Southern Europe,2760,2981,389
+Insecta,IT,1960,Europe,Southern Europe,3567,3662,484
+Insecta,IT,1970,Europe,Southern Europe,1806,1870,543
+Insecta,IT,1980,Europe,Southern Europe,2982,3249,787
+Insecta,IT,1990,Europe,Southern Europe,1981,2131,476
+Insecta,IT,2000,Europe,Southern Europe,2338,2762,473
+Insecta,IT,2010,Europe,Southern Europe,644,860,155
+Insecta,IT,2020,Europe,Southern Europe,6,6,4
+Insecta,JE,1920,Europe,Northern Europe,1,1,1
+Insecta,JE,1940,Europe,Northern Europe,1,1,1
+Insecta,JE,1950,Europe,Northern Europe,1,1,1
+Insecta,JE,1960,Europe,Northern Europe,1,1,1
+Insecta,JE,1970,Europe,Northern Europe,3,3,2
+Insecta,JE,2000,Europe,Northern Europe,1,1,1
+Insecta,JM,1840,Americas,Latin America and the Caribbean,1,1,1
+Insecta,JM,1870,Americas,Latin America and the Caribbean,72,72,25
+Insecta,JM,1880,Americas,Latin America and the Caribbean,2,2,2
+Insecta,JM,1890,Americas,Latin America and the Caribbean,33,43,21
+Insecta,JM,1900,Americas,Latin America and the Caribbean,113,187,70
+Insecta,JM,1910,Americas,Latin America and the Caribbean,145,243,68
+Insecta,JM,1920,Americas,Latin America and the Caribbean,57,66,39
+Insecta,JM,1930,Americas,Latin America and the Caribbean,202,202,117
+Insecta,JM,1940,Americas,Latin America and the Caribbean,406,411,109
+Insecta,JM,1950,Americas,Latin America and the Caribbean,1483,1494,286
+Insecta,JM,1960,Americas,Latin America and the Caribbean,1056,1103,290
+Insecta,JM,1970,Americas,Latin America and the Caribbean,878,916,233
+Insecta,JM,1980,Americas,Latin America and the Caribbean,567,573,147
+Insecta,JM,1990,Americas,Latin America and the Caribbean,53,53,18
+Insecta,JM,2000,Americas,Latin America and the Caribbean,375,418,80
+Insecta,JM,2010,Americas,Latin America and the Caribbean,251,420,36
+Insecta,JO,1890,Asia,Western Asia,3,3,1
+Insecta,JO,1900,Asia,Western Asia,2,2,2
+Insecta,JO,1910,Asia,Western Asia,9,24,2
+Insecta,JO,1930,Asia,Western Asia,4,4,1
+Insecta,JO,1950,Asia,Western Asia,13,16,6
+Insecta,JO,1960,Asia,Western Asia,12,13,4
+Insecta,JO,1970,Asia,Western Asia,10,10,6
+Insecta,JO,1980,Asia,Western Asia,19,39,8
+Insecta,JO,1990,Asia,Western Asia,3,3,3
+Insecta,JP,1700,Asia,Eastern Asia,1,1,1
+Insecta,JP,1830,Asia,Eastern Asia,3,3,3
+Insecta,JP,1860,Asia,Eastern Asia,2,2,2
+Insecta,JP,1870,Asia,Eastern Asia,1,1,1
+Insecta,JP,1880,Asia,Eastern Asia,22,24,21
+Insecta,JP,1890,Asia,Eastern Asia,34,263,19
+Insecta,JP,1900,Asia,Eastern Asia,220,269,105
+Insecta,JP,1910,Asia,Eastern Asia,378,744,217
+Insecta,JP,1920,Asia,Eastern Asia,422,1665,289
+Insecta,JP,1930,Asia,Eastern Asia,477,675,279
+Insecta,JP,1940,Asia,Eastern Asia,2135,2314,458
+Insecta,JP,1950,Asia,Eastern Asia,5807,6381,1192
+Insecta,JP,1960,Asia,Eastern Asia,2972,3251,658
+Insecta,JP,1970,Asia,Eastern Asia,3591,3647,521
+Insecta,JP,1980,Asia,Eastern Asia,1336,1388,313
+Insecta,JP,1990,Asia,Eastern Asia,662,718,202
+Insecta,JP,2000,Asia,Eastern Asia,1087,1110,193
+Insecta,JP,2010,Asia,Eastern Asia,663,742,107
+Insecta,JP,2020,Asia,Eastern Asia,20,37,4
+Insecta,KE,1830,Africa,Sub-Saharan Africa,1,1,1
+Insecta,KE,1860,Africa,Sub-Saharan Africa,1,1,1
+Insecta,KE,1870,Africa,Sub-Saharan Africa,2,2,2
+Insecta,KE,1880,Africa,Sub-Saharan Africa,6,6,6
+Insecta,KE,1890,Africa,Sub-Saharan Africa,29,29,23
+Insecta,KE,1900,Africa,Sub-Saharan Africa,162,168,99
+Insecta,KE,1910,Africa,Sub-Saharan Africa,477,493,224
+Insecta,KE,1920,Africa,Sub-Saharan Africa,1297,1298,313
+Insecta,KE,1930,Africa,Sub-Saharan Africa,8002,10873,991
+Insecta,KE,1940,Africa,Sub-Saharan Africa,6039,6247,925
+Insecta,KE,1950,Africa,Sub-Saharan Africa,4775,5059,985
+Insecta,KE,1960,Africa,Sub-Saharan Africa,3172,3567,816
+Insecta,KE,1970,Africa,Sub-Saharan Africa,9499,18948,1381
+Insecta,KE,1980,Africa,Sub-Saharan Africa,3277,3503,718
+Insecta,KE,1990,Africa,Sub-Saharan Africa,6632,8547,622
+Insecta,KE,2000,Africa,Sub-Saharan Africa,5407,14508,526
+Insecta,KE,2010,Africa,Sub-Saharan Africa,3127,4350,319
+Insecta,KE,2020,Africa,Sub-Saharan Africa,673,673,94
+Insecta,KG,1870,Asia,Central Asia,1,3,1
+Insecta,KG,1880,Asia,Central Asia,5,5,4
+Insecta,KG,1890,Asia,Central Asia,37,37,19
+Insecta,KG,1900,Asia,Central Asia,1269,1269,38
+Insecta,KG,1910,Asia,Central Asia,1067,1067,19
+Insecta,KG,1920,Asia,Central Asia,81,81,12
+Insecta,KG,1930,Asia,Central Asia,2,2,2
+Insecta,KG,1950,Asia,Central Asia,1,1,1
+Insecta,KG,1960,Asia,Central Asia,5,13,3
+Insecta,KG,1970,Asia,Central Asia,18,18,7
+Insecta,KG,1980,Asia,Central Asia,187,236,62
+Insecta,KG,1990,Asia,Central Asia,839,839,119
+Insecta,KG,2000,Asia,Central Asia,33,33,26
+Insecta,KG,2010,Asia,Central Asia,227,238,50
+Insecta,KH,1870,Asia,South-eastern Asia,4,4,3
+Insecta,KH,1880,Asia,South-eastern Asia,8,8,4
+Insecta,KH,1910,Asia,South-eastern Asia,1,1,1
+Insecta,KH,1920,Asia,South-eastern Asia,2,2,2
+Insecta,KH,1950,Asia,South-eastern Asia,41,45,18
+Insecta,KH,1960,Asia,South-eastern Asia,13,13,11
+Insecta,KH,1970,Asia,South-eastern Asia,1,4,1
+Insecta,KH,1990,Asia,South-eastern Asia,6,6,2
+Insecta,KH,2000,Asia,South-eastern Asia,2,2,2
+Insecta,KH,2010,Asia,South-eastern Asia,147,189,96
+Insecta,KI,1890,Oceania,Micronesia,3,3,2
+Insecta,KI,1900,Oceania,Micronesia,2,2,1
+Insecta,KI,1920,Oceania,Micronesia,12,63,3
+Insecta,KI,1930,Oceania,Micronesia,1,1,1
+Insecta,KI,1940,Oceania,Micronesia,6,7,6
+Insecta,KI,1950,Oceania,Micronesia,81,188,9
+Insecta,KI,1970,Oceania,Micronesia,9,9,2
+Insecta,KI,1980,Oceania,Micronesia,1,1,1
+Insecta,KM,1880,Africa,Sub-Saharan Africa,10,10,7
+Insecta,KM,1890,Africa,Sub-Saharan Africa,2,2,2
+Insecta,KM,1920,Africa,Sub-Saharan Africa,2,2,1
+Insecta,KM,1930,Africa,Sub-Saharan Africa,5,5,4
+Insecta,KM,1950,Africa,Sub-Saharan Africa,54,58,35
+Insecta,KM,1960,Africa,Sub-Saharan Africa,16,16,7
+Insecta,KM,1970,Africa,Sub-Saharan Africa,128,128,39
+Insecta,KM,1980,Africa,Sub-Saharan Africa,65,74,25
+Insecta,KM,1990,Africa,Sub-Saharan Africa,13,22,4
+Insecta,KM,2000,Africa,Sub-Saharan Africa,25,145,9
+Insecta,KM,2010,Africa,Sub-Saharan Africa,1,1,1
+Insecta,KN,1910,Americas,Latin America and the Caribbean,1,1,1
+Insecta,KN,1920,Americas,Latin America and the Caribbean,1,1,1
+Insecta,KN,1930,Americas,Latin America and the Caribbean,18,21,8
+Insecta,KN,1940,Americas,Latin America and the Caribbean,4,4,4
+Insecta,KN,1950,Americas,Latin America and the Caribbean,1,1,1
+Insecta,KN,1960,Americas,Latin America and the Caribbean,19,19,7
+Insecta,KN,1970,Americas,Latin America and the Caribbean,1,1,1
+Insecta,KN,1980,Americas,Latin America and the Caribbean,187,187,34
+Insecta,KN,1990,Americas,Latin America and the Caribbean,10,33,7
+Insecta,KN,2000,Americas,Latin America and the Caribbean,686,2714,59
+Insecta,KN,2010,Americas,Latin America and the Caribbean,3,7,2
+Insecta,KP,1860,Asia,Eastern Asia,10,10,3
+Insecta,KP,1880,Asia,Eastern Asia,1,1,1
+Insecta,KP,1900,Asia,Eastern Asia,7,7,3
+Insecta,KP,1910,Asia,Eastern Asia,8,8,6
+Insecta,KP,1920,Asia,Eastern Asia,2,2,2
+Insecta,KP,1930,Asia,Eastern Asia,518,518,192
+Insecta,KP,1940,Asia,Eastern Asia,7,7,5
+Insecta,KP,1950,Asia,Eastern Asia,9,9,6
+Insecta,KP,1970,Asia,Eastern Asia,48,145,34
+Insecta,KP,1980,Asia,Eastern Asia,52,81,26
+Insecta,KP,1990,Asia,Eastern Asia,5,5,3
+Insecta,KR,1910,Asia,Eastern Asia,6,51,6
+Insecta,KR,1920,Asia,Eastern Asia,2,2,2
+Insecta,KR,1930,Asia,Eastern Asia,61,63,43
+Insecta,KR,1940,Asia,Eastern Asia,28,28,17
+Insecta,KR,1950,Asia,Eastern Asia,171,173,38
+Insecta,KR,1960,Asia,Eastern Asia,27,33,16
+Insecta,KR,1970,Asia,Eastern Asia,10,19,5
+Insecta,KR,1980,Asia,Eastern Asia,28,44,12
+Insecta,KR,1990,Asia,Eastern Asia,24,24,14
+Insecta,KR,2000,Asia,Eastern Asia,62,116,33
+Insecta,KR,2010,Asia,Eastern Asia,73,737,35
+Insecta,KR,2020,Asia,Eastern Asia,12,33,5
+Insecta,KW,1980,Asia,Western Asia,14,14,3
+Insecta,KY,1930,Americas,Latin America and the Caribbean,3,4,2
+Insecta,KY,1940,Americas,Latin America and the Caribbean,1,3,1
+Insecta,KY,1950,Americas,Latin America and the Caribbean,1,1,1
+Insecta,KY,1960,Americas,Latin America and the Caribbean,42,42,8
+Insecta,KY,1970,Americas,Latin America and the Caribbean,13,70,8
+Insecta,KY,1980,Americas,Latin America and the Caribbean,24,28,11
+Insecta,KY,2000,Americas,Latin America and the Caribbean,54,94,11
+Insecta,KZ,1860,Asia,Central Asia,1,1,1
+Insecta,KZ,1870,Asia,Central Asia,1,1,1
+Insecta,KZ,1880,Asia,Central Asia,10,10,5
+Insecta,KZ,1890,Asia,Central Asia,23,23,15
+Insecta,KZ,1900,Asia,Central Asia,1352,1352,30
+Insecta,KZ,1910,Asia,Central Asia,108,108,27
+Insecta,KZ,1920,Asia,Central Asia,7,7,7
+Insecta,KZ,1930,Asia,Central Asia,5,5,3
+Insecta,KZ,1940,Asia,Central Asia,2,2,2
+Insecta,KZ,1950,Asia,Central Asia,19,31,17
+Insecta,KZ,1960,Asia,Central Asia,20,51,18
+Insecta,KZ,1970,Asia,Central Asia,20,20,17
+Insecta,KZ,1980,Asia,Central Asia,152,152,56
+Insecta,KZ,1990,Asia,Central Asia,600,1051,87
+Insecta,KZ,2000,Asia,Central Asia,176,204,28
+Insecta,KZ,2010,Asia,Central Asia,17,18,8
+Insecta,KZ,2020,Asia,Central Asia,2,2,1
+Insecta,LA,1880,Asia,South-eastern Asia,3,3,3
+Insecta,LA,1910,Asia,South-eastern Asia,38,38,28
+Insecta,LA,1920,Asia,South-eastern Asia,16,19,14
+Insecta,LA,1930,Asia,South-eastern Asia,4,4,2
+Insecta,LA,1940,Asia,South-eastern Asia,8,8,3
+Insecta,LA,1950,Asia,South-eastern Asia,2,3,2
+Insecta,LA,1960,Asia,South-eastern Asia,128,128,70
+Insecta,LA,1990,Asia,South-eastern Asia,26,26,13
+Insecta,LA,2000,Asia,South-eastern Asia,143,146,50
+Insecta,LA,2010,Asia,South-eastern Asia,1847,1860,161
+Insecta,LA,2020,Asia,South-eastern Asia,2,2,2
+Insecta,LB,1850,Asia,Western Asia,3,3,2
+Insecta,LB,1860,Asia,Western Asia,1,1,1
+Insecta,LB,1880,Asia,Western Asia,1,1,1
+Insecta,LB,1900,Asia,Western Asia,5,5,3
+Insecta,LB,1920,Asia,Western Asia,1,1,1
+Insecta,LB,1930,Asia,Western Asia,19,49,13
+Insecta,LB,1940,Asia,Western Asia,4,4,1
+Insecta,LB,1950,Asia,Western Asia,45,104,8
+Insecta,LB,1960,Asia,Western Asia,11,16,10
+Insecta,LB,1970,Asia,Western Asia,26,27,10
+Insecta,LB,1990,Asia,Western Asia,2,2,2
+Insecta,LB,2000,Asia,Western Asia,9,18,5
+Insecta,LB,2010,Asia,Western Asia,114,114,19
+Insecta,LC,1900,Americas,Latin America and the Caribbean,5,25,1
+Insecta,LC,1910,Americas,Latin America and the Caribbean,8,8,4
+Insecta,LC,1920,Americas,Latin America and the Caribbean,1,5,1
+Insecta,LC,1930,Americas,Latin America and the Caribbean,21,21,16
+Insecta,LC,1940,Americas,Latin America and the Caribbean,1,1,1
+Insecta,LC,1950,Americas,Latin America and the Caribbean,10,10,6
+Insecta,LC,1960,Americas,Latin America and the Caribbean,80,98,22
+Insecta,LC,1970,Americas,Latin America and the Caribbean,31,31,17
+Insecta,LC,1980,Americas,Latin America and the Caribbean,92,98,10
+Insecta,LC,1990,Americas,Latin America and the Caribbean,9,9,4
+Insecta,LC,2000,Americas,Latin America and the Caribbean,1065,1901,51
+Insecta,LC,2010,Americas,Latin America and the Caribbean,8,8,3
+Insecta,LI,1970,Europe,Western Europe,1,1,1
+Insecta,LI,1980,Europe,Western Europe,1,1,1
+Insecta,LK,1880,Asia,Southern Asia,29,29,16
+Insecta,LK,1890,Asia,Southern Asia,86,87,30
+Insecta,LK,1900,Asia,Southern Asia,89,99,48
+Insecta,LK,1910,Asia,Southern Asia,161,161,67
+Insecta,LK,1920,Asia,Southern Asia,59,59,31
+Insecta,LK,1930,Asia,Southern Asia,45,45,26
+Insecta,LK,1940,Asia,Southern Asia,34,38,4
+Insecta,LK,1950,Asia,Southern Asia,396,455,168
+Insecta,LK,1960,Asia,Southern Asia,92,126,42
+Insecta,LK,1970,Asia,Southern Asia,2587,2602,506
+Insecta,LK,1980,Asia,Southern Asia,145,145,86
+Insecta,LK,1990,Asia,Southern Asia,353,387,45
+Insecta,LK,2000,Asia,Southern Asia,52,59,28
+Insecta,LK,2010,Asia,Southern Asia,6,18,4
+Insecta,LR,1880,Africa,Sub-Saharan Africa,15,13,6
+Insecta,LR,1890,Africa,Sub-Saharan Africa,28,22,12
+Insecta,LR,1900,Africa,Sub-Saharan Africa,3,3,2
+Insecta,LR,1910,Africa,Sub-Saharan Africa,1,1,1
+Insecta,LR,1920,Africa,Sub-Saharan Africa,63,75,43
+Insecta,LR,1930,Africa,Sub-Saharan Africa,4,4,4
+Insecta,LR,1940,Africa,Sub-Saharan Africa,113,113,80
+Insecta,LR,1950,Africa,Sub-Saharan Africa,226,314,97
+Insecta,LR,1960,Africa,Sub-Saharan Africa,324,393,96
+Insecta,LR,1970,Africa,Sub-Saharan Africa,141,142,40
+Insecta,LR,1980,Africa,Sub-Saharan Africa,190,190,107
+Insecta,LR,1990,Africa,Sub-Saharan Africa,2,2,2
+Insecta,LR,2000,Africa,Sub-Saharan Africa,23,150,18
+Insecta,LR,2010,Africa,Sub-Saharan Africa,9,130,9
+Insecta,LS,1860,Africa,Sub-Saharan Africa,1,1,1
+Insecta,LS,1870,Africa,Sub-Saharan Africa,3,6,3
+Insecta,LS,1900,Africa,Sub-Saharan Africa,5,5,3
+Insecta,LS,1910,Africa,Sub-Saharan Africa,18,18,11
+Insecta,LS,1920,Africa,Sub-Saharan Africa,10,9,6
+Insecta,LS,1930,Africa,Sub-Saharan Africa,73,76,31
+Insecta,LS,1940,Africa,Sub-Saharan Africa,268,377,54
+Insecta,LS,1950,Africa,Sub-Saharan Africa,175,193,43
+Insecta,LS,1960,Africa,Sub-Saharan Africa,139,200,14
+Insecta,LS,1970,Africa,Sub-Saharan Africa,590,597,78
+Insecta,LS,1980,Africa,Sub-Saharan Africa,4,4,2
+Insecta,LS,1990,Africa,Sub-Saharan Africa,16,37,9
+Insecta,LS,2000,Africa,Sub-Saharan Africa,10,14,7
+Insecta,LS,2010,Africa,Sub-Saharan Africa,12,12,5
+Insecta,LT,1880,Europe,Northern Europe,1,1,1
+Insecta,LT,1910,Europe,Northern Europe,5,5,5
+Insecta,LT,1920,Europe,Northern Europe,10,20,8
+Insecta,LT,1930,Europe,Northern Europe,1226,1495,66
+Insecta,LT,1940,Europe,Northern Europe,10,10,4
+Insecta,LT,1960,Europe,Northern Europe,1,1,1
+Insecta,LT,1970,Europe,Northern Europe,5,5,2
+Insecta,LT,1980,Europe,Northern Europe,1,1,1
+Insecta,LT,1990,Europe,Northern Europe,2,2,1
+Insecta,LT,2000,Europe,Northern Europe,6,6,6
+Insecta,LT,2010,Europe,Northern Europe,116,117,46
+Insecta,LT,2020,Europe,Northern Europe,1,2,1
+Insecta,LU,1890,Europe,Western Europe,1,1,1
+Insecta,LU,1900,Europe,Western Europe,2,2,1
+Insecta,LU,1910,Europe,Western Europe,1,1,1
+Insecta,LU,1920,Europe,Western Europe,7,7,7
+Insecta,LU,1930,Europe,Western Europe,14,14,5
+Insecta,LU,1940,Europe,Western Europe,21,21,10
+Insecta,LU,1950,Europe,Western Europe,433,670,58
+Insecta,LU,1960,Europe,Western Europe,1051,1282,213
+Insecta,LU,1970,Europe,Western Europe,327,330,46
+Insecta,LU,1980,Europe,Western Europe,198,906,42
+Insecta,LU,1990,Europe,Western Europe,1451,3007,73
+Insecta,LU,2000,Europe,Western Europe,796,3503,56
+Insecta,LU,2010,Europe,Western Europe,51,370,14
+Insecta,LU,2020,Europe,Western Europe,128,835,28
+Insecta,LV,1830,Europe,Northern Europe,1,1,1
+Insecta,LV,1860,Europe,Northern Europe,1,1,1
+Insecta,LV,1870,Europe,Northern Europe,1,1,1
+Insecta,LV,1900,Europe,Northern Europe,1,1,1
+Insecta,LV,1910,Europe,Northern Europe,25,25,4
+Insecta,LV,1920,Europe,Northern Europe,3,3,2
+Insecta,LV,1930,Europe,Northern Europe,114,114,45
+Insecta,LV,1950,Europe,Northern Europe,2,2,2
+Insecta,LV,1970,Europe,Northern Europe,6,7,4
+Insecta,LV,1980,Europe,Northern Europe,23,23,13
+Insecta,LV,1990,Europe,Northern Europe,9,9,7
+Insecta,LV,2000,Europe,Northern Europe,39,39,32
+Insecta,LV,2010,Europe,Northern Europe,30,59,27
+Insecta,LV,2020,Europe,Northern Europe,4,4,3
+Insecta,LY,1890,Africa,Northern Africa,1,1,1
+Insecta,LY,1920,Africa,Northern Africa,30,30,12
+Insecta,LY,1930,Africa,Northern Africa,29,33,8
+Insecta,LY,1940,Africa,Northern Africa,6,6,3
+Insecta,LY,1950,Africa,Northern Africa,49,49,15
+Insecta,LY,1960,Africa,Northern Africa,9,9,6
+Insecta,LY,1970,Africa,Northern Africa,1,1,1
+Insecta,LY,1980,Africa,Northern Africa,12,15,6
+Insecta,LY,1990,Africa,Northern Africa,4,4,3
+Insecta,LY,2000,Africa,Northern Africa,12,22,5
+Insecta,LY,2010,Africa,Northern Africa,2,23,2
+Insecta,MA,1850,Africa,Northern Africa,5,5,2
+Insecta,MA,1880,Africa,Northern Africa,2,2,2
+Insecta,MA,1890,Africa,Northern Africa,128,130,44
+Insecta,MA,1900,Africa,Northern Africa,64,64,43
+Insecta,MA,1910,Africa,Northern Africa,73,73,46
+Insecta,MA,1920,Africa,Northern Africa,773,991,198
+Insecta,MA,1930,Africa,Northern Africa,1178,1574,240
+Insecta,MA,1940,Africa,Northern Africa,434,884,189
+Insecta,MA,1950,Africa,Northern Africa,268,276,107
+Insecta,MA,1960,Africa,Northern Africa,1017,1081,246
+Insecta,MA,1970,Africa,Northern Africa,530,650,133
+Insecta,MA,1980,Africa,Northern Africa,745,2434,211
+Insecta,MA,1990,Africa,Northern Africa,373,956,124
+Insecta,MA,2000,Africa,Northern Africa,272,356,135
+Insecta,MA,2010,Africa,Northern Africa,838,2331,148
+Insecta,MC,1900,Europe,Western Europe,1,1,1
+Insecta,MC,1920,Europe,Western Europe,4,22,1
+Insecta,MD,1900,Europe,Eastern Europe,4,5,4
+Insecta,MD,1910,Europe,Eastern Europe,2,2,1
+Insecta,MD,1930,Europe,Eastern Europe,29,29,6
+Insecta,MD,1950,Europe,Eastern Europe,1,1,1
+Insecta,MD,1960,Europe,Eastern Europe,4,4,3
+Insecta,MD,1980,Europe,Eastern Europe,22,22,9
+Insecta,ME,1900,Europe,Southern Europe,1,1,1
+Insecta,ME,1910,Europe,Southern Europe,5,5,3
+Insecta,ME,1920,Europe,Southern Europe,1,1,1
+Insecta,ME,1930,Europe,Southern Europe,2,3,1
+Insecta,ME,1950,Europe,Southern Europe,40,40,16
+Insecta,ME,1960,Europe,Southern Europe,25,25,19
+Insecta,ME,1970,Europe,Southern Europe,193,193,114
+Insecta,ME,1980,Europe,Southern Europe,144,144,68
+Insecta,ME,1990,Europe,Southern Europe,25,25,5
+Insecta,ME,2000,Europe,Southern Europe,1,1,1
+Insecta,ME,2010,Europe,Southern Europe,73,88,41
+Insecta,MF,1950,Americas,Latin America and the Caribbean,7,7,4
+Insecta,MF,1960,Americas,Latin America and the Caribbean,2,2,1
+Insecta,MF,1970,Americas,Latin America and the Caribbean,3,3,2
+Insecta,MF,1980,Americas,Latin America and the Caribbean,16,16,7
+Insecta,MF,2000,Americas,Latin America and the Caribbean,139,256,25
+Insecta,MF,2010,Americas,Latin America and the Caribbean,14,130,6
+Insecta,MG,1700,Africa,Sub-Saharan Africa,1,7,1
+Insecta,MG,1830,Africa,Sub-Saharan Africa,31,31,28
+Insecta,MG,1840,Africa,Sub-Saharan Africa,6,21,2
+Insecta,MG,1850,Africa,Sub-Saharan Africa,3,3,3
+Insecta,MG,1860,Africa,Sub-Saharan Africa,13,14,13
+Insecta,MG,1870,Africa,Sub-Saharan Africa,12,12,6
+Insecta,MG,1880,Africa,Sub-Saharan Africa,36,36,28
+Insecta,MG,1890,Africa,Sub-Saharan Africa,428,443,209
+Insecta,MG,1900,Africa,Sub-Saharan Africa,151,195,107
+Insecta,MG,1910,Africa,Sub-Saharan Africa,65,866,41
+Insecta,MG,1920,Africa,Sub-Saharan Africa,142,154,111
+Insecta,MG,1930,Africa,Sub-Saharan Africa,819,856,559
+Insecta,MG,1940,Africa,Sub-Saharan Africa,342,482,257
+Insecta,MG,1950,Africa,Sub-Saharan Africa,1740,2113,1101
+Insecta,MG,1960,Africa,Sub-Saharan Africa,1668,3272,724
+Insecta,MG,1970,Africa,Sub-Saharan Africa,784,976,327
+Insecta,MG,1980,Africa,Sub-Saharan Africa,444,624,139
+Insecta,MG,1990,Africa,Sub-Saharan Africa,5179,49455,380
+Insecta,MG,2000,Africa,Sub-Saharan Africa,11657,18067,507
+Insecta,MG,2010,Africa,Sub-Saharan Africa,1136,1401,121
+Insecta,MG,2020,Africa,Sub-Saharan Africa,5,7,4
+Insecta,MH,1900,Oceania,Micronesia,11,11,3
+Insecta,MH,1920,Oceania,Micronesia,1,1,1
+Insecta,MH,1930,Oceania,Micronesia,3,5,2
+Insecta,MH,1940,Oceania,Micronesia,33,69,24
+Insecta,MH,1950,Oceania,Micronesia,105,253,24
+Insecta,MH,1960,Oceania,Micronesia,33,43,13
+Insecta,MH,1970,Oceania,Micronesia,16,16,4
+Insecta,MK,1850,Europe,Southern Europe,2,2,1
+Insecta,MK,1860,Europe,Southern Europe,4,5,2
+Insecta,MK,1900,Europe,Southern Europe,2,2,1
+Insecta,MK,1910,Europe,Southern Europe,20,20,11
+Insecta,MK,1920,Europe,Southern Europe,1,1,1
+Insecta,MK,1930,Europe,Southern Europe,10,10,6
+Insecta,MK,1940,Europe,Southern Europe,7,7,3
+Insecta,MK,1950,Europe,Southern Europe,136,166,46
+Insecta,MK,1960,Europe,Southern Europe,294,294,79
+Insecta,MK,1970,Europe,Southern Europe,328,330,115
+Insecta,MK,1980,Europe,Southern Europe,224,232,106
+Insecta,MK,1990,Europe,Southern Europe,56,59,21
+Insecta,MK,2000,Europe,Southern Europe,1,1,1
+Insecta,MK,2010,Europe,Southern Europe,18,36,14
+Insecta,ML,1880,Africa,Sub-Saharan Africa,2,2,2
+Insecta,ML,1890,Africa,Sub-Saharan Africa,1,1,1
+Insecta,ML,1900,Africa,Sub-Saharan Africa,5,7,4
+Insecta,ML,1910,Africa,Sub-Saharan Africa,2,2,2
+Insecta,ML,1920,Africa,Sub-Saharan Africa,11,11,8
+Insecta,ML,1930,Africa,Sub-Saharan Africa,1,1,1
+Insecta,ML,1940,Africa,Sub-Saharan Africa,16,16,3
+Insecta,ML,1950,Africa,Sub-Saharan Africa,13,13,4
+Insecta,ML,1960,Africa,Sub-Saharan Africa,28,46,10
+Insecta,ML,1970,Africa,Sub-Saharan Africa,41,42,16
+Insecta,ML,1980,Africa,Sub-Saharan Africa,42,72,27
+Insecta,ML,1990,Africa,Sub-Saharan Africa,187,188,40
+Insecta,ML,2000,Africa,Sub-Saharan Africa,80,127,17
+Insecta,ML,2010,Africa,Sub-Saharan Africa,10,52,5
+Insecta,ML,2020,Africa,Sub-Saharan Africa,2,2,2
+Insecta,MM,1700,Asia,South-eastern Asia,1,1,1
+Insecta,MM,1820,Asia,South-eastern Asia,1,1,1
+Insecta,MM,1860,Asia,South-eastern Asia,3,3,1
+Insecta,MM,1870,Asia,South-eastern Asia,1,1,1
+Insecta,MM,1880,Asia,South-eastern Asia,45,45,31
+Insecta,MM,1890,Asia,South-eastern Asia,36,36,19
+Insecta,MM,1900,Asia,South-eastern Asia,50,52,27
+Insecta,MM,1910,Asia,South-eastern Asia,22,116,16
+Insecta,MM,1920,Asia,South-eastern Asia,48,48,19
+Insecta,MM,1930,Asia,South-eastern Asia,1440,1443,471
+Insecta,MM,1940,Asia,South-eastern Asia,17,19,12
+Insecta,MM,1950,Asia,South-eastern Asia,57,58,21
+Insecta,MM,1960,Asia,South-eastern Asia,15,15,11
+Insecta,MM,1970,Asia,South-eastern Asia,27,27,6
+Insecta,MM,1980,Asia,South-eastern Asia,13,17,11
+Insecta,MM,1990,Asia,South-eastern Asia,95,97,21
+Insecta,MM,2000,Asia,South-eastern Asia,50,52,35
+Insecta,MM,2010,Asia,South-eastern Asia,253,282,134
+Insecta,MN,1780,Asia,Eastern Asia,1,1,1
+Insecta,MN,1890,Asia,Eastern Asia,23,31,17
+Insecta,MN,1900,Asia,Eastern Asia,8,8,6
+Insecta,MN,1910,Asia,Eastern Asia,8,8,5
+Insecta,MN,1920,Asia,Eastern Asia,1,1,1
+Insecta,MN,1930,Asia,Eastern Asia,22,22,3
+Insecta,MN,1950,Asia,Eastern Asia,4,14,4
+Insecta,MN,1960,Asia,Eastern Asia,50,267,28
+Insecta,MN,1970,Asia,Eastern Asia,9,9,7
+Insecta,MN,1980,Asia,Eastern Asia,14,14,11
+Insecta,MN,1990,Asia,Eastern Asia,167,167,20
+Insecta,MN,2000,Asia,Eastern Asia,28,28,10
+Insecta,MN,2020,Asia,Eastern Asia,1,1,1
+Insecta,MO,1980,Asia,Eastern Asia,10,10,3
+Insecta,MO,1990,Asia,Eastern Asia,4,4,4
+Insecta,MO,2010,Asia,Eastern Asia,2,2,2
+Insecta,MP,1920,Oceania,Micronesia,2,8,2
+Insecta,MP,1930,Oceania,Micronesia,1,1,1
+Insecta,MP,1940,Oceania,Micronesia,197,332,44
+Insecta,MP,1950,Oceania,Micronesia,15,16,11
+Insecta,MP,2000,Oceania,Micronesia,1,1,1
+Insecta,MQ,1820,Americas,Latin America and the Caribbean,1,1,1
+Insecta,MQ,1860,Americas,Latin America and the Caribbean,1,1,1
+Insecta,MQ,1900,Americas,Latin America and the Caribbean,1,1,1
+Insecta,MQ,1910,Americas,Latin America and the Caribbean,10,10,7
+Insecta,MQ,1920,Americas,Latin America and the Caribbean,1,1,1
+Insecta,MQ,1930,Americas,Latin America and the Caribbean,1,1,1
+Insecta,MQ,1940,Americas,Latin America and the Caribbean,7,7,5
+Insecta,MQ,1950,Americas,Latin America and the Caribbean,16,16,10
+Insecta,MQ,1960,Americas,Latin America and the Caribbean,53,53,15
+Insecta,MQ,1970,Americas,Latin America and the Caribbean,23,23,9
+Insecta,MQ,1980,Americas,Latin America and the Caribbean,10,12,6
+Insecta,MQ,1990,Americas,Latin America and the Caribbean,11,11,4
+Insecta,MQ,2000,Americas,Latin America and the Caribbean,381,680,41
+Insecta,MQ,2010,Americas,Latin America and the Caribbean,181,317,31
+Insecta,MR,1900,Africa,Sub-Saharan Africa,1,1,1
+Insecta,MR,1920,Africa,Sub-Saharan Africa,2,2,2
+Insecta,MR,1930,Africa,Sub-Saharan Africa,15,15,11
+Insecta,MR,1940,Africa,Sub-Saharan Africa,14,14,10
+Insecta,MR,1950,Africa,Sub-Saharan Africa,25,40,20
+Insecta,MR,1960,Africa,Sub-Saharan Africa,14,16,7
+Insecta,MR,1980,Africa,Sub-Saharan Africa,12,12,7
+Insecta,MR,1990,Africa,Sub-Saharan Africa,6,6,3
+Insecta,MR,2010,Africa,Sub-Saharan Africa,2,9,2
+Insecta,MS,1910,Americas,Latin America and the Caribbean,8,15,4
+Insecta,MS,1930,Americas,Latin America and the Caribbean,20,23,7
+Insecta,MS,1950,Americas,Latin America and the Caribbean,10,10,2
+Insecta,MS,1960,Americas,Latin America and the Caribbean,9,52,5
+Insecta,MS,1970,Americas,Latin America and the Caribbean,23,23,7
+Insecta,MS,1990,Americas,Latin America and the Caribbean,69,197,9
+Insecta,MS,2000,Americas,Latin America and the Caribbean,407,715,35
+Insecta,MT,1920,Europe,Southern Europe,1,1,1
+Insecta,MT,1950,Europe,Southern Europe,46,49,13
+Insecta,MT,1960,Europe,Southern Europe,2,2,2
+Insecta,MT,1970,Europe,Southern Europe,31,32,13
+Insecta,MT,1980,Europe,Southern Europe,22,23,10
+Insecta,MT,1990,Europe,Southern Europe,122,127,33
+Insecta,MT,2000,Europe,Southern Europe,38,63,7
+Insecta,MT,2010,Europe,Southern Europe,28,28,7
+Insecta,MU,1830,Africa,Sub-Saharan Africa,8,8,4
+Insecta,MU,1840,Africa,Sub-Saharan Africa,3,3,3
+Insecta,MU,1850,Africa,Sub-Saharan Africa,8,8,4
+Insecta,MU,1870,Africa,Sub-Saharan Africa,2,2,1
+Insecta,MU,1880,Africa,Sub-Saharan Africa,1,1,1
+Insecta,MU,1890,Africa,Sub-Saharan Africa,11,11,6
+Insecta,MU,1900,Africa,Sub-Saharan Africa,10,11,9
+Insecta,MU,1910,Africa,Sub-Saharan Africa,93,145,10
+Insecta,MU,1920,Africa,Sub-Saharan Africa,3,3,2
+Insecta,MU,1930,Africa,Sub-Saharan Africa,25,32,11
+Insecta,MU,1940,Africa,Sub-Saharan Africa,36,41,15
+Insecta,MU,1950,Africa,Sub-Saharan Africa,100,111,25
+Insecta,MU,1960,Africa,Sub-Saharan Africa,23,39,13
+Insecta,MU,1970,Africa,Sub-Saharan Africa,50,54,11
+Insecta,MU,1980,Africa,Sub-Saharan Africa,58,75,14
+Insecta,MU,1990,Africa,Sub-Saharan Africa,52,73,7
+Insecta,MU,2000,Africa,Sub-Saharan Africa,78,87,30
+Insecta,MU,2010,Africa,Sub-Saharan Africa,35,37,16
+Insecta,MV,1950,Asia,Southern Asia,5,5,3
+Insecta,MV,1990,Asia,Southern Asia,1,4,1
+Insecta,MV,2000,Asia,Southern Asia,7,7,1
+Insecta,MV,2010,Asia,Southern Asia,308,308,21
+Insecta,MW,1870,Africa,Sub-Saharan Africa,9,9,7
+Insecta,MW,1890,Africa,Sub-Saharan Africa,1,1,1
+Insecta,MW,1900,Africa,Sub-Saharan Africa,4,4,3
+Insecta,MW,1910,Africa,Sub-Saharan Africa,402,552,92
+Insecta,MW,1920,Africa,Sub-Saharan Africa,84,99,47
+Insecta,MW,1930,Africa,Sub-Saharan Africa,18,19,12
+Insecta,MW,1940,Africa,Sub-Saharan Africa,100,102,53
+Insecta,MW,1950,Africa,Sub-Saharan Africa,131,134,73
+Insecta,MW,1960,Africa,Sub-Saharan Africa,208,243,111
+Insecta,MW,1970,Africa,Sub-Saharan Africa,3723,4809,529
+Insecta,MW,1980,Africa,Sub-Saharan Africa,1420,3522,450
+Insecta,MW,1990,Africa,Sub-Saharan Africa,1862,3545,826
+Insecta,MW,2000,Africa,Sub-Saharan Africa,1833,2306,1060
+Insecta,MW,2010,Africa,Sub-Saharan Africa,419,2795,194
+Insecta,MX,1700,Americas,Latin America and the Caribbean,13,27,3
+Insecta,MX,1800,Americas,Latin America and the Caribbean,8,9,4
+Insecta,MX,1830,Americas,Latin America and the Caribbean,14,29,10
+Insecta,MX,1840,Americas,Latin America and the Caribbean,12,12,11
+Insecta,MX,1850,Americas,Latin America and the Caribbean,19,20,13
+Insecta,MX,1860,Americas,Latin America and the Caribbean,25,27,13
+Insecta,MX,1870,Americas,Latin America and the Caribbean,25,32,16
+Insecta,MX,1880,Americas,Latin America and the Caribbean,157,182,81
+Insecta,MX,1890,Americas,Latin America and the Caribbean,1045,1259,379
+Insecta,MX,1900,Americas,Latin America and the Caribbean,2180,3767,826
+Insecta,MX,1910,Americas,Latin America and the Caribbean,1293,1851,730
+Insecta,MX,1920,Americas,Latin America and the Caribbean,3888,5788,1106
+Insecta,MX,1930,Americas,Latin America and the Caribbean,10753,29320,2155
+Insecta,MX,1940,Americas,Latin America and the Caribbean,19366,76127,2711
+Insecta,MX,1950,Americas,Latin America and the Caribbean,35378,66801,3827
+Insecta,MX,1960,Americas,Latin America and the Caribbean,94013,136025,6185
+Insecta,MX,1970,Americas,Latin America and the Caribbean,89012,156002,5702
+Insecta,MX,1980,Americas,Latin America and the Caribbean,177818,263094,6117
+Insecta,MX,1990,Americas,Latin America and the Caribbean,337113,580882,5165
+Insecta,MX,2000,Americas,Latin America and the Caribbean,277981,533827,5348
+Insecta,MX,2010,Americas,Latin America and the Caribbean,177437,325662,3681
+Insecta,MX,2020,Americas,Latin America and the Caribbean,22,122,9
+Insecta,MY,1700,Asia,South-eastern Asia,1,1,1
+Insecta,MY,1830,Asia,South-eastern Asia,1,1,1
+Insecta,MY,1850,Asia,South-eastern Asia,1,1,1
+Insecta,MY,1860,Asia,South-eastern Asia,8,8,5
+Insecta,MY,1870,Asia,South-eastern Asia,4,4,4
+Insecta,MY,1880,Asia,South-eastern Asia,39,40,26
+Insecta,MY,1890,Asia,South-eastern Asia,69,70,24
+Insecta,MY,1900,Asia,South-eastern Asia,161,164,57
+Insecta,MY,1910,Asia,South-eastern Asia,205,220,109
+Insecta,MY,1920,Asia,South-eastern Asia,510,523,250
+Insecta,MY,1930,Asia,South-eastern Asia,266,287,99
+Insecta,MY,1940,Asia,South-eastern Asia,71,93,32
+Insecta,MY,1950,Asia,South-eastern Asia,468,760,193
+Insecta,MY,1960,Asia,South-eastern Asia,4014,4136,864
+Insecta,MY,1970,Asia,South-eastern Asia,3636,3725,962
+Insecta,MY,1980,Asia,South-eastern Asia,2635,3032,744
+Insecta,MY,1990,Asia,South-eastern Asia,1839,1989,669
+Insecta,MY,2000,Asia,South-eastern Asia,495,515,184
+Insecta,MY,2010,Asia,South-eastern Asia,1528,1537,243
+Insecta,MZ,1870,Africa,Sub-Saharan Africa,3,2,3
+Insecta,MZ,1880,Africa,Sub-Saharan Africa,5,6,5
+Insecta,MZ,1890,Africa,Sub-Saharan Africa,9,14,5
+Insecta,MZ,1900,Africa,Sub-Saharan Africa,117,141,84
+Insecta,MZ,1910,Africa,Sub-Saharan Africa,118,122,55
+Insecta,MZ,1920,Africa,Sub-Saharan Africa,441,609,283
+Insecta,MZ,1930,Africa,Sub-Saharan Africa,356,485,215
+Insecta,MZ,1940,Africa,Sub-Saharan Africa,1854,2082,410
+Insecta,MZ,1950,Africa,Sub-Saharan Africa,2599,2687,530
+Insecta,MZ,1960,Africa,Sub-Saharan Africa,2055,2191,292
+Insecta,MZ,1970,Africa,Sub-Saharan Africa,2787,4657,440
+Insecta,MZ,1980,Africa,Sub-Saharan Africa,839,862,164
+Insecta,MZ,1990,Africa,Sub-Saharan Africa,555,603,103
+Insecta,MZ,2000,Africa,Sub-Saharan Africa,401,8833,85
+Insecta,MZ,2010,Africa,Sub-Saharan Africa,3484,6029,288
+Insecta,NA,1880,Africa,Sub-Saharan Africa,4,4,3
+Insecta,NA,1890,Africa,Sub-Saharan Africa,19,35,13
+Insecta,NA,1900,Africa,Sub-Saharan Africa,4,4,4
+Insecta,NA,1910,Africa,Sub-Saharan Africa,29,29,13
+Insecta,NA,1920,Africa,Sub-Saharan Africa,68,81,30
+Insecta,NA,1930,Africa,Sub-Saharan Africa,90,100,47
+Insecta,NA,1940,Africa,Sub-Saharan Africa,29,30,19
+Insecta,NA,1950,Africa,Sub-Saharan Africa,275,705,104
+Insecta,NA,1960,Africa,Sub-Saharan Africa,233,315,66
+Insecta,NA,1970,Africa,Sub-Saharan Africa,2822,8801,250
+Insecta,NA,1980,Africa,Sub-Saharan Africa,1066,1712,141
+Insecta,NA,1990,Africa,Sub-Saharan Africa,422,649,140
+Insecta,NA,2000,Africa,Sub-Saharan Africa,496,1003,139
+Insecta,NA,2010,Africa,Sub-Saharan Africa,528,1189,60
+Insecta,NC,1840,Oceania,Melanesia,1,1,1
+Insecta,NC,1870,Oceania,Melanesia,6,6,5
+Insecta,NC,1880,Oceania,Melanesia,5,5,3
+Insecta,NC,1890,Oceania,Melanesia,11,11,8
+Insecta,NC,1900,Oceania,Melanesia,9,9,7
+Insecta,NC,1910,Oceania,Melanesia,13,15,10
+Insecta,NC,1920,Oceania,Melanesia,11,20,10
+Insecta,NC,1930,Oceania,Melanesia,3,3,3
+Insecta,NC,1940,Oceania,Melanesia,202,221,82
+Insecta,NC,1950,Oceania,Melanesia,54,108,25
+Insecta,NC,1960,Oceania,Melanesia,40,52,30
+Insecta,NC,1970,Oceania,Melanesia,150,180,60
+Insecta,NC,1980,Oceania,Melanesia,235,372,111
+Insecta,NC,1990,Oceania,Melanesia,697,704,80
+Insecta,NC,2000,Oceania,Melanesia,337,358,130
+Insecta,NC,2010,Oceania,Melanesia,230,243,56
+Insecta,NE,1900,Africa,Sub-Saharan Africa,2,2,1
+Insecta,NE,1910,Africa,Sub-Saharan Africa,18,18,3
+Insecta,NE,1920,Africa,Sub-Saharan Africa,9,9,3
+Insecta,NE,1930,Africa,Sub-Saharan Africa,42,52,13
+Insecta,NE,1940,Africa,Sub-Saharan Africa,31,33,14
+Insecta,NE,1950,Africa,Sub-Saharan Africa,8,9,6
+Insecta,NE,1960,Africa,Sub-Saharan Africa,2,2,2
+Insecta,NE,1970,Africa,Sub-Saharan Africa,28,30,8
+Insecta,NE,1980,Africa,Sub-Saharan Africa,310,318,76
+Insecta,NE,1990,Africa,Sub-Saharan Africa,55,62,23
+Insecta,NE,2000,Africa,Sub-Saharan Africa,19,32,9
+Insecta,NE,2010,Africa,Sub-Saharan Africa,2,8,1
+Insecta,NE,2020,Africa,Sub-Saharan Africa,2,2,1
+Insecta,NF,1860,Oceania,Australia and New Zealand,1,3,1
+Insecta,NF,1930,Oceania,Australia and New Zealand,4,9,4
+Insecta,NF,1950,Oceania,Australia and New Zealand,3,3,3
+Insecta,NF,1960,Oceania,Australia and New Zealand,44,164,18
+Insecta,NF,1970,Oceania,Australia and New Zealand,49,87,14
+Insecta,NF,1980,Oceania,Australia and New Zealand,288,803,36
+Insecta,NF,1990,Oceania,Australia and New Zealand,3,14,2
+Insecta,NF,2000,Oceania,Australia and New Zealand,16,53,13
+Insecta,NG,1890,Africa,Sub-Saharan Africa,4,5,4
+Insecta,NG,1900,Africa,Sub-Saharan Africa,23,25,13
+Insecta,NG,1910,Africa,Sub-Saharan Africa,205,230,85
+Insecta,NG,1920,Africa,Sub-Saharan Africa,37,42,27
+Insecta,NG,1930,Africa,Sub-Saharan Africa,168,211,63
+Insecta,NG,1940,Africa,Sub-Saharan Africa,111,111,55
+Insecta,NG,1950,Africa,Sub-Saharan Africa,1190,1187,374
+Insecta,NG,1960,Africa,Sub-Saharan Africa,980,1071,376
+Insecta,NG,1970,Africa,Sub-Saharan Africa,2262,3010,597
+Insecta,NG,1980,Africa,Sub-Saharan Africa,354,385,107
+Insecta,NG,1990,Africa,Sub-Saharan Africa,50,51,35
+Insecta,NG,2000,Africa,Sub-Saharan Africa,689,994,157
+Insecta,NG,2010,Africa,Sub-Saharan Africa,5755,6018,160
+Insecta,NI,1800,Americas,Latin America and the Caribbean,1,1,1
+Insecta,NI,1850,Americas,Latin America and the Caribbean,1,1,1
+Insecta,NI,1860,Americas,Latin America and the Caribbean,1,1,1
+Insecta,NI,1880,Americas,Latin America and the Caribbean,4,4,4
+Insecta,NI,1890,Americas,Latin America and the Caribbean,5,8,5
+Insecta,NI,1900,Americas,Latin America and the Caribbean,1,1,1
+Insecta,NI,1910,Americas,Latin America and the Caribbean,2,2,2
+Insecta,NI,1920,Americas,Latin America and the Caribbean,16,16,13
+Insecta,NI,1930,Americas,Latin America and the Caribbean,3,3,3
+Insecta,NI,1940,Americas,Latin America and the Caribbean,71,89,29
+Insecta,NI,1950,Americas,Latin America and the Caribbean,160,163,49
+Insecta,NI,1960,Americas,Latin America and the Caribbean,1132,2953,143
+Insecta,NI,1970,Americas,Latin America and the Caribbean,201,225,59
+Insecta,NI,1980,Americas,Latin America and the Caribbean,155,357,68
+Insecta,NI,1990,Americas,Latin America and the Caribbean,419,1394,150
+Insecta,NI,2000,Americas,Latin America and the Caribbean,939,3702,177
+Insecta,NI,2010,Americas,Latin America and the Caribbean,654,654,169
+Insecta,NL,1660,Europe,Western Europe,3,3,2
+Insecta,NL,1760,Europe,Western Europe,2,2,1
+Insecta,NL,1790,Europe,Western Europe,1,1,1
+Insecta,NL,1800,Europe,Western Europe,9,9,9
+Insecta,NL,1810,Europe,Western Europe,8,8,6
+Insecta,NL,1820,Europe,Western Europe,10,10,10
+Insecta,NL,1830,Europe,Western Europe,12,12,9
+Insecta,NL,1840,Europe,Western Europe,95,98,64
+Insecta,NL,1850,Europe,Western Europe,252,252,146
+Insecta,NL,1860,Europe,Western Europe,1979,1982,512
+Insecta,NL,1870,Europe,Western Europe,4927,5079,988
+Insecta,NL,1880,Europe,Western Europe,5830,6129,1281
+Insecta,NL,1890,Europe,Western Europe,12217,13715,1526
+Insecta,NL,1900,Europe,Western Europe,25985,27855,2911
+Insecta,NL,1910,Europe,Western Europe,39251,41718,4019
+Insecta,NL,1920,Europe,Western Europe,45306,47099,3591
+Insecta,NL,1930,Europe,Western Europe,42395,43901,3097
+Insecta,NL,1940,Europe,Western Europe,50562,53418,2441
+Insecta,NL,1950,Europe,Western Europe,85268,86380,2561
+Insecta,NL,1960,Europe,Western Europe,106889,108361,2944
+Insecta,NL,1970,Europe,Western Europe,97570,105903,3144
+Insecta,NL,1980,Europe,Western Europe,63593,66798,2839
+Insecta,NL,1990,Europe,Western Europe,41572,42221,2033
+Insecta,NL,2000,Europe,Western Europe,16984,17192,1663
+Insecta,NL,2010,Europe,Western Europe,2452,2771,601
+Insecta,NL,2020,Europe,Western Europe,364,689,121
+Insecta,NO,1680,Europe,Northern Europe,1,1,1
+Insecta,NO,1800,Europe,Northern Europe,6,6,5
+Insecta,NO,1810,Europe,Northern Europe,17,19,12
+Insecta,NO,1820,Europe,Northern Europe,9,17,5
+Insecta,NO,1830,Europe,Northern Europe,87,132,47
+Insecta,NO,1840,Europe,Northern Europe,1859,2130,890
+Insecta,NO,1850,Europe,Northern Europe,1178,1333,489
+Insecta,NO,1860,Europe,Northern Europe,474,544,292
+Insecta,NO,1870,Europe,Northern Europe,3857,4366,1359
+Insecta,NO,1880,Europe,Northern Europe,5872,7546,1638
+Insecta,NO,1890,Europe,Northern Europe,20154,24831,2550
+Insecta,NO,1900,Europe,Northern Europe,24503,34357,2998
+Insecta,NO,1910,Europe,Northern Europe,25986,33296,3188
+Insecta,NO,1920,Europe,Northern Europe,39650,52143,5022
+Insecta,NO,1930,Europe,Northern Europe,20642,25625,3301
+Insecta,NO,1940,Europe,Northern Europe,11054,15708,2212
+Insecta,NO,1950,Europe,Northern Europe,19352,21919,2442
+Insecta,NO,1960,Europe,Northern Europe,58196,85499,3692
+Insecta,NO,1970,Europe,Northern Europe,81485,229476,4071
+Insecta,NO,1980,Europe,Northern Europe,126177,635989,6719
+Insecta,NO,1990,Europe,Northern Europe,199866,1133646,8382
+Insecta,NO,2000,Europe,Northern Europe,239454,987925,8790
+Insecta,NO,2010,Europe,Northern Europe,182203,970227,11648
+Insecta,NO,2020,Europe,Northern Europe,14388,41565,4960
+Insecta,NP,1860,Asia,Southern Asia,1,1,1
+Insecta,NP,1900,Asia,Southern Asia,1,1,1
+Insecta,NP,1910,Asia,Southern Asia,1,1,1
+Insecta,NP,1930,Asia,Southern Asia,3,3,2
+Insecta,NP,1940,Asia,Southern Asia,3,4,3
+Insecta,NP,1950,Asia,Southern Asia,362,362,176
+Insecta,NP,1960,Asia,Southern Asia,217,283,110
+Insecta,NP,1970,Asia,Southern Asia,881,893,115
+Insecta,NP,1980,Asia,Southern Asia,171,172,81
+Insecta,NP,1990,Asia,Southern Asia,876,897,128
+Insecta,NP,2000,Asia,Southern Asia,25,25,17
+Insecta,NR,1900,Oceania,Micronesia,2,2,2
+Insecta,NR,1950,Oceania,Micronesia,1,1,1
+Insecta,NR,1960,Oceania,Micronesia,1,1,1
+Insecta,NU,1890,Oceania,Polynesia,14,14,3
+Insecta,NU,1970,Oceania,Polynesia,3,3,1
+Insecta,NU,1990,Oceania,Polynesia,9,20,3
+Insecta,NZ,1820,Oceania,Australia and New Zealand,2,2,2
+Insecta,NZ,1830,Oceania,Australia and New Zealand,1,1,1
+Insecta,NZ,1840,Oceania,Australia and New Zealand,2,2,2
+Insecta,NZ,1850,Oceania,Australia and New Zealand,1,1,1
+Insecta,NZ,1870,Oceania,Australia and New Zealand,23,23,10
+Insecta,NZ,1880,Oceania,Australia and New Zealand,3,3,2
+Insecta,NZ,1890,Oceania,Australia and New Zealand,1,1,1
+Insecta,NZ,1900,Oceania,Australia and New Zealand,16,16,8
+Insecta,NZ,1910,Oceania,Australia and New Zealand,46,54,39
+Insecta,NZ,1920,Oceania,Australia and New Zealand,390,401,331
+Insecta,NZ,1930,Oceania,Australia and New Zealand,29,77,18
+Insecta,NZ,1940,Oceania,Australia and New Zealand,536,597,28
+Insecta,NZ,1950,Oceania,Australia and New Zealand,791,1371,87
+Insecta,NZ,1960,Oceania,Australia and New Zealand,6086,6180,88
+Insecta,NZ,1970,Oceania,Australia and New Zealand,1000,1034,98
+Insecta,NZ,1980,Oceania,Australia and New Zealand,1391,1746,107
+Insecta,NZ,1990,Oceania,Australia and New Zealand,21031,21530,130
+Insecta,NZ,2000,Oceania,Australia and New Zealand,15826,15910,144
+Insecta,NZ,2010,Oceania,Australia and New Zealand,3609,3609,53
+Insecta,OM,1890,Asia,Western Asia,1,1,1
+Insecta,OM,1900,Asia,Western Asia,2,2,1
+Insecta,OM,1960,Asia,Western Asia,1,5,1
+Insecta,OM,1970,Asia,Western Asia,29,42,15
+Insecta,OM,1980,Asia,Western Asia,25,34,13
+Insecta,OM,1990,Asia,Western Asia,8,8,3
+Insecta,OM,2000,Asia,Western Asia,172,212,33
+Insecta,OM,2010,Asia,Western Asia,37,118,17
+Insecta,PA,1700,Americas,Latin America and the Caribbean,1,60,1
+Insecta,PA,1800,Americas,Latin America and the Caribbean,5,5,1
+Insecta,PA,1850,Americas,Latin America and the Caribbean,1,1,1
+Insecta,PA,1860,Americas,Latin America and the Caribbean,57,57,45
+Insecta,PA,1870,Americas,Latin America and the Caribbean,61,65,27
+Insecta,PA,1880,Americas,Latin America and the Caribbean,3,3,3
+Insecta,PA,1890,Americas,Latin America and the Caribbean,53,71,26
+Insecta,PA,1900,Americas,Latin America and the Caribbean,45,45,37
+Insecta,PA,1910,Americas,Latin America and the Caribbean,807,816,517
+Insecta,PA,1920,Americas,Latin America and the Caribbean,985,2948,468
+Insecta,PA,1930,Americas,Latin America and the Caribbean,2789,3226,794
+Insecta,PA,1940,Americas,Latin America and the Caribbean,2144,2357,381
+Insecta,PA,1950,Americas,Latin America and the Caribbean,3622,46647,669
+Insecta,PA,1960,Americas,Latin America and the Caribbean,3666,6565,852
+Insecta,PA,1970,Americas,Latin America and the Caribbean,2507,4037,776
+Insecta,PA,1980,Americas,Latin America and the Caribbean,1587,4299,477
+Insecta,PA,1990,Americas,Latin America and the Caribbean,1008,1842,274
+Insecta,PA,2000,Americas,Latin America and the Caribbean,1561,2196,195
+Insecta,PA,2010,Americas,Latin America and the Caribbean,420,461,121
+Insecta,PA,2020,Americas,Latin America and the Caribbean,4,4,4
+Insecta,PE,1700,Americas,Latin America and the Caribbean,2,3,2
+Insecta,PE,1830,Americas,Latin America and the Caribbean,7,7,5
+Insecta,PE,1850,Americas,Latin America and the Caribbean,1,1,1
+Insecta,PE,1860,Americas,Latin America and the Caribbean,5,5,4
+Insecta,PE,1870,Americas,Latin America and the Caribbean,5,6,5
+Insecta,PE,1880,Americas,Latin America and the Caribbean,77,77,38
+Insecta,PE,1890,Americas,Latin America and the Caribbean,53,71,21
+Insecta,PE,1900,Americas,Latin America and the Caribbean,207,230,110
+Insecta,PE,1910,Americas,Latin America and the Caribbean,652,696,450
+Insecta,PE,1920,Americas,Latin America and the Caribbean,373,383,240
+Insecta,PE,1930,Americas,Latin America and the Caribbean,3731,4450,597
+Insecta,PE,1940,Americas,Latin America and the Caribbean,831,1093,646
+Insecta,PE,1950,Americas,Latin America and the Caribbean,832,1360,433
+Insecta,PE,1960,Americas,Latin America and the Caribbean,2514,3028,600
+Insecta,PE,1970,Americas,Latin America and the Caribbean,2839,6096,694
+Insecta,PE,1980,Americas,Latin America and the Caribbean,6982,18050,1235
+Insecta,PE,1990,Americas,Latin America and the Caribbean,2037,3486,580
+Insecta,PE,2000,Americas,Latin America and the Caribbean,2221,3748,467
+Insecta,PE,2010,Americas,Latin America and the Caribbean,1164,1272,230
+Insecta,PE,2020,Americas,Latin America and the Caribbean,7,13,2
+Insecta,PF,1840,Oceania,Polynesia,1,1,1
+Insecta,PF,1850,Oceania,Polynesia,6,6,4
+Insecta,PF,1860,Oceania,Polynesia,1,1,1
+Insecta,PF,1890,Oceania,Polynesia,44,44,5
+Insecta,PF,1900,Oceania,Polynesia,4,8,2
+Insecta,PF,1910,Oceania,Polynesia,4,4,1
+Insecta,PF,1920,Oceania,Polynesia,42,46,21
+Insecta,PF,1930,Oceania,Polynesia,69,121,31
+Insecta,PF,1940,Oceania,Polynesia,1,2,1
+Insecta,PF,1950,Oceania,Polynesia,33,48,10
+Insecta,PF,1960,Oceania,Polynesia,381,408,171
+Insecta,PF,1970,Oceania,Polynesia,89,94,20
+Insecta,PF,1980,Oceania,Polynesia,551,560,74
+Insecta,PF,1990,Oceania,Polynesia,95,160,26
+Insecta,PF,2000,Oceania,Polynesia,677,4138,166
+Insecta,PF,2010,Oceania,Polynesia,7,7,5
+Insecta,PG,1700,Oceania,Melanesia,1,1,1
+Insecta,PG,1820,Oceania,Melanesia,1,1,1
+Insecta,PG,1840,Oceania,Melanesia,5,5,3
+Insecta,PG,1850,Oceania,Melanesia,2,2,2
+Insecta,PG,1870,Oceania,Melanesia,10,10,7
+Insecta,PG,1880,Oceania,Melanesia,14,14,7
+Insecta,PG,1890,Oceania,Melanesia,272,273,84
+Insecta,PG,1900,Oceania,Melanesia,185,199,83
+Insecta,PG,1910,Oceania,Melanesia,231,235,95
+Insecta,PG,1920,Oceania,Melanesia,134,140,56
+Insecta,PG,1930,Oceania,Melanesia,4441,4507,311
+Insecta,PG,1940,Oceania,Melanesia,2945,3000,395
+Insecta,PG,1950,Oceania,Melanesia,2555,2942,305
+Insecta,PG,1960,Oceania,Melanesia,1821,2611,377
+Insecta,PG,1970,Oceania,Melanesia,1842,3164,410
+Insecta,PG,1980,Oceania,Melanesia,658,755,253
+Insecta,PG,1990,Oceania,Melanesia,522,572,92
+Insecta,PG,2000,Oceania,Melanesia,670,687,111
+Insecta,PG,2010,Oceania,Melanesia,274,282,57
+Insecta,PG,2020,Oceania,Melanesia,4,38,3
+Insecta,PH,1700,Asia,South-eastern Asia,1,3,1
+Insecta,PH,1840,Asia,South-eastern Asia,1,1,1
+Insecta,PH,1850,Asia,South-eastern Asia,12,12,10
+Insecta,PH,1860,Asia,South-eastern Asia,9,9,9
+Insecta,PH,1880,Asia,South-eastern Asia,12,13,8
+Insecta,PH,1890,Asia,South-eastern Asia,26,26,12
+Insecta,PH,1900,Asia,South-eastern Asia,112,113,78
+Insecta,PH,1910,Asia,South-eastern Asia,901,908,379
+Insecta,PH,1920,Asia,South-eastern Asia,349,520,190
+Insecta,PH,1930,Asia,South-eastern Asia,1294,1301,435
+Insecta,PH,1940,Asia,South-eastern Asia,3300,4459,355
+Insecta,PH,1950,Asia,South-eastern Asia,253,313,121
+Insecta,PH,1960,Asia,South-eastern Asia,563,621,187
+Insecta,PH,1970,Asia,South-eastern Asia,196,304,88
+Insecta,PH,1980,Asia,South-eastern Asia,1181,1210,283
+Insecta,PH,1990,Asia,South-eastern Asia,1239,1291,146
+Insecta,PH,2000,Asia,South-eastern Asia,136,221,42
+Insecta,PH,2010,Asia,South-eastern Asia,273,280,114
+Insecta,PH,2020,Asia,South-eastern Asia,1,1,1
+Insecta,PK,1700,Asia,Southern Asia,1,1,1
+Insecta,PK,1880,Asia,Southern Asia,3,3,3
+Insecta,PK,1890,Asia,Southern Asia,5,5,4
+Insecta,PK,1900,Asia,Southern Asia,28,28,8
+Insecta,PK,1910,Asia,Southern Asia,21,77,15
+Insecta,PK,1920,Asia,Southern Asia,11,13,7
+Insecta,PK,1930,Asia,Southern Asia,10,10,6
+Insecta,PK,1940,Asia,Southern Asia,1,1,1
+Insecta,PK,1950,Asia,Southern Asia,384,386,119
+Insecta,PK,1960,Asia,Southern Asia,92,95,55
+Insecta,PK,1970,Asia,Southern Asia,70,70,27
+Insecta,PK,1980,Asia,Southern Asia,272,273,52
+Insecta,PK,1990,Asia,Southern Asia,458,468,27
+Insecta,PK,2000,Asia,Southern Asia,55,89,15
+Insecta,PK,2010,Asia,Southern Asia,1,1,1
+Insecta,PL,1810,Europe,Eastern Europe,2,4,1
+Insecta,PL,1840,Europe,Eastern Europe,1,1,1
+Insecta,PL,1850,Europe,Eastern Europe,3,3,3
+Insecta,PL,1860,Europe,Eastern Europe,22,30,16
+Insecta,PL,1870,Europe,Eastern Europe,163,266,77
+Insecta,PL,1880,Europe,Eastern Europe,647,2250,182
+Insecta,PL,1890,Europe,Eastern Europe,296,683,122
+Insecta,PL,1900,Europe,Eastern Europe,1004,2323,273
+Insecta,PL,1910,Europe,Eastern Europe,3269,4104,277
+Insecta,PL,1920,Europe,Eastern Europe,1746,2556,345
+Insecta,PL,1930,Europe,Eastern Europe,2175,4858,376
+Insecta,PL,1940,Europe,Eastern Europe,795,1707,203
+Insecta,PL,1950,Europe,Eastern Europe,2147,3266,454
+Insecta,PL,1960,Europe,Eastern Europe,4158,8073,571
+Insecta,PL,1970,Europe,Eastern Europe,3877,8906,644
+Insecta,PL,1980,Europe,Eastern Europe,5921,16881,600
+Insecta,PL,1990,Europe,Eastern Europe,2123,4673,391
+Insecta,PL,2000,Europe,Eastern Europe,1158,1456,302
+Insecta,PL,2010,Europe,Eastern Europe,87,90,33
+Insecta,PR,1820,Americas,Latin America and the Caribbean,2,2,2
+Insecta,PR,1880,Americas,Latin America and the Caribbean,1,1,1
+Insecta,PR,1890,Americas,Latin America and the Caribbean,9,9,6
+Insecta,PR,1900,Americas,Latin America and the Caribbean,117,821,42
+Insecta,PR,1910,Americas,Latin America and the Caribbean,151,204,106
+Insecta,PR,1920,Americas,Latin America and the Caribbean,139,139,74
+Insecta,PR,1930,Americas,Latin America and the Caribbean,536,573,215
+Insecta,PR,1940,Americas,Latin America and the Caribbean,648,785,218
+Insecta,PR,1950,Americas,Latin America and the Caribbean,568,581,166
+Insecta,PR,1960,Americas,Latin America and the Caribbean,465,533,115
+Insecta,PR,1970,Americas,Latin America and the Caribbean,314,3034,99
+Insecta,PR,1980,Americas,Latin America and the Caribbean,182,291,64
+Insecta,PR,1990,Americas,Latin America and the Caribbean,608,1935,59
+Insecta,PR,2000,Americas,Latin America and the Caribbean,1195,2581,88
+Insecta,PR,2010,Americas,Latin America and the Caribbean,395,455,60
+Insecta,PS,1870,Asia,Western Asia,2,2,1
+Insecta,PS,1900,Asia,Western Asia,1,1,1
+Insecta,PS,1910,Asia,Western Asia,2,2,1
+Insecta,PS,1920,Asia,Western Asia,4,4,4
+Insecta,PS,1930,Asia,Western Asia,5,6,4
+Insecta,PS,1940,Asia,Western Asia,6,7,4
+Insecta,PS,1950,Asia,Western Asia,1,1,1
+Insecta,PS,1970,Asia,Western Asia,5,5,4
+Insecta,PS,1980,Asia,Western Asia,10,38,4
+Insecta,PS,1990,Asia,Western Asia,6,39,2
+Insecta,PS,2000,Asia,Western Asia,6,6,3
+Insecta,PS,2010,Asia,Western Asia,1,1,1
+Insecta,PT,1790,Europe,Southern Europe,1,1,1
+Insecta,PT,1850,Europe,Southern Europe,7,7,2
+Insecta,PT,1880,Europe,Southern Europe,2,2,2
+Insecta,PT,1890,Europe,Southern Europe,17,17,7
+Insecta,PT,1900,Europe,Southern Europe,9,15,7
+Insecta,PT,1910,Europe,Southern Europe,1,1,1
+Insecta,PT,1920,Europe,Southern Europe,1156,1176,73
+Insecta,PT,1930,Europe,Southern Europe,2414,2420,143
+Insecta,PT,1940,Europe,Southern Europe,85,90,55
+Insecta,PT,1950,Europe,Southern Europe,699,730,140
+Insecta,PT,1960,Europe,Southern Europe,561,585,241
+Insecta,PT,1970,Europe,Southern Europe,5187,14679,884
+Insecta,PT,1980,Europe,Southern Europe,2209,2281,578
+Insecta,PT,1990,Europe,Southern Europe,3300,3614,506
+Insecta,PT,2000,Europe,Southern Europe,8692,36224,557
+Insecta,PT,2010,Europe,Southern Europe,8395,27690,1017
+Insecta,PT,2020,Europe,Southern Europe,8,8,6
+Insecta,PW,1930,Oceania,Micronesia,10,13,7
+Insecta,PW,1940,Oceania,Micronesia,131,147,94
+Insecta,PW,1950,Oceania,Micronesia,153,176,124
+Insecta,PW,1990,Oceania,Micronesia,4,4,2
+Insecta,PW,2000,Oceania,Micronesia,1597,14066,67
+Insecta,PY,1700,Americas,Latin America and the Caribbean,4,4,3
+Insecta,PY,1880,Americas,Latin America and the Caribbean,23,23,18
+Insecta,PY,1890,Americas,Latin America and the Caribbean,11,11,6
+Insecta,PY,1900,Americas,Latin America and the Caribbean,128,129,86
+Insecta,PY,1910,Americas,Latin America and the Caribbean,13,16,11
+Insecta,PY,1920,Americas,Latin America and the Caribbean,299,485,175
+Insecta,PY,1930,Americas,Latin America and the Caribbean,1352,1389,240
+Insecta,PY,1940,Americas,Latin America and the Caribbean,160,198,75
+Insecta,PY,1950,Americas,Latin America and the Caribbean,86,132,60
+Insecta,PY,1960,Americas,Latin America and the Caribbean,61,61,45
+Insecta,PY,1970,Americas,Latin America and the Caribbean,474,666,130
+Insecta,PY,1980,Americas,Latin America and the Caribbean,443,545,122
+Insecta,PY,1990,Americas,Latin America and the Caribbean,1250,2686,111
+Insecta,PY,2000,Americas,Latin America and the Caribbean,3501,27250,110
+Insecta,PY,2010,Americas,Latin America and the Caribbean,12,12,7
+Insecta,QA,2000,Asia,Western Asia,1,1,1
+Insecta,QA,2010,Asia,Western Asia,11,11,1
+Insecta,RE,1890,Africa,Sub-Saharan Africa,11,11,7
+Insecta,RE,1900,Africa,Sub-Saharan Africa,1,1,1
+Insecta,RE,1910,Africa,Sub-Saharan Africa,1,1,1
+Insecta,RE,1920,Africa,Sub-Saharan Africa,4,4,3
+Insecta,RE,1930,Africa,Sub-Saharan Africa,2,2,2
+Insecta,RE,1940,Africa,Sub-Saharan Africa,1,1,1
+Insecta,RE,1950,Africa,Sub-Saharan Africa,76,94,28
+Insecta,RE,1960,Africa,Sub-Saharan Africa,29,29,10
+Insecta,RE,1970,Africa,Sub-Saharan Africa,63,73,23
+Insecta,RE,1980,Africa,Sub-Saharan Africa,14,21,11
+Insecta,RE,1990,Africa,Sub-Saharan Africa,82,111,22
+Insecta,RE,2000,Africa,Sub-Saharan Africa,70,276,32
+Insecta,RE,2010,Africa,Sub-Saharan Africa,39,46,18
+Insecta,RO,1850,Europe,Eastern Europe,3,3,1
+Insecta,RO,1860,Europe,Eastern Europe,1,1,1
+Insecta,RO,1870,Europe,Eastern Europe,2,2,2
+Insecta,RO,1880,Europe,Eastern Europe,1,1,1
+Insecta,RO,1890,Europe,Eastern Europe,38,52,24
+Insecta,RO,1900,Europe,Eastern Europe,1312,1312,34
+Insecta,RO,1910,Europe,Eastern Europe,706,706,33
+Insecta,RO,1920,Europe,Eastern Europe,23,26,14
+Insecta,RO,1930,Europe,Eastern Europe,20,26,15
+Insecta,RO,1940,Europe,Eastern Europe,28,113,11
+Insecta,RO,1950,Europe,Eastern Europe,669,669,44
+Insecta,RO,1960,Europe,Eastern Europe,61,61,33
+Insecta,RO,1970,Europe,Eastern Europe,121,133,52
+Insecta,RO,1980,Europe,Eastern Europe,278,294,88
+Insecta,RO,1990,Europe,Eastern Europe,24,28,16
+Insecta,RO,2000,Europe,Eastern Europe,203,206,76
+Insecta,RO,2010,Europe,Eastern Europe,209,236,74
+Insecta,RS,1870,Europe,Southern Europe,1,1,1
+Insecta,RS,1880,Europe,Southern Europe,6,6,2
+Insecta,RS,1900,Europe,Southern Europe,1,1,1
+Insecta,RS,1910,Europe,Southern Europe,6,6,4
+Insecta,RS,1920,Europe,Southern Europe,15,15,5
+Insecta,RS,1930,Europe,Southern Europe,31,65,6
+Insecta,RS,1950,Europe,Southern Europe,46,55,23
+Insecta,RS,1960,Europe,Southern Europe,98,98,49
+Insecta,RS,1970,Europe,Southern Europe,14,17,10
+Insecta,RS,1980,Europe,Southern Europe,136,137,46
+Insecta,RS,1990,Europe,Southern Europe,30,30,11
+Insecta,RS,2000,Europe,Southern Europe,30,30,5
+Insecta,RS,2010,Europe,Southern Europe,54,147,34
+Insecta,RU,1700,Europe,Eastern Europe,10,10,5
+Insecta,RU,1800,Europe,Eastern Europe,1,1,1
+Insecta,RU,1810,Europe,Eastern Europe,1,1,1
+Insecta,RU,1820,Europe,Eastern Europe,2,2,2
+Insecta,RU,1830,Europe,Eastern Europe,5,5,5
+Insecta,RU,1840,Europe,Eastern Europe,29,29,24
+Insecta,RU,1850,Europe,Eastern Europe,9,9,9
+Insecta,RU,1860,Europe,Eastern Europe,139,142,99
+Insecta,RU,1870,Europe,Eastern Europe,199,221,138
+Insecta,RU,1880,Europe,Eastern Europe,586,599,238
+Insecta,RU,1890,Europe,Eastern Europe,965,1095,397
+Insecta,RU,1900,Europe,Eastern Europe,2367,2413,522
+Insecta,RU,1910,Europe,Eastern Europe,5214,5244,1054
+Insecta,RU,1920,Europe,Eastern Europe,9566,9720,1608
+Insecta,RU,1930,Europe,Eastern Europe,19828,20079,2299
+Insecta,RU,1940,Europe,Eastern Europe,4371,4384,1242
+Insecta,RU,1950,Europe,Eastern Europe,163,187,104
+Insecta,RU,1960,Europe,Eastern Europe,188,211,133
+Insecta,RU,1970,Europe,Eastern Europe,578,637,216
+Insecta,RU,1980,Europe,Eastern Europe,6183,6407,691
+Insecta,RU,1990,Europe,Eastern Europe,5900,6158,690
+Insecta,RU,2000,Europe,Eastern Europe,1686,2041,541
+Insecta,RU,2010,Europe,Eastern Europe,10127,44709,1513
+Insecta,RU,2020,Europe,Eastern Europe,34,43,13
+Insecta,RW,1900,Africa,Sub-Saharan Africa,1,1,1
+Insecta,RW,1910,Africa,Sub-Saharan Africa,1,1,1
+Insecta,RW,1920,Africa,Sub-Saharan Africa,71,144,10
+Insecta,RW,1930,Africa,Sub-Saharan Africa,96,139,30
+Insecta,RW,1940,Africa,Sub-Saharan Africa,5,5,3
+Insecta,RW,1950,Africa,Sub-Saharan Africa,241,320,42
+Insecta,RW,1960,Africa,Sub-Saharan Africa,198,226,59
+Insecta,RW,1970,Africa,Sub-Saharan Africa,83,125,20
+Insecta,RW,1980,Africa,Sub-Saharan Africa,23,23,15
+Insecta,RW,1990,Africa,Sub-Saharan Africa,3,3,3
+Insecta,RW,2000,Africa,Sub-Saharan Africa,15,54,6
+Insecta,RW,2010,Africa,Sub-Saharan Africa,8,8,3
+Insecta,SA,1900,Asia,Western Asia,1,1,1
+Insecta,SA,1920,Asia,Western Asia,1,1,1
+Insecta,SA,1930,Asia,Western Asia,13,13,7
+Insecta,SA,1940,Asia,Western Asia,5,5,3
+Insecta,SA,1950,Asia,Western Asia,8,8,5
+Insecta,SA,1960,Asia,Western Asia,1,4,1
+Insecta,SA,1970,Asia,Western Asia,135,166,22
+Insecta,SA,1980,Asia,Western Asia,77,84,15
+Insecta,SA,1990,Asia,Western Asia,4,5,2
+Insecta,SA,2000,Asia,Western Asia,25,62,12
+Insecta,SA,2010,Asia,Western Asia,96,343,12
+Insecta,SA,2020,Asia,Western Asia,1,1,1
+Insecta,SB,1840,Oceania,Melanesia,5,5,5
+Insecta,SB,1850,Oceania,Melanesia,1,1,1
+Insecta,SB,1880,Oceania,Melanesia,5,10,1
+Insecta,SB,1890,Oceania,Melanesia,6,9,4
+Insecta,SB,1900,Oceania,Melanesia,243,246,12
+Insecta,SB,1910,Oceania,Melanesia,23,33,18
+Insecta,SB,1920,Oceania,Melanesia,54,59,17
+Insecta,SB,1930,Oceania,Melanesia,91,92,52
+Insecta,SB,1940,Oceania,Melanesia,457,533,101
+Insecta,SB,1950,Oceania,Melanesia,235,663,28
+Insecta,SB,1960,Oceania,Melanesia,569,1155,70
+Insecta,SB,1970,Oceania,Melanesia,214,221,38
+Insecta,SB,1980,Oceania,Melanesia,99,99,36
+Insecta,SB,1990,Oceania,Melanesia,129,205,16
+Insecta,SB,2000,Oceania,Melanesia,23,26,14
+Insecta,SB,2010,Oceania,Melanesia,91,154,33
+Insecta,SB,2020,Oceania,Melanesia,15,34,5
+Insecta,SC,1870,Africa,Sub-Saharan Africa,3,3,1
+Insecta,SC,1890,Africa,Sub-Saharan Africa,27,27,9
+Insecta,SC,1900,Africa,Sub-Saharan Africa,39,49,23
+Insecta,SC,1910,Africa,Sub-Saharan Africa,8,8,5
+Insecta,SC,1930,Africa,Sub-Saharan Africa,20,35,3
+Insecta,SC,1950,Africa,Sub-Saharan Africa,322,322,71
+Insecta,SC,1960,Africa,Sub-Saharan Africa,61,62,26
+Insecta,SC,1970,Africa,Sub-Saharan Africa,88,88,29
+Insecta,SC,1980,Africa,Sub-Saharan Africa,93,93,28
+Insecta,SC,1990,Africa,Sub-Saharan Africa,86,89,23
+Insecta,SC,2000,Africa,Sub-Saharan Africa,29,134,11
+Insecta,SC,2010,Africa,Sub-Saharan Africa,16,16,5
+Insecta,SD,1830,Africa,Northern Africa,1,1,1
+Insecta,SD,1880,Africa,Northern Africa,1,1,1
+Insecta,SD,1890,Africa,Northern Africa,4,4,3
+Insecta,SD,1900,Africa,Northern Africa,14,17,6
+Insecta,SD,1910,Africa,Northern Africa,39,43,18
+Insecta,SD,1920,Africa,Northern Africa,29,31,19
+Insecta,SD,1930,Africa,Northern Africa,31,50,26
+Insecta,SD,1940,Africa,Northern Africa,52,55,28
+Insecta,SD,1950,Africa,Northern Africa,70,117,37
+Insecta,SD,1960,Africa,Northern Africa,700,974,136
+Insecta,SD,1970,Africa,Northern Africa,80,86,36
+Insecta,SD,1980,Africa,Northern Africa,156,160,37
+Insecta,SD,1990,Africa,Northern Africa,355,362,50
+Insecta,SD,2000,Africa,Northern Africa,22,9763,10
+Insecta,SD,2010,Africa,Northern Africa,4,54,2
+Insecta,SE,1750,Europe,Northern Europe,49,49,36
+Insecta,SE,1760,Europe,Northern Europe,4,4,4
+Insecta,SE,1770,Europe,Northern Europe,7,8,7
+Insecta,SE,1780,Europe,Northern Europe,5,12,5
+Insecta,SE,1790,Europe,Northern Europe,7,7,7
+Insecta,SE,1800,Europe,Northern Europe,55,68,45
+Insecta,SE,1810,Europe,Northern Europe,22,26,18
+Insecta,SE,1820,Europe,Northern Europe,218,295,128
+Insecta,SE,1830,Europe,Northern Europe,93,159,74
+Insecta,SE,1840,Europe,Northern Europe,89,100,57
+Insecta,SE,1850,Europe,Northern Europe,754,2531,414
+Insecta,SE,1860,Europe,Northern Europe,545,1407,241
+Insecta,SE,1870,Europe,Northern Europe,765,1910,405
+Insecta,SE,1880,Europe,Northern Europe,1541,2761,623
+Insecta,SE,1890,Europe,Northern Europe,672,1104,355
+Insecta,SE,1900,Europe,Northern Europe,2348,4092,825
+Insecta,SE,1910,Europe,Northern Europe,2816,3759,1045
+Insecta,SE,1920,Europe,Northern Europe,7686,10995,2294
+Insecta,SE,1930,Europe,Northern Europe,14196,21403,2440
+Insecta,SE,1940,Europe,Northern Europe,25819,40113,2890
+Insecta,SE,1950,Europe,Northern Europe,25765,40745,3381
+Insecta,SE,1960,Europe,Northern Europe,52247,104750,5711
+Insecta,SE,1970,Europe,Northern Europe,102246,377337,6952
+Insecta,SE,1980,Europe,Northern Europe,71788,311426,6571
+Insecta,SE,1990,Europe,Northern Europe,105152,1019875,7361
+Insecta,SE,2000,Europe,Northern Europe,205250,1850224,10973
+Insecta,SE,2010,Europe,Northern Europe,140703,354512,11052
+Insecta,SE,2020,Europe,Northern Europe,27845,57219,7059
+Insecta,SG,1850,Asia,South-eastern Asia,8,8,6
+Insecta,SG,1890,Asia,South-eastern Asia,3,3,3
+Insecta,SG,1900,Asia,South-eastern Asia,5,5,4
+Insecta,SG,1910,Asia,South-eastern Asia,18,18,10
+Insecta,SG,1930,Asia,South-eastern Asia,14,18,11
+Insecta,SG,1940,Asia,South-eastern Asia,19,19,9
+Insecta,SG,1950,Asia,South-eastern Asia,28,30,8
+Insecta,SG,1960,Asia,South-eastern Asia,136,178,76
+Insecta,SG,1970,Asia,South-eastern Asia,330,332,141
+Insecta,SG,1980,Asia,South-eastern Asia,104,113,62
+Insecta,SG,1990,Asia,South-eastern Asia,50,67,23
+Insecta,SG,2000,Asia,South-eastern Asia,26,32,7
+Insecta,SG,2010,Asia,South-eastern Asia,56,79,27
+Insecta,SH,1850,Africa,Sub-Saharan Africa,4,4,3
+Insecta,SH,1900,Africa,Sub-Saharan Africa,7,7,1
+Insecta,SH,1930,Africa,Sub-Saharan Africa,24,24,9
+Insecta,SH,1940,Africa,Sub-Saharan Africa,2,2,2
+Insecta,SH,1950,Africa,Sub-Saharan Africa,80,84,4
+Insecta,SH,1960,Africa,Sub-Saharan Africa,21,21,8
+Insecta,SH,1970,Africa,Sub-Saharan Africa,5,5,3
+Insecta,SH,1980,Africa,Sub-Saharan Africa,3,4,1
+Insecta,SH,1990,Africa,Sub-Saharan Africa,5,6,1
+Insecta,SH,2000,Africa,Sub-Saharan Africa,3,7,3
+Insecta,SH,2010,Africa,Sub-Saharan Africa,1,1,1
+Insecta,SI,1800,Europe,Southern Europe,2,2,2
+Insecta,SI,1870,Europe,Southern Europe,64,65,24
+Insecta,SI,1880,Europe,Southern Europe,2,2,1
+Insecta,SI,1890,Europe,Southern Europe,7,7,4
+Insecta,SI,1900,Europe,Southern Europe,12,12,9
+Insecta,SI,1910,Europe,Southern Europe,6,9,6
+Insecta,SI,1920,Europe,Southern Europe,99,129,14
+Insecta,SI,1930,Europe,Southern Europe,123,144,19
+Insecta,SI,1940,Europe,Southern Europe,6,6,4
+Insecta,SI,1950,Europe,Southern Europe,163,163,50
+Insecta,SI,1960,Europe,Southern Europe,234,234,51
+Insecta,SI,1970,Europe,Southern Europe,1117,1118,158
+Insecta,SI,1980,Europe,Southern Europe,477,480,194
+Insecta,SI,1990,Europe,Southern Europe,1151,1178,286
+Insecta,SI,2000,Europe,Southern Europe,361,382,113
+Insecta,SI,2010,Europe,Southern Europe,59,65,20
+Insecta,SI,2020,Europe,Southern Europe,3,3,3
+Insecta,SJ,1920,Europe,Northern Europe,6,6,1
+Insecta,SJ,1930,Europe,Northern Europe,1,1,1
+Insecta,SJ,1950,Europe,Northern Europe,1,1,1
+Insecta,SJ,1970,Europe,Northern Europe,370,1635,29
+Insecta,SJ,1980,Europe,Northern Europe,1,1,1
+Insecta,SJ,2000,Europe,Northern Europe,839,896,56
+Insecta,SJ,2010,Europe,Northern Europe,1316,1319,71
+Insecta,SK,1870,Europe,Eastern Europe,159,176,15
+Insecta,SK,1880,Europe,Eastern Europe,96,233,44
+Insecta,SK,1890,Europe,Eastern Europe,5,7,5
+Insecta,SK,1900,Europe,Eastern Europe,674,995,45
+Insecta,SK,1910,Europe,Eastern Europe,108,365,49
+Insecta,SK,1920,Europe,Eastern Europe,26,33,14
+Insecta,SK,1930,Europe,Eastern Europe,16,16,12
+Insecta,SK,1940,Europe,Eastern Europe,17,20,9
+Insecta,SK,1950,Europe,Eastern Europe,109,165,73
+Insecta,SK,1960,Europe,Eastern Europe,347,386,61
+Insecta,SK,1970,Europe,Eastern Europe,241,368,108
+Insecta,SK,1980,Europe,Eastern Europe,1724,4361,243
+Insecta,SK,1990,Europe,Eastern Europe,818,2240,182
+Insecta,SK,2000,Europe,Eastern Europe,277,277,56
+Insecta,SK,2010,Europe,Eastern Europe,125,142,71
+Insecta,SL,1750,Africa,Sub-Saharan Africa,1,1,1
+Insecta,SL,1880,Africa,Sub-Saharan Africa,2,7,2
+Insecta,SL,1890,Africa,Sub-Saharan Africa,10,20,9
+Insecta,SL,1900,Africa,Sub-Saharan Africa,5,5,2
+Insecta,SL,1910,Africa,Sub-Saharan Africa,78,78,35
+Insecta,SL,1920,Africa,Sub-Saharan Africa,60,92,27
+Insecta,SL,1930,Africa,Sub-Saharan Africa,105,277,36
+Insecta,SL,1940,Africa,Sub-Saharan Africa,14,98,10
+Insecta,SL,1950,Africa,Sub-Saharan Africa,20,30,9
+Insecta,SL,1960,Africa,Sub-Saharan Africa,58,60,12
+Insecta,SL,1970,Africa,Sub-Saharan Africa,4,4,3
+Insecta,SL,1980,Africa,Sub-Saharan Africa,68,71,35
+Insecta,SL,1990,Africa,Sub-Saharan Africa,127,127,52
+Insecta,SL,2000,Africa,Sub-Saharan Africa,9,32,7
+Insecta,SL,2010,Africa,Sub-Saharan Africa,668,668,63
+Insecta,SM,1950,Europe,Southern Europe,2,2,1
+Insecta,SM,1960,Europe,Southern Europe,7,7,2
+Insecta,SM,1970,Europe,Southern Europe,1,1,1
+Insecta,SM,1980,Europe,Southern Europe,59,59,24
+Insecta,SM,1990,Europe,Southern Europe,1,1,1
+Insecta,SM,2000,Europe,Southern Europe,3,6,2
+Insecta,SM,2010,Europe,Southern Europe,23,70,16
+Insecta,SN,1780,Africa,Sub-Saharan Africa,1,1,1
+Insecta,SN,1820,Africa,Sub-Saharan Africa,1,1,1
+Insecta,SN,1830,Africa,Sub-Saharan Africa,3,3,2
+Insecta,SN,1860,Africa,Sub-Saharan Africa,1,2,1
+Insecta,SN,1880,Africa,Sub-Saharan Africa,4,5,3
+Insecta,SN,1900,Africa,Sub-Saharan Africa,3,3,2
+Insecta,SN,1910,Africa,Sub-Saharan Africa,8,8,4
+Insecta,SN,1930,Africa,Sub-Saharan Africa,5,5,5
+Insecta,SN,1940,Africa,Sub-Saharan Africa,2017,2018,54
+Insecta,SN,1950,Africa,Sub-Saharan Africa,58,58,29
+Insecta,SN,1960,Africa,Sub-Saharan Africa,442,443,41
+Insecta,SN,1970,Africa,Sub-Saharan Africa,265,283,39
+Insecta,SN,1980,Africa,Sub-Saharan Africa,109,128,37
+Insecta,SN,1990,Africa,Sub-Saharan Africa,10,192,10
+Insecta,SN,2000,Africa,Sub-Saharan Africa,60,5461,18
+Insecta,SN,2010,Africa,Sub-Saharan Africa,13,370,5
+Insecta,SO,1860,Africa,Sub-Saharan Africa,1,3,1
+Insecta,SO,1880,Africa,Sub-Saharan Africa,2,2,2
+Insecta,SO,1890,Africa,Sub-Saharan Africa,6,6,3
+Insecta,SO,1900,Africa,Sub-Saharan Africa,7,7,5
+Insecta,SO,1910,Africa,Sub-Saharan Africa,3,3,2
+Insecta,SO,1920,Africa,Sub-Saharan Africa,28,29,20
+Insecta,SO,1930,Africa,Sub-Saharan Africa,23,23,13
+Insecta,SO,1940,Africa,Sub-Saharan Africa,14,14,10
+Insecta,SO,1950,Africa,Sub-Saharan Africa,60,63,35
+Insecta,SO,1960,Africa,Sub-Saharan Africa,47,47,17
+Insecta,SO,1970,Africa,Sub-Saharan Africa,19,18,13
+Insecta,SO,1980,Africa,Sub-Saharan Africa,27,30,10
+Insecta,SO,1990,Africa,Sub-Saharan Africa,136,136,5
+Insecta,SO,2000,Africa,Sub-Saharan Africa,1,1,1
+Insecta,SO,2010,Africa,Sub-Saharan Africa,1,1,1
+Insecta,SR,1770,Americas,Latin America and the Caribbean,1,1,1
+Insecta,SR,1870,Americas,Latin America and the Caribbean,2,3,2
+Insecta,SR,1880,Americas,Latin America and the Caribbean,2,2,1
+Insecta,SR,1890,Americas,Latin America and the Caribbean,1,1,1
+Insecta,SR,1900,Americas,Latin America and the Caribbean,49,52,35
+Insecta,SR,1910,Americas,Latin America and the Caribbean,12,12,10
+Insecta,SR,1920,Americas,Latin America and the Caribbean,47,47,26
+Insecta,SR,1930,Americas,Latin America and the Caribbean,1749,1850,256
+Insecta,SR,1940,Americas,Latin America and the Caribbean,4353,4538,340
+Insecta,SR,1950,Americas,Latin America and the Caribbean,5629,5990,410
+Insecta,SR,1960,Americas,Latin America and the Caribbean,6976,8329,487
+Insecta,SR,1970,Americas,Latin America and the Caribbean,1434,1589,260
+Insecta,SR,1980,Americas,Latin America and the Caribbean,184,207,77
+Insecta,SR,1990,Americas,Latin America and the Caribbean,121,121,43
+Insecta,SR,2000,Americas,Latin America and the Caribbean,167,194,50
+Insecta,SR,2010,Americas,Latin America and the Caribbean,218,218,90
+Insecta,SS,1900,Africa,Sub-Saharan Africa,1,1,1
+Insecta,SS,1910,Africa,Sub-Saharan Africa,4,4,3
+Insecta,SS,1920,Africa,Sub-Saharan Africa,9,9,8
+Insecta,SS,1930,Africa,Sub-Saharan Africa,648,659,191
+Insecta,SS,1940,Africa,Sub-Saharan Africa,161,162,15
+Insecta,SS,1950,Africa,Sub-Saharan Africa,161,163,51
+Insecta,SS,1960,Africa,Sub-Saharan Africa,1437,1647,60
+Insecta,SS,1970,Africa,Sub-Saharan Africa,71,71,32
+Insecta,SS,1980,Africa,Sub-Saharan Africa,42,42,22
+Insecta,SS,1990,Africa,Sub-Saharan Africa,1,1,1
+Insecta,ST,1900,Africa,Sub-Saharan Africa,1,1,1
+Insecta,ST,1920,Africa,Sub-Saharan Africa,5,5,3
+Insecta,ST,1930,Africa,Sub-Saharan Africa,25,28,10
+Insecta,ST,1940,Africa,Sub-Saharan Africa,5,5,3
+Insecta,ST,1950,Africa,Sub-Saharan Africa,9,9,9
+Insecta,ST,1960,Africa,Sub-Saharan Africa,1,1,1
+Insecta,ST,1970,Africa,Sub-Saharan Africa,78,116,12
+Insecta,ST,1980,Africa,Sub-Saharan Africa,624,646,39
+Insecta,ST,1990,Africa,Sub-Saharan Africa,34,51,11
+Insecta,ST,2000,Africa,Sub-Saharan Africa,17,31,5
+Insecta,ST,2010,Africa,Sub-Saharan Africa,195,195,4
+Insecta,SV,1880,Americas,Latin America and the Caribbean,2,4,1
+Insecta,SV,1910,Americas,Latin America and the Caribbean,10,10,5
+Insecta,SV,1920,Americas,Latin America and the Caribbean,12,14,10
+Insecta,SV,1930,Americas,Latin America and the Caribbean,1,1,1
+Insecta,SV,1940,Americas,Latin America and the Caribbean,9,9,8
+Insecta,SV,1950,Americas,Latin America and the Caribbean,305,306,97
+Insecta,SV,1960,Americas,Latin America and the Caribbean,404,787,139
+Insecta,SV,1970,Americas,Latin America and the Caribbean,416,416,134
+Insecta,SV,1980,Americas,Latin America and the Caribbean,34,39,13
+Insecta,SV,1990,Americas,Latin America and the Caribbean,3,4,3
+Insecta,SV,2000,Americas,Latin America and the Caribbean,13,17,10
+Insecta,SV,2010,Americas,Latin America and the Caribbean,153,277,14
+Insecta,SX,1950,Americas,Latin America and the Caribbean,1,1,1
+Insecta,SX,1960,Americas,Latin America and the Caribbean,2,15,2
+Insecta,SX,1970,Americas,Latin America and the Caribbean,1,1,1
+Insecta,SX,1980,Americas,Latin America and the Caribbean,3,3,1
+Insecta,SX,2000,Americas,Latin America and the Caribbean,9,14,7
+Insecta,SX,2010,Americas,Latin America and the Caribbean,18,54,4
+Insecta,SY,1850,Asia,Western Asia,3,3,1
+Insecta,SY,1860,Asia,Western Asia,3,3,3
+Insecta,SY,1870,Asia,Western Asia,5,8,4
+Insecta,SY,1880,Asia,Western Asia,17,17,11
+Insecta,SY,1890,Asia,Western Asia,8,8,5
+Insecta,SY,1900,Asia,Western Asia,7,7,6
+Insecta,SY,1910,Asia,Western Asia,6,12,5
+Insecta,SY,1920,Asia,Western Asia,1,1,1
+Insecta,SY,1930,Asia,Western Asia,33,33,3
+Insecta,SY,1950,Asia,Western Asia,15,27,8
+Insecta,SY,1960,Asia,Western Asia,6,6,4
+Insecta,SY,1970,Asia,Western Asia,2,2,2
+Insecta,SY,1980,Asia,Western Asia,11,11,5
+Insecta,SY,1990,Asia,Western Asia,13,13,9
+Insecta,SY,2000,Asia,Western Asia,7,70,4
+Insecta,SZ,1890,Africa,Sub-Saharan Africa,2,2,1
+Insecta,SZ,1900,Africa,Sub-Saharan Africa,2,2,2
+Insecta,SZ,1920,Africa,Sub-Saharan Africa,13,13,9
+Insecta,SZ,1930,Africa,Sub-Saharan Africa,88,94,38
+Insecta,SZ,1940,Africa,Sub-Saharan Africa,90,90,49
+Insecta,SZ,1950,Africa,Sub-Saharan Africa,25,25,18
+Insecta,SZ,1960,Africa,Sub-Saharan Africa,37,39,19
+Insecta,SZ,1970,Africa,Sub-Saharan Africa,216,318,106
+Insecta,SZ,1980,Africa,Sub-Saharan Africa,32,36,28
+Insecta,SZ,1990,Africa,Sub-Saharan Africa,122,132,64
+Insecta,SZ,2000,Africa,Sub-Saharan Africa,17,32,11
+Insecta,SZ,2010,Africa,Sub-Saharan Africa,3,12,3
+Insecta,TC,1950,Americas,Latin America and the Caribbean,3,3,2
+Insecta,TC,1980,Americas,Latin America and the Caribbean,9,13,7
+Insecta,TC,1990,Americas,Latin America and the Caribbean,4,4,2
+Insecta,TC,2010,Americas,Latin America and the Caribbean,73,128,13
+Insecta,TD,1900,Africa,Sub-Saharan Africa,43,43,18
+Insecta,TD,1910,Africa,Sub-Saharan Africa,2,3,2
+Insecta,TD,1930,Africa,Sub-Saharan Africa,16,16,8
+Insecta,TD,1940,Africa,Sub-Saharan Africa,4,4,3
+Insecta,TD,1950,Africa,Sub-Saharan Africa,32,71,20
+Insecta,TD,1960,Africa,Sub-Saharan Africa,11,12,9
+Insecta,TD,1970,Africa,Sub-Saharan Africa,1407,4246,161
+Insecta,TD,1980,Africa,Sub-Saharan Africa,10,10,7
+Insecta,TD,1990,Africa,Sub-Saharan Africa,47,47,20
+Insecta,TD,2000,Africa,Sub-Saharan Africa,1,1,1
+Insecta,TF,1890,Africa,Sub-Saharan Africa,1,1,1
+Insecta,TF,1900,Africa,Sub-Saharan Africa,1,1,1
+Insecta,TF,1930,Africa,Sub-Saharan Africa,2,2,2
+Insecta,TF,1950,Africa,Sub-Saharan Africa,3,3,2
+Insecta,TF,1960,Africa,Sub-Saharan Africa,1,1,1
+Insecta,TF,1970,Africa,Sub-Saharan Africa,50,50,2
+Insecta,TF,1980,Africa,Sub-Saharan Africa,8,8,2
+Insecta,TF,2000,Africa,Sub-Saharan Africa,19,19,2
+Insecta,TG,1880,Africa,Sub-Saharan Africa,2,2,2
+Insecta,TG,1890,Africa,Sub-Saharan Africa,32,153,17
+Insecta,TG,1910,Africa,Sub-Saharan Africa,5,5,3
+Insecta,TG,1940,Africa,Sub-Saharan Africa,2,2,2
+Insecta,TG,1950,Africa,Sub-Saharan Africa,9,9,7
+Insecta,TG,1960,Africa,Sub-Saharan Africa,18,20,6
+Insecta,TG,1970,Africa,Sub-Saharan Africa,140,152,41
+Insecta,TG,1980,Africa,Sub-Saharan Africa,348,538,72
+Insecta,TG,1990,Africa,Sub-Saharan Africa,124,129,52
+Insecta,TG,2000,Africa,Sub-Saharan Africa,1154,3274,104
+Insecta,TG,2010,Africa,Sub-Saharan Africa,56,83,25
+Insecta,TH,1860,Asia,South-eastern Asia,2,2,2
+Insecta,TH,1870,Asia,South-eastern Asia,7,7,6
+Insecta,TH,1880,Asia,South-eastern Asia,4,4,4
+Insecta,TH,1890,Asia,South-eastern Asia,7,9,4
+Insecta,TH,1900,Asia,South-eastern Asia,23,23,13
+Insecta,TH,1910,Asia,South-eastern Asia,48,48,14
+Insecta,TH,1920,Asia,South-eastern Asia,326,336,83
+Insecta,TH,1930,Asia,South-eastern Asia,424,450,60
+Insecta,TH,1940,Asia,South-eastern Asia,13,26,11
+Insecta,TH,1950,Asia,South-eastern Asia,1080,1742,369
+Insecta,TH,1960,Asia,South-eastern Asia,846,2094,249
+Insecta,TH,1970,Asia,South-eastern Asia,872,930,177
+Insecta,TH,1980,Asia,South-eastern Asia,1443,1779,331
+Insecta,TH,1990,Asia,South-eastern Asia,1545,2514,410
+Insecta,TH,2000,Asia,South-eastern Asia,5574,6237,966
+Insecta,TH,2010,Asia,South-eastern Asia,11186,11250,682
+Insecta,TH,2020,Asia,South-eastern Asia,781,821,96
+Insecta,TJ,1870,Asia,Central Asia,1,1,1
+Insecta,TJ,1880,Asia,Central Asia,1,1,1
+Insecta,TJ,1890,Asia,Central Asia,55,55,20
+Insecta,TJ,1900,Asia,Central Asia,2,2,2
+Insecta,TJ,1910,Asia,Central Asia,13,13,4
+Insecta,TJ,1920,Asia,Central Asia,120,120,6
+Insecta,TJ,1930,Asia,Central Asia,11,11,6
+Insecta,TJ,1940,Asia,Central Asia,6,6,5
+Insecta,TJ,1950,Asia,Central Asia,7,7,6
+Insecta,TJ,1960,Asia,Central Asia,12,14,10
+Insecta,TJ,1970,Asia,Central Asia,42,45,22
+Insecta,TJ,1980,Asia,Central Asia,408,408,95
+Insecta,TJ,1990,Asia,Central Asia,361,361,89
+Insecta,TJ,2000,Asia,Central Asia,47,59,17
+Insecta,TJ,2010,Asia,Central Asia,3,3,2
+Insecta,TK,1960,Oceania,Polynesia,5,5,2
+Insecta,TL,1890,Asia,South-eastern Asia,8,8,7
+Insecta,TL,1910,Asia,South-eastern Asia,16,16,1
+Insecta,TL,1920,Asia,South-eastern Asia,3,3,3
+Insecta,TL,1940,Asia,South-eastern Asia,4,4,2
+Insecta,TL,1950,Asia,South-eastern Asia,1,1,1
+Insecta,TL,1960,Asia,South-eastern Asia,41,46,26
+Insecta,TL,1970,Asia,South-eastern Asia,4,4,1
+Insecta,TL,1980,Asia,South-eastern Asia,1,1,1
+Insecta,TL,1990,Asia,South-eastern Asia,2,2,2
+Insecta,TL,2000,Asia,South-eastern Asia,6,6,3
+Insecta,TM,1880,Asia,Central Asia,2,2,2
+Insecta,TM,1890,Asia,Central Asia,78,86,46
+Insecta,TM,1900,Asia,Central Asia,66,66,35
+Insecta,TM,1910,Asia,Central Asia,2,2,2
+Insecta,TM,1920,Asia,Central Asia,4,4,3
+Insecta,TM,1930,Asia,Central Asia,2,2,2
+Insecta,TM,1940,Asia,Central Asia,1,1,1
+Insecta,TM,1950,Asia,Central Asia,4,4,4
+Insecta,TM,1960,Asia,Central Asia,16,19,9
+Insecta,TM,1970,Asia,Central Asia,7,7,5
+Insecta,TM,1980,Asia,Central Asia,40,41,29
+Insecta,TM,1990,Asia,Central Asia,171,195,50
+Insecta,TM,2000,Asia,Central Asia,6,6,2
+Insecta,TN,1820,Africa,Northern Africa,1,4,1
+Insecta,TN,1850,Africa,Northern Africa,3,3,3
+Insecta,TN,1870,Africa,Northern Africa,3,3,2
+Insecta,TN,1880,Africa,Northern Africa,83,83,33
+Insecta,TN,1890,Africa,Northern Africa,223,240,85
+Insecta,TN,1900,Africa,Northern Africa,31,31,23
+Insecta,TN,1910,Africa,Northern Africa,16,16,11
+Insecta,TN,1920,Africa,Northern Africa,63,87,40
+Insecta,TN,1930,Africa,Northern Africa,10,12,7
+Insecta,TN,1940,Africa,Northern Africa,37,37,20
+Insecta,TN,1950,Africa,Northern Africa,19,24,12
+Insecta,TN,1960,Africa,Northern Africa,87,199,45
+Insecta,TN,1970,Africa,Northern Africa,234,251,53
+Insecta,TN,1980,Africa,Northern Africa,793,796,239
+Insecta,TN,1990,Africa,Northern Africa,67,67,31
+Insecta,TN,2000,Africa,Northern Africa,14,14,7
+Insecta,TN,2010,Africa,Northern Africa,285,351,82
+Insecta,TO,1850,Oceania,Polynesia,3,3,1
+Insecta,TO,1870,Oceania,Polynesia,1,1,1
+Insecta,TO,1890,Oceania,Polynesia,45,45,8
+Insecta,TO,1900,Oceania,Polynesia,1,1,1
+Insecta,TO,1920,Oceania,Polynesia,13,13,4
+Insecta,TO,1930,Oceania,Polynesia,28,28,6
+Insecta,TO,1940,Oceania,Polynesia,1,1,1
+Insecta,TO,1950,Oceania,Polynesia,14,25,3
+Insecta,TO,1960,Oceania,Polynesia,34,34,1
+Insecta,TO,1970,Oceania,Polynesia,74,77,11
+Insecta,TO,1980,Oceania,Polynesia,17,22,15
+Insecta,TO,1990,Oceania,Polynesia,401,1050,23
+Insecta,TO,2000,Oceania,Polynesia,1,1,1
+Insecta,TO,2010,Oceania,Polynesia,28,28,11
+Insecta,TR,1770,Asia,Western Asia,1,1,1
+Insecta,TR,1790,Asia,Western Asia,1,1,1
+Insecta,TR,1810,Asia,Western Asia,1,1,1
+Insecta,TR,1820,Asia,Western Asia,1,1,1
+Insecta,TR,1830,Asia,Western Asia,6,6,6
+Insecta,TR,1840,Asia,Western Asia,55,55,42
+Insecta,TR,1850,Asia,Western Asia,250,250,141
+Insecta,TR,1860,Asia,Western Asia,159,159,103
+Insecta,TR,1870,Asia,Western Asia,363,364,158
+Insecta,TR,1880,Asia,Western Asia,332,335,170
+Insecta,TR,1890,Asia,Western Asia,1806,2056,525
+Insecta,TR,1900,Asia,Western Asia,2239,2240,189
+Insecta,TR,1910,Asia,Western Asia,1097,1097,194
+Insecta,TR,1920,Asia,Western Asia,990,994,177
+Insecta,TR,1930,Asia,Western Asia,951,992,204
+Insecta,TR,1940,Asia,Western Asia,390,419,139
+Insecta,TR,1950,Asia,Western Asia,711,745,216
+Insecta,TR,1960,Asia,Western Asia,2500,2620,296
+Insecta,TR,1970,Asia,Western Asia,8912,8941,370
+Insecta,TR,1980,Asia,Western Asia,28910,28999,599
+Insecta,TR,1990,Asia,Western Asia,10230,10287,674
+Insecta,TR,2000,Asia,Western Asia,1508,1559,232
+Insecta,TR,2010,Asia,Western Asia,68,76,24
+Insecta,TR,2020,Asia,Western Asia,3,3,1
+Insecta,TT,1850,Americas,Latin America and the Caribbean,1,1,1
+Insecta,TT,1860,Americas,Latin America and the Caribbean,1,1,1
+Insecta,TT,1890,Americas,Latin America and the Caribbean,15,15,11
+Insecta,TT,1900,Americas,Latin America and the Caribbean,79,79,35
+Insecta,TT,1910,Americas,Latin America and the Caribbean,647,684,301
+Insecta,TT,1920,Americas,Latin America and the Caribbean,719,740,380
+Insecta,TT,1930,Americas,Latin America and the Caribbean,1336,1405,522
+Insecta,TT,1940,Americas,Latin America and the Caribbean,1110,1191,461
+Insecta,TT,1950,Americas,Latin America and the Caribbean,1340,2477,311
+Insecta,TT,1960,Americas,Latin America and the Caribbean,3089,3192,692
+Insecta,TT,1970,Americas,Latin America and the Caribbean,3490,3630,1062
+Insecta,TT,1980,Americas,Latin America and the Caribbean,3575,3960,1238
+Insecta,TT,1990,Americas,Latin America and the Caribbean,1404,2121,401
+Insecta,TT,2000,Americas,Latin America and the Caribbean,2793,3404,237
+Insecta,TT,2010,Americas,Latin America and the Caribbean,258,258,91
+Insecta,TV,1900,Oceania,Polynesia,1,1,1
+Insecta,TV,1920,Oceania,Polynesia,4,4,1
+Insecta,TW,1840,Asia,Eastern Asia,1,3,1
+Insecta,TW,1860,Asia,Eastern Asia,1,1,1
+Insecta,TW,1880,Asia,Eastern Asia,2,2,1
+Insecta,TW,1900,Asia,Eastern Asia,112,117,52
+Insecta,TW,1910,Asia,Eastern Asia,233,235,150
+Insecta,TW,1920,Asia,Eastern Asia,177,305,165
+Insecta,TW,1930,Asia,Eastern Asia,294,391,227
+Insecta,TW,1940,Asia,Eastern Asia,55,55,41
+Insecta,TW,1950,Asia,Eastern Asia,466,470,147
+Insecta,TW,1960,Asia,Eastern Asia,486,668,290
+Insecta,TW,1970,Asia,Eastern Asia,209,215,88
+Insecta,TW,1980,Asia,Eastern Asia,280,302,150
+Insecta,TW,1990,Asia,Eastern Asia,90,418,40
+Insecta,TW,2000,Asia,Eastern Asia,6225,6225,988
+Insecta,TW,2010,Asia,Eastern Asia,59365,59365,2544
+Insecta,TW,2020,Asia,Eastern Asia,17560,17560,1966
+Insecta,TZ,1840,Africa,Sub-Saharan Africa,1,1,1
+Insecta,TZ,1850,Africa,Sub-Saharan Africa,1,1,1
+Insecta,TZ,1860,Africa,Sub-Saharan Africa,8,8,5
+Insecta,TZ,1870,Africa,Sub-Saharan Africa,13,94,6
+Insecta,TZ,1880,Africa,Sub-Saharan Africa,22,21,14
+Insecta,TZ,1890,Africa,Sub-Saharan Africa,25,58,19
+Insecta,TZ,1900,Africa,Sub-Saharan Africa,167,174,99
+Insecta,TZ,1910,Africa,Sub-Saharan Africa,236,241,119
+Insecta,TZ,1920,Africa,Sub-Saharan Africa,832,864,220
+Insecta,TZ,1930,Africa,Sub-Saharan Africa,286,909,112
+Insecta,TZ,1940,Africa,Sub-Saharan Africa,777,814,199
+Insecta,TZ,1950,Africa,Sub-Saharan Africa,2099,2309,456
+Insecta,TZ,1960,Africa,Sub-Saharan Africa,1440,1568,450
+Insecta,TZ,1970,Africa,Sub-Saharan Africa,1201,2570,392
+Insecta,TZ,1980,Africa,Sub-Saharan Africa,669,671,136
+Insecta,TZ,1990,Africa,Sub-Saharan Africa,593,970,151
+Insecta,TZ,2000,Africa,Sub-Saharan Africa,646,10025,132
+Insecta,TZ,2010,Africa,Sub-Saharan Africa,4197,6090,386
+Insecta,TZ,2020,Africa,Sub-Saharan Africa,1,1,1
+Insecta,UA,1860,Europe,Eastern Europe,21,24,12
+Insecta,UA,1870,Europe,Eastern Europe,1,2,1
+Insecta,UA,1880,Europe,Eastern Europe,119,419,34
+Insecta,UA,1890,Europe,Eastern Europe,75,89,44
+Insecta,UA,1900,Europe,Eastern Europe,1174,1267,295
+Insecta,UA,1910,Europe,Eastern Europe,224,238,87
+Insecta,UA,1920,Europe,Eastern Europe,180,253,98
+Insecta,UA,1930,Europe,Eastern Europe,560,1302,201
+Insecta,UA,1940,Europe,Eastern Europe,12,12,9
+Insecta,UA,1950,Europe,Eastern Europe,26,37,20
+Insecta,UA,1960,Europe,Eastern Europe,66,69,41
+Insecta,UA,1970,Europe,Eastern Europe,11,11,9
+Insecta,UA,1980,Europe,Eastern Europe,48,48,29
+Insecta,UA,1990,Europe,Eastern Europe,362,367,131
+Insecta,UA,2000,Europe,Eastern Europe,4259,4339,264
+Insecta,UA,2010,Europe,Eastern Europe,7487,9735,214
+Insecta,UG,1850,Africa,Sub-Saharan Africa,1,1,1
+Insecta,UG,1890,Africa,Sub-Saharan Africa,13,24,8
+Insecta,UG,1900,Africa,Sub-Saharan Africa,94,98,56
+Insecta,UG,1910,Africa,Sub-Saharan Africa,316,359,161
+Insecta,UG,1920,Africa,Sub-Saharan Africa,271,282,154
+Insecta,UG,1930,Africa,Sub-Saharan Africa,2746,2966,330
+Insecta,UG,1940,Africa,Sub-Saharan Africa,1637,1710,334
+Insecta,UG,1950,Africa,Sub-Saharan Africa,5351,6329,791
+Insecta,UG,1960,Africa,Sub-Saharan Africa,1868,1962,596
+Insecta,UG,1970,Africa,Sub-Saharan Africa,1670,1783,292
+Insecta,UG,1980,Africa,Sub-Saharan Africa,1180,1180,115
+Insecta,UG,1990,Africa,Sub-Saharan Africa,464,603,133
+Insecta,UG,2000,Africa,Sub-Saharan Africa,166,29078,94
+Insecta,UG,2010,Africa,Sub-Saharan Africa,2444,2543,174
+Insecta,UM,1920,Oceania,Micronesia,3,3,3
+Insecta,UM,1940,Oceania,Micronesia,4,20,3
+Insecta,UM,1950,Oceania,Micronesia,11,11,7
+Insecta,UM,1960,Oceania,Micronesia,57,194,19
+Insecta,UM,1970,Oceania,Micronesia,13,13,9
+Insecta,UM,1980,Oceania,Micronesia,1,1,1
+Insecta,US,1640,Americas,Northern America,1,1,1
+Insecta,US,1660,Americas,Northern America,1,1,1
+Insecta,US,1690,Americas,Northern America,2,2,2
+Insecta,US,1700,Americas,Northern America,145,204,64
+Insecta,US,1710,Americas,Northern America,1,1,1
+Insecta,US,1750,Americas,Northern America,1,1,1
+Insecta,US,1770,Americas,Northern America,9,9,5
+Insecta,US,1780,Americas,Northern America,1,1,1
+Insecta,US,1790,Americas,Northern America,15,15,13
+Insecta,US,1800,Americas,Northern America,132,135,12
+Insecta,US,1810,Americas,Northern America,7,7,6
+Insecta,US,1820,Americas,Northern America,51,73,28
+Insecta,US,1830,Americas,Northern America,24,24,18
+Insecta,US,1840,Americas,Northern America,71,71,22
+Insecta,US,1850,Americas,Northern America,706,780,145
+Insecta,US,1860,Americas,Northern America,504,525,262
+Insecta,US,1870,Americas,Northern America,1887,1974,778
+Insecta,US,1880,Americas,Northern America,3960,4348,1237
+Insecta,US,1890,Americas,Northern America,15964,18341,4465
+Insecta,US,1900,Americas,Northern America,37061,49238,7539
+Insecta,US,1910,Americas,Northern America,60564,73766,9518
+Insecta,US,1920,Americas,Northern America,71634,77371,10170
+Insecta,US,1930,Americas,Northern America,146308,200577,13216
+Insecta,US,1940,Americas,Northern America,136019,240515,12811
+Insecta,US,1950,Americas,Northern America,220338,304258,14788
+Insecta,US,1960,Americas,Northern America,301861,383368,16359
+Insecta,US,1970,Americas,Northern America,302262,752205,15919
+Insecta,US,1980,Americas,Northern America,213907,420819,13836
+Insecta,US,1990,Americas,Northern America,294402,541582,14384
+Insecta,US,2000,Americas,Northern America,434997,769113,16264
+Insecta,US,2010,Americas,Northern America,327353,457224,12124
+Insecta,US,2020,Americas,Northern America,22407,27595,2382
+Insecta,UY,1820,Americas,Latin America and the Caribbean,6,6,6
+Insecta,UY,1830,Americas,Latin America and the Caribbean,9,9,6
+Insecta,UY,1850,Americas,Latin America and the Caribbean,1,1,1
+Insecta,UY,1860,Americas,Latin America and the Caribbean,2,2,2
+Insecta,UY,1890,Americas,Latin America and the Caribbean,5,5,2
+Insecta,UY,1900,Americas,Latin America and the Caribbean,2,2,2
+Insecta,UY,1910,Americas,Latin America and the Caribbean,5,5,2
+Insecta,UY,1920,Americas,Latin America and the Caribbean,6,6,5
+Insecta,UY,1930,Americas,Latin America and the Caribbean,32,32,10
+Insecta,UY,1940,Americas,Latin America and the Caribbean,49,51,31
+Insecta,UY,1950,Americas,Latin America and the Caribbean,149,167,78
+Insecta,UY,1960,Americas,Latin America and the Caribbean,62,74,39
+Insecta,UY,1970,Americas,Latin America and the Caribbean,56,163,24
+Insecta,UY,1980,Americas,Latin America and the Caribbean,11,14,5
+Insecta,UY,1990,Americas,Latin America and the Caribbean,3,3,3
+Insecta,UY,2000,Americas,Latin America and the Caribbean,23,24,8
+Insecta,UY,2010,Americas,Latin America and the Caribbean,72,72,28
+Insecta,UZ,1830,Asia,Central Asia,1,2,1
+Insecta,UZ,1870,Asia,Central Asia,1,1,1
+Insecta,UZ,1880,Asia,Central Asia,22,58,19
+Insecta,UZ,1890,Asia,Central Asia,59,72,41
+Insecta,UZ,1900,Asia,Central Asia,28,28,16
+Insecta,UZ,1910,Asia,Central Asia,4,4,4
+Insecta,UZ,1920,Asia,Central Asia,8,8,5
+Insecta,UZ,1930,Asia,Central Asia,3,3,2
+Insecta,UZ,1950,Asia,Central Asia,48,118,9
+Insecta,UZ,1960,Asia,Central Asia,25,25,13
+Insecta,UZ,1970,Asia,Central Asia,14,14,10
+Insecta,UZ,1980,Asia,Central Asia,212,212,65
+Insecta,UZ,1990,Asia,Central Asia,59,59,18
+Insecta,UZ,2000,Asia,Central Asia,12,12,8
+Insecta,VC,1700,Americas,Latin America and the Caribbean,1,1,1
+Insecta,VC,1900,Americas,Latin America and the Caribbean,3,3,1
+Insecta,VC,1910,Americas,Latin America and the Caribbean,8,8,8
+Insecta,VC,1920,Americas,Latin America and the Caribbean,1,1,1
+Insecta,VC,1930,Americas,Latin America and the Caribbean,35,37,11
+Insecta,VC,1940,Americas,Latin America and the Caribbean,2,2,2
+Insecta,VC,1950,Americas,Latin America and the Caribbean,16,16,6
+Insecta,VC,1960,Americas,Latin America and the Caribbean,20,20,5
+Insecta,VC,1970,Americas,Latin America and the Caribbean,25,25,11
+Insecta,VC,1980,Americas,Latin America and the Caribbean,1,1,1
+Insecta,VC,1990,Americas,Latin America and the Caribbean,47,47,6
+Insecta,VC,2000,Americas,Latin America and the Caribbean,561,725,37
+Insecta,VC,2010,Americas,Latin America and the Caribbean,6,6,2
+Insecta,VE,1690,Americas,Latin America and the Caribbean,2,2,2
+Insecta,VE,1800,Americas,Latin America and the Caribbean,1,1,1
+Insecta,VE,1830,Americas,Latin America and the Caribbean,8,8,2
+Insecta,VE,1850,Americas,Latin America and the Caribbean,4,4,4
+Insecta,VE,1870,Americas,Latin America and the Caribbean,4,11,2
+Insecta,VE,1880,Americas,Latin America and the Caribbean,22,27,19
+Insecta,VE,1890,Americas,Latin America and the Caribbean,335,424,190
+Insecta,VE,1900,Americas,Latin America and the Caribbean,414,421,225
+Insecta,VE,1910,Americas,Latin America and the Caribbean,403,408,111
+Insecta,VE,1920,Americas,Latin America and the Caribbean,217,327,109
+Insecta,VE,1930,Americas,Latin America and the Caribbean,448,475,161
+Insecta,VE,1940,Americas,Latin America and the Caribbean,1273,1287,292
+Insecta,VE,1950,Americas,Latin America and the Caribbean,2607,2711,329
+Insecta,VE,1960,Americas,Latin America and the Caribbean,20434,47723,754
+Insecta,VE,1970,Americas,Latin America and the Caribbean,6163,6627,944
+Insecta,VE,1980,Americas,Latin America and the Caribbean,3487,4063,825
+Insecta,VE,1990,Americas,Latin America and the Caribbean,4484,6931,358
+Insecta,VE,2000,Americas,Latin America and the Caribbean,3546,4745,236
+Insecta,VE,2010,Americas,Latin America and the Caribbean,903,1281,95
+Insecta,VG,1900,Americas,Latin America and the Caribbean,1,1,1
+Insecta,VG,1910,Americas,Latin America and the Caribbean,2,2,1
+Insecta,VG,1920,Americas,Latin America and the Caribbean,2,2,2
+Insecta,VG,1940,Americas,Latin America and the Caribbean,1,1,1
+Insecta,VG,1950,Americas,Latin America and the Caribbean,141,141,35
+Insecta,VG,1960,Americas,Latin America and the Caribbean,1,1,1
+Insecta,VG,1970,Americas,Latin America and the Caribbean,103,103,35
+Insecta,VG,1980,Americas,Latin America and the Caribbean,144,144,19
+Insecta,VG,1990,Americas,Latin America and the Caribbean,52,52,23
+Insecta,VG,2000,Americas,Latin America and the Caribbean,241,246,37
+Insecta,VI,1840,Americas,Latin America and the Caribbean,5,5,4
+Insecta,VI,1900,Americas,Latin America and the Caribbean,1,1,1
+Insecta,VI,1910,Americas,Latin America and the Caribbean,27,28,20
+Insecta,VI,1920,Americas,Latin America and the Caribbean,6,9,4
+Insecta,VI,1930,Americas,Latin America and the Caribbean,10,10,10
+Insecta,VI,1940,Americas,Latin America and the Caribbean,48,50,23
+Insecta,VI,1950,Americas,Latin America and the Caribbean,98,104,38
+Insecta,VI,1960,Americas,Latin America and the Caribbean,75,75,21
+Insecta,VI,1970,Americas,Latin America and the Caribbean,180,182,63
+Insecta,VI,1980,Americas,Latin America and the Caribbean,373,373,103
+Insecta,VI,1990,Americas,Latin America and the Caribbean,37,37,19
+Insecta,VI,2000,Americas,Latin America and the Caribbean,1270,1328,45
+Insecta,VI,2010,Americas,Latin America and the Caribbean,71,71,23
+Insecta,VN,1830,Asia,South-eastern Asia,1,1,1
+Insecta,VN,1840,Asia,South-eastern Asia,1,1,1
+Insecta,VN,1860,Asia,South-eastern Asia,3,3,2
+Insecta,VN,1870,Asia,South-eastern Asia,6,6,5
+Insecta,VN,1880,Asia,South-eastern Asia,1,1,1
+Insecta,VN,1890,Asia,South-eastern Asia,26,26,24
+Insecta,VN,1900,Asia,South-eastern Asia,53,222,34
+Insecta,VN,1910,Asia,South-eastern Asia,70,78,50
+Insecta,VN,1920,Asia,South-eastern Asia,94,130,53
+Insecta,VN,1930,Asia,South-eastern Asia,115,121,56
+Insecta,VN,1940,Asia,South-eastern Asia,24,24,9
+Insecta,VN,1950,Asia,South-eastern Asia,7,7,6
+Insecta,VN,1960,Asia,South-eastern Asia,356,367,126
+Insecta,VN,1970,Asia,South-eastern Asia,20,20,16
+Insecta,VN,1980,Asia,South-eastern Asia,15,15,10
+Insecta,VN,1990,Asia,South-eastern Asia,226,277,85
+Insecta,VN,2000,Asia,South-eastern Asia,300,490,215
+Insecta,VN,2010,Asia,South-eastern Asia,324,339,181
+Insecta,VN,2020,Asia,South-eastern Asia,5,5,2
+Insecta,VU,1890,Oceania,Melanesia,4,4,3
+Insecta,VU,1900,Oceania,Melanesia,5,5,5
+Insecta,VU,1910,Oceania,Melanesia,9,9,3
+Insecta,VU,1920,Oceania,Melanesia,27,28,12
+Insecta,VU,1930,Oceania,Melanesia,113,115,25
+Insecta,VU,1940,Oceania,Melanesia,272,305,21
+Insecta,VU,1950,Oceania,Melanesia,32,113,13
+Insecta,VU,1960,Oceania,Melanesia,18,34,11
+Insecta,VU,1970,Oceania,Melanesia,129,139,44
+Insecta,VU,1980,Oceania,Melanesia,154,158,28
+Insecta,VU,1990,Oceania,Melanesia,53,60,6
+Insecta,VU,2000,Oceania,Melanesia,796,837,45
+Insecta,VU,2010,Oceania,Melanesia,1,2,1
+Insecta,WF,1900,Oceania,Polynesia,1,1,1
+Insecta,WF,1960,Oceania,Polynesia,18,48,4
+Insecta,WF,1970,Oceania,Polynesia,1,9,1
+Insecta,WS,1890,Oceania,Polynesia,21,21,3
+Insecta,WS,1900,Oceania,Polynesia,1,1,1
+Insecta,WS,1910,Oceania,Polynesia,1,1,1
+Insecta,WS,1920,Oceania,Polynesia,98,99,23
+Insecta,WS,1930,Oceania,Polynesia,1,1,1
+Insecta,WS,1940,Oceania,Polynesia,34,80,8
+Insecta,WS,1950,Oceania,Polynesia,37,68,12
+Insecta,WS,1960,Oceania,Polynesia,113,195,27
+Insecta,WS,1970,Oceania,Polynesia,6,6,6
+Insecta,WS,1980,Oceania,Polynesia,10,10,8
+Insecta,WS,1990,Oceania,Polynesia,351,902,24
+Insecta,YE,1890,Asia,Western Asia,30,34,11
+Insecta,YE,1910,Asia,Western Asia,1,1,1
+Insecta,YE,1920,Asia,Western Asia,1,1,1
+Insecta,YE,1930,Asia,Western Asia,137,146,21
+Insecta,YE,1950,Asia,Western Asia,118,161,33
+Insecta,YE,1960,Asia,Western Asia,11,11,7
+Insecta,YE,1970,Asia,Western Asia,20,23,10
+Insecta,YE,1980,Asia,Western Asia,13,17,3
+Insecta,YE,1990,Asia,Western Asia,72,76,30
+Insecta,YE,2000,Asia,Western Asia,70,78,51
+Insecta,YE,2010,Asia,Western Asia,23,39,11
+Insecta,YT,1880,Africa,Sub-Saharan Africa,3,3,3
+Insecta,YT,1950,Africa,Sub-Saharan Africa,9,9,4
+Insecta,YT,1960,Africa,Sub-Saharan Africa,2,2,1
+Insecta,YT,1970,Africa,Sub-Saharan Africa,3,13,2
+Insecta,YT,1980,Africa,Sub-Saharan Africa,95,95,18
+Insecta,YT,1990,Africa,Sub-Saharan Africa,1,1,1
+Insecta,YT,2000,Africa,Sub-Saharan Africa,16,17,5
+Insecta,YT,2010,Africa,Sub-Saharan Africa,15,68,7
+Insecta,ZA,1700,Africa,Sub-Saharan Africa,2,2,2
+Insecta,ZA,1810,Africa,Sub-Saharan Africa,6,6,2
+Insecta,ZA,1820,Africa,Sub-Saharan Africa,25,26,17
+Insecta,ZA,1830,Africa,Sub-Saharan Africa,18,21,14
+Insecta,ZA,1840,Africa,Sub-Saharan Africa,7,7,6
+Insecta,ZA,1850,Africa,Sub-Saharan Africa,14,14,11
+Insecta,ZA,1860,Africa,Sub-Saharan Africa,69,77,47
+Insecta,ZA,1870,Africa,Sub-Saharan Africa,354,453,183
+Insecta,ZA,1880,Africa,Sub-Saharan Africa,541,692,273
+Insecta,ZA,1890,Africa,Sub-Saharan Africa,1460,1823,426
+Insecta,ZA,1900,Africa,Sub-Saharan Africa,3928,4639,636
+Insecta,ZA,1910,Africa,Sub-Saharan Africa,5608,6116,706
+Insecta,ZA,1920,Africa,Sub-Saharan Africa,5880,6879,831
+Insecta,ZA,1930,Africa,Sub-Saharan Africa,5772,8072,775
+Insecta,ZA,1940,Africa,Sub-Saharan Africa,10619,13995,828
+Insecta,ZA,1950,Africa,Sub-Saharan Africa,14095,17174,1196
+Insecta,ZA,1960,Africa,Sub-Saharan Africa,13932,18242,1131
+Insecta,ZA,1970,Africa,Sub-Saharan Africa,34398,69172,1325
+Insecta,ZA,1980,Africa,Sub-Saharan Africa,14594,29244,1162
+Insecta,ZA,1990,Africa,Sub-Saharan Africa,7607,21383,950
+Insecta,ZA,2000,Africa,Sub-Saharan Africa,8806,48949,914
+Insecta,ZA,2010,Africa,Sub-Saharan Africa,3863,10134,593
+Insecta,ZA,2020,Africa,Sub-Saharan Africa,72,74,7
+Insecta,ZM,1900,Africa,Sub-Saharan Africa,5,5,5
+Insecta,ZM,1910,Africa,Sub-Saharan Africa,158,222,57
+Insecta,ZM,1920,Africa,Sub-Saharan Africa,3,3,1
+Insecta,ZM,1930,Africa,Sub-Saharan Africa,19,22,13
+Insecta,ZM,1940,Africa,Sub-Saharan Africa,134,135,88
+Insecta,ZM,1950,Africa,Sub-Saharan Africa,385,388,158
+Insecta,ZM,1960,Africa,Sub-Saharan Africa,272,283,113
+Insecta,ZM,1970,Africa,Sub-Saharan Africa,423,475,95
+Insecta,ZM,1980,Africa,Sub-Saharan Africa,519,546,94
+Insecta,ZM,1990,Africa,Sub-Saharan Africa,523,523,32
+Insecta,ZM,2000,Africa,Sub-Saharan Africa,131,529,93
+Insecta,ZM,2010,Africa,Sub-Saharan Africa,2214,3017,491
+Insecta,ZW,1870,Africa,Sub-Saharan Africa,1,1,1
+Insecta,ZW,1890,Africa,Sub-Saharan Africa,48,100,35
+Insecta,ZW,1900,Africa,Sub-Saharan Africa,103,156,73
+Insecta,ZW,1910,Africa,Sub-Saharan Africa,189,231,99
+Insecta,ZW,1920,Africa,Sub-Saharan Africa,256,281,138
+Insecta,ZW,1930,Africa,Sub-Saharan Africa,453,600,150
+Insecta,ZW,1940,Africa,Sub-Saharan Africa,516,555,216
+Insecta,ZW,1950,Africa,Sub-Saharan Africa,631,693,255
+Insecta,ZW,1960,Africa,Sub-Saharan Africa,789,918,235
+Insecta,ZW,1970,Africa,Sub-Saharan Africa,2562,6869,268
+Insecta,ZW,1980,Africa,Sub-Saharan Africa,316,526,121
+Insecta,ZW,1990,Africa,Sub-Saharan Africa,215,264,94
+Insecta,ZW,2000,Africa,Sub-Saharan Africa,69,205,42
+Insecta,ZW,2010,Africa,Sub-Saharan Africa,18,30,11
