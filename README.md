@@ -25,7 +25,7 @@ The exercises are shared between two mains sections:
 
 Soluces to exercises are given as raw files (notebooks and SQL that can be imported and run within MS Azure/Jupyter Lab) and HTML.
 
-License : CC-By
+
   
  ***
 
