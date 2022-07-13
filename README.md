@@ -27,7 +27,7 @@ The exercises are shared between two mains sections:
    * SQL exercises
    * requires MS Azure accounts
    
-Each section also include a a hands-on exercise on (RawGraph)[https://app.rawgraphs.io/]. Results are available based on an export of the class Insecta.
+Each section also include a a hands-on exercise on [RawGraph](https://app.rawgraphs.io/). Results are available based on an export of the class Insecta.
 
 
 Soluces to exercises are given as raw files (notebooks and SQL that can be imported and run within MS Azure/Jupyter Lab) and HTML.
