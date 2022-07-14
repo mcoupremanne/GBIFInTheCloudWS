@@ -1,4 +1,4 @@
-# GBIF In The Cloud Workshop 
+# GBIF In The Cloud Workshop
 
 *Materials from the GBIF in the Cloud worksop (2022-06-29, Belgian Biodiversity Platform)*
 
@@ -7,32 +7,15 @@ During this workshop, we explore different tools to manipulate GBIF data at diff
 
 **The structure of this rep is the following:**
 
-* **Data:**
+* **Data** :contains raw data used for the exercises (some can be downloaded from GBIF)
 
-countains raw data used for the exercises (some can be downloaded from GBIF)
+* **Presentations** : contains presentation materials
 
-* **Presentations:**
+* **Exercises**: The exercises of the workshop in two parts: **Small Data** and  **Big Data**
+    * Instructions
+    * Solutions
 
-countains presentation materials
-
-* **Exercises:**
-
-The exercises are shared between two mains sections:
-
- * **Small Data Section**
-   * Limited amount of records (28.000)
-   * Python Pandas exercises
- * **Big Data section**
-   * Based on the full GBIF snapshot on Azure Databricks (>2 billions records)
-   * SQL exercises
-   * requires MS Azure accounts
+* **Outputs**: Examplary diagrams to be produced at the end of the workshop.
 
 
-Soluces to exercises are given as raw files (notebooks and SQL that can be imported and run within MS Azure/Jupyter Lab) and HTML.
-
-
-  
- ***
-
- 
-
+---
