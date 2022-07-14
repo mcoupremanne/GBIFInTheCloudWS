@@ -15,7 +15,7 @@ During this workshop, we explore different tools to manipulate GBIF data at diff
     * Instructions
     * Solutions
 
-* **Outputs**: Examplary diagrams to be produced at the end of the workshop.
+* **Outputs**: Examplary diagrams produced at the end of the workshop + workshop evaluation.
 
 
 ---
